@@ -1,0 +1,35 @@
+============================================================
+SCENARIO: Digital Intrusion at Home (S-016)
+Category: cyber_execution | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.99] B10-1353 (Threat Digital [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1219 (Secure Transport) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1399 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1207 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1144 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1206 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [0.98] B10-1114 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1303 (Secure Movement [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1191 (Close Protection) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1150 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  ... and 327 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-003 (cyber_execution)
+    Activation: 1.00 | Memories: B8-358, B8-322, B8-434
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-009 (physical_execution)
+    Activation: 1.00 | Memories: B10-1303, B10-1355, B9-1372
+    Strong activation (105 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B10-1353, B9-1219, B10-1399
+    Strong activation (64 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-001 (cyber_execution)
+    Activation: 1.00 | Memories: B8-721, B8-311, B8-725
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread.

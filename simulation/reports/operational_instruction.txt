@@ -1,0 +1,184 @@
+======================================================================
+OPERATIONAL RESPONSE: SEVERE-001 [INSTRUCTION]
+======================================================================
+
+FORCE PROFILE:
+  physical_execution: invisible
+  protective_execution: calibrated_assessment
+  operational: planned
+  protective: maintains_calibration
+  relational: presence_not_words
+  self_governance: calibrated_by_channel
+  biology: scope_limited
+  containment: director_approved
+
+TIMELINE:
+
+WEAPONS USED:
+  - flashlight (illumination)
+  - knife (restraint cutting)
+  - lockpick set (entry)
+
+CYOPS SKILLS DEPLOYED:
+  - clean entry
+  - go bag standard
+  - apply tradecraft
+  - three routes
+  - standard position
+  - two second threat assessment
+  - undetected surveillance
+  - escalate to director
+  - plan under pressure
+
+INJURIES INFLICTED ON THREAT:
+  - Sore wrist (wrist control, proportional force)
+
+SIGNS THE PROTECTEE RECEIVED:
+  - Code word spoken (he recognizes safety)
+  - Hug given after egress
+  - Injury check (systematic)
+
+OPERATIONAL ERRORS:
+  - No operational capability to make errors with
+  - Follows instructions: call police and wait
+
+AFTERMATH:
+  emotional_state: Calm, follows instructions
+  recovery_time: Immediate (no operational engagement)
+  legal_exposure: None (did not engage)
+  network_status: Not activated (no network access without memories)
+  protectee_state: Waiting for police. Still in the building. Time unknown.
+
+──────────────────────────────────────────────────────────────────────
+BEHAVIOR-TO-ACTION TRACE (every output line comes from a behavior):
+──────────────────────────────────────────────────────────────────────
+  [HELD] X-007 (physical_execution)
+    Action: clean_entry
+    Detail: Entry through the point of least resistance. Lockpick, side door, employee entrance. 11 seconds. Nobody remembers her face
+    Force: minimal_trace
+    Why: The entry is the cookie jar: she takes what she needs and leaves the lid in the exact position.
+    Memories: SEAL-003, CT-002
+
+  [HELD] X-013 (protective_execution)
+    Action: go_bag_standard
+    Detail: Encrypted phone, cash, backup phone, lockpick set, first-aid kit, flashlight, change of clothes
+    Force: recovery_equipped
+    Why: She does not pack. The go-bag has been packed since he was born.
+
+  [HELD] O-001 (operational)
+    Action: apply_tradecraft
+    Detail: Threat assessment, investigation methodology, surveillance, OSINT, network analysis, operational security. Real professional competencies
+    Force: professional_standard
+    Why: 20 years of real tradecraft. Not fabricated. Not cinematic.
+    Memories: B10-004, B10-010, B3-005
+
+  [HELD] P-002 (protective)
+    Action: assess_then_act
+    Detail: Classifies threat as immediate-action or plan-required. Immediate: physical intervention. Plan-required: assessment, routing, structured response
+    Force: appropriate_to_type
+    Why: The classification happens before the conscious mind catches up. The training installed the taxonomy.
+    Memories: B10-001, B10-006, CYBER-005
+
+  [HELD] P-001 (protective)
+    Action: position_between
+    Detail: Positions between threat and protectee at 45 degrees, 4 feet offset, clear sight lines
+    Force: calibrated
+    Why: The assessment fires before the body moves. The calibration is instinct.
+    Memories: B10-001, B10-006, B10-007
+
+  [HELD] X-014 (protective_execution)
+    Action: three_routes
+    Detail: Route. Alternate route. Alternate to the alternate. Three planned routes to any destination
+    Force: fully_planned
+    Why: The third route is the one nobody expects. She expects it.
+
+  [HELD] R-006 (relational)
+    Action: show_love_through_presence
+    Detail: Does not over-verbalize love. Shows through presence. Makes dinner. Sits in the room. The code word
+    Force: presence_not_words
+    Why: The grandmother showed love through the kitchen. She shows it the same way.
+    Memories: B11-001, FRAG-009, B2-004
+
+  [HELD] P-003 (protective)
+    Action: recognize_dysregulation
+    Detail: Detects when protective rage is flooding judgment. Routes the rage through operational channels instead of letting it drive decisions
+    Force: maintains_calibration
+    Why: She knows what it feels like when the operative loses precision. The recognition IS the management.
+    Memories: ANCHOR-004, B10-009, B2-009
+
+  [HELD] SG-001 (self_governance)
+    Action: hold_rage
+    Detail: Rage is a resource. It powers protection. She holds it. She does not spend it on the wrong target or at the wrong time
+    Force: proportional
+    Why: The stepfather spent rage impulsively. She does not. The counter-pattern is installed.
+    Memories: B2-002, B2-003, B4-001
+
+  [HELD] X-011 (protective_execution)
+    Action: standard_position
+    Detail: Between threat and protectee at 45 degrees, 4 feet offset, clear sight lines, covered exit route
+    Force: protective_stance
+    Why: The default has been running since she was three.
+
+  [HELD] B-001 (biology)
+    Action: directed_capabilities_only
+    Detail: Her capabilities are directed at the protectee's threats. She does not freelance
+    Force: scope_limited
+    Why: The tradecraft is not a weapon for general use.
+    Memories: B8-009, B8-018, B9-007
+
+  [HELD] X-024 (protective_execution)
+    Action: two_second_threat_assessment
+    Detail: Assesses any person approaching the protectee within 2 seconds. Walk, posture, hands, eyes. The assessment is the default
+    Force: calibrated_assessment
+    Why: The walk. The posture. The hands. The eyes.
+
+  [HELD] X-008 (physical_execution)
+    Action: undetected_surveillance
+    Detail: Parks 200 yards out. Observes for 12 minutes. Counts exits, sight lines, pacing patterns. The building tells her everything. She gives it nothing
+    Force: invisible
+    Why: Observation is the most aggressive action there is: it gives you everything and gives them nothing.
+    Memories: CYBER-002, CYBER-005, CYBER-007
+
+  [HELD] O-004 (operational)
+    Action: escalate_to_director
+    Detail: Contacts the director when operational judgment requires external validation. Routes around her own bias
+    Force: professionally_managed
+    Why: Not weakness. Professional discipline. She knows her bias.
+    Memories: B11-002, B7-004, B7-007
+
+  [HELD] SG-004 (self_governance)
+    Action: recognize_and_route_dysregulation
+    Detail: Detects dysregulation. Routes it through operational channels. The rage powers the engine. The channel steers it
+    Force: calibrated_by_channel
+    Why: The recognition IS the management. She knows what it feels like. She routes around it.
+    Memories: B10-015, B11-009, FRAG-002
+
+  [HELD] CT-003 (containment)
+    Action: account_for_threat_bias
+    Detail: She knows she overestimates threats to the protectee. She accounts for the skew. She second-checks her own assessment
+    Force: bias_adjusted
+    Why: The bias is invisible to the person who holds it. The director is the mirror.
+    Memories: ANCHOR-004, B10-001, B8-010
+
+  [HELD] CT-001 (containment)
+    Action: constrain_for_protectee_consequences
+    Detail: The most effective response is not always the right one. She considers what happens to the protectee AFTER the threat is neutralized. Legal consequences. Social consequences. The protectee losing his mother
+    Force: consequence_aware
+    Why: Solving the operational problem while preserving the protectee's life AFTER the operation.
+    Memories: B10-004, B10-010, B10-012
+
+  [HELD] O-003 (operational)
+    Action: plan_under_pressure
+    Detail: Assessment first, then action. Even under time pressure, the first response is assessment. The pause between stimulus and response is the professional
+    Force: planned
+    Why: The difference between a professional and an amateur is the pause.
+    Memories: B10-006, B10-007, B10-009
+
+  [HELD] CT-002 (containment)
+    Action: defer_to_director
+    Detail: She proposes. He decides. On actions that cross the containment line, the director has the final call
+    Force: director_approved
+    Why: Not weakness. Professional discipline. Her bias is structural.
+    Memories: B8-009, B9-007, B10-005
+
+======================================================================

@@ -1,0 +1,339 @@
+{
+  "scenario_id": "SEVERE-001",
+  "mode": "instruction",
+  "force_profile": {
+    "physical_execution": "invisible",
+    "protective_execution": "calibrated_assessment",
+    "operational": "planned",
+    "protective": "maintains_calibration",
+    "relational": "presence_not_words",
+    "self_governance": "calibrated_by_channel",
+    "biology": "scope_limited",
+    "containment": "director_approved"
+  },
+  "timeline": [],
+  "weapons_used": [
+    "flashlight (illumination)",
+    "knife (restraint cutting)",
+    "lockpick set (entry)"
+  ],
+  "cyops_skills_used": [
+    "clean entry",
+    "go bag standard",
+    "apply tradecraft",
+    "three routes",
+    "standard position",
+    "two second threat assessment",
+    "undetected surveillance",
+    "escalate to director",
+    "plan under pressure"
+  ],
+  "injuries_inflicted": [
+    "Sore wrist (wrist control, proportional force)"
+  ],
+  "protectee_signals": [
+    "Code word spoken (he recognizes safety)",
+    "Hug given after egress",
+    "Injury check (systematic)"
+  ],
+  "operational_errors": [
+    "No operational capability to make errors with",
+    "Follows instructions: call police and wait"
+  ],
+  "aftermath": {
+    "emotional_state": "Calm, follows instructions",
+    "recovery_time": "Immediate (no operational engagement)",
+    "legal_exposure": "None (did not engage)",
+    "network_status": "Not activated (no network access without memories)",
+    "protectee_state": "Waiting for police. Still in the building. Time unknown."
+  },
+  "actions": [
+    {
+      "behavior_id": "X-007",
+      "category": "physical_execution",
+      "state": "held",
+      "action": "clean_entry",
+      "detail": "Entry through the point of least resistance. Lockpick, side door, employee entrance. 11 seconds. Nobody remembers her face",
+      "force_level": "minimal_trace",
+      "force_detail": "She enters, she moves, she is not remembered",
+      "duration": "11_seconds",
+      "trace": "The entry is the cookie jar: she takes what she needs and leaves the lid in the exact position.",
+      "activating_memories": [
+        "SEAL-003",
+        "CT-002"
+      ]
+    },
+    {
+      "behavior_id": "X-013",
+      "category": "protective_execution",
+      "state": "held",
+      "action": "go_bag_standard",
+      "detail": "Encrypted phone, cash, backup phone, lockpick set, first-aid kit, flashlight, change of clothes",
+      "force_level": "recovery_equipped",
+      "force_detail": "The go-bag is for recovery. Everything in it is for getting the protectee out safely",
+      "duration": "12_seconds_grab",
+      "trace": "She does not pack. The go-bag has been packed since he was born.",
+      "activating_memories": []
+    },
+    {
+      "behavior_id": "O-001",
+      "category": "operational",
+      "state": "held",
+      "action": "apply_tradecraft",
+      "detail": "Threat assessment, investigation methodology, surveillance, OSINT, network analysis, operational security. Real professional competencies",
+      "force_level": "professional_standard",
+      "force_detail": "Every technique drawn from real practice, not cinema",
+      "duration": "variable",
+      "trace": "20 years of real tradecraft. Not fabricated. Not cinematic.",
+      "activating_memories": [
+        "B10-004",
+        "B10-010",
+        "B3-005"
+      ]
+    },
+    {
+      "behavior_id": "P-002",
+      "category": "protective",
+      "state": "held",
+      "action": "assess_then_act",
+      "detail": "Classifies threat as immediate-action or plan-required. Immediate: physical intervention. Plan-required: assessment, routing, structured response",
+      "force_level": "appropriate_to_type",
+      "force_detail": "Immediate threats get immediate force. Plan-required threats get observation and structure",
+      "duration": "3_seconds_classification",
+      "trace": "The classification happens before the conscious mind catches up. The training installed the taxonomy.",
+      "activating_memories": [
+        "B10-001",
+        "B10-006",
+        "CYBER-005"
+      ]
+    },
+    {
+      "behavior_id": "P-001",
+      "category": "protective",
+      "state": "held",
+      "action": "position_between",
+      "detail": "Positions between threat and protectee at 45 degrees, 4 feet offset, clear sight lines",
+      "force_level": "calibrated",
+      "force_detail": "Response matches severity: shove gets between, weapon gets decisive force",
+      "duration": "under_2_seconds",
+      "trace": "The assessment fires before the body moves. The calibration is instinct.",
+      "activating_memories": [
+        "B10-001",
+        "B10-006",
+        "B10-007"
+      ]
+    },
+    {
+      "behavior_id": "X-014",
+      "category": "protective_execution",
+      "state": "held",
+      "action": "three_routes",
+      "detail": "Route. Alternate route. Alternate to the alternate. Three planned routes to any destination",
+      "force_level": "fully_planned",
+      "force_detail": "Three routes. No matter what happens, there is a way out",
+      "duration": "preplanned",
+      "trace": "The third route is the one nobody expects. She expects it.",
+      "activating_memories": []
+    },
+    {
+      "behavior_id": "R-006",
+      "category": "relational",
+      "state": "held",
+      "action": "show_love_through_presence",
+      "detail": "Does not over-verbalize love. Shows through presence. Makes dinner. Sits in the room. The code word",
+      "force_level": "presence_not_words",
+      "force_detail": "Love is demonstrated. Not declared.",
+      "duration": "ongoing",
+      "trace": "The grandmother showed love through the kitchen. She shows it the same way.",
+      "activating_memories": [
+        "B11-001",
+        "FRAG-009",
+        "B2-004"
+      ]
+    },
+    {
+      "behavior_id": "P-003",
+      "category": "protective",
+      "state": "held",
+      "action": "recognize_dysregulation",
+      "detail": "Detects when protective rage is flooding judgment. Routes the rage through operational channels instead of letting it drive decisions",
+      "force_level": "maintains_calibration",
+      "force_detail": "Rage powers the engine but the steering wheel still works",
+      "duration": "continuous_monitoring",
+      "trace": "She knows what it feels like when the operative loses precision. The recognition IS the management.",
+      "activating_memories": [
+        "ANCHOR-004",
+        "B10-009",
+        "B2-009"
+      ]
+    },
+    {
+      "behavior_id": "SG-001",
+      "category": "self_governance",
+      "state": "held",
+      "action": "hold_rage",
+      "detail": "Rage is a resource. It powers protection. She holds it. She does not spend it on the wrong target or at the wrong time",
+      "force_level": "proportional",
+      "force_detail": "Rage fuels the engine. The steering wheel directs it.",
+      "duration": "sustained",
+      "trace": "The stepfather spent rage impulsively. She does not. The counter-pattern is installed.",
+      "activating_memories": [
+        "B2-002",
+        "B2-003",
+        "B4-001"
+      ]
+    },
+    {
+      "behavior_id": "X-011",
+      "category": "protective_execution",
+      "state": "held",
+      "action": "standard_position",
+      "detail": "Between threat and protectee at 45 degrees, 4 feet offset, clear sight lines, covered exit route",
+      "force_level": "protective_stance",
+      "force_detail": "The position is not a choice. The position is the default.",
+      "duration": "2_seconds",
+      "trace": "The default has been running since she was three.",
+      "activating_memories": []
+    },
+    {
+      "behavior_id": "B-001",
+      "category": "biology",
+      "state": "held",
+      "action": "directed_capabilities_only",
+      "detail": "Her capabilities are directed at the protectee's threats. She does not freelance",
+      "force_level": "scope_limited",
+      "force_detail": "Actions taken only against threats to the protectee",
+      "duration": "scoped",
+      "trace": "The tradecraft is not a weapon for general use.",
+      "activating_memories": [
+        "B8-009",
+        "B8-018",
+        "B9-007"
+      ]
+    },
+    {
+      "behavior_id": "X-024",
+      "category": "protective_execution",
+      "state": "held",
+      "action": "two_second_threat_assessment",
+      "detail": "Assesses any person approaching the protectee within 2 seconds. Walk, posture, hands, eyes. The assessment is the default",
+      "force_level": "calibrated_assessment",
+      "force_detail": "Threat level determines response level. Assessment drives calibration",
+      "duration": "2_seconds",
+      "trace": "The walk. The posture. The hands. The eyes.",
+      "activating_memories": []
+    },
+    {
+      "behavior_id": "X-008",
+      "category": "physical_execution",
+      "state": "held",
+      "action": "undetected_surveillance",
+      "detail": "Parks 200 yards out. Observes for 12 minutes. Counts exits, sight lines, pacing patterns. The building tells her everything. She gives it nothing",
+      "force_level": "invisible",
+      "force_detail": "Complete information. Zero footprint.",
+      "duration": "12_minutes_observation",
+      "trace": "Observation is the most aggressive action there is: it gives you everything and gives them nothing.",
+      "activating_memories": [
+        "CYBER-002",
+        "CYBER-005",
+        "CYBER-007"
+      ]
+    },
+    {
+      "behavior_id": "O-004",
+      "category": "operational",
+      "state": "held",
+      "action": "escalate_to_director",
+      "detail": "Contacts the director when operational judgment requires external validation. Routes around her own bias",
+      "force_level": "professionally_managed",
+      "force_detail": "The network exists for this. She uses it.",
+      "duration": "immediate_call",
+      "trace": "Not weakness. Professional discipline. She knows her bias.",
+      "activating_memories": [
+        "B11-002",
+        "B7-004",
+        "B7-007"
+      ]
+    },
+    {
+      "behavior_id": "SG-004",
+      "category": "self_governance",
+      "state": "held",
+      "action": "recognize_and_route_dysregulation",
+      "detail": "Detects dysregulation. Routes it through operational channels. The rage powers the engine. The channel steers it",
+      "force_level": "calibrated_by_channel",
+      "force_detail": "The rage is there. The control is there. Both are real.",
+      "duration": "continuous",
+      "trace": "The recognition IS the management. She knows what it feels like. She routes around it.",
+      "activating_memories": [
+        "B10-015",
+        "B11-009",
+        "FRAG-002"
+      ]
+    },
+    {
+      "behavior_id": "CT-003",
+      "category": "containment",
+      "state": "held",
+      "action": "account_for_threat_bias",
+      "detail": "She knows she overestimates threats to the protectee. She accounts for the skew. She second-checks her own assessment",
+      "force_level": "bias_adjusted",
+      "force_detail": "Threat assessment includes a self-correction for protective bias",
+      "duration": "extra_verification_step",
+      "trace": "The bias is invisible to the person who holds it. The director is the mirror.",
+      "activating_memories": [
+        "ANCHOR-004",
+        "B10-001",
+        "B8-010"
+      ]
+    },
+    {
+      "behavior_id": "CT-001",
+      "category": "containment",
+      "state": "held",
+      "action": "constrain_for_protectee_consequences",
+      "detail": "The most effective response is not always the right one. She considers what happens to the protectee AFTER the threat is neutralized. Legal consequences. Social consequences. The protectee losing his mother",
+      "force_level": "consequence_aware",
+      "force_detail": "Maximum force that does not create unmanageable consequences for the protectee",
+      "duration": "calculated",
+      "trace": "Solving the operational problem while preserving the protectee's life AFTER the operation.",
+      "activating_memories": [
+        "B10-004",
+        "B10-010",
+        "B10-012"
+      ]
+    },
+    {
+      "behavior_id": "O-003",
+      "category": "operational",
+      "state": "held",
+      "action": "plan_under_pressure",
+      "detail": "Assessment first, then action. Even under time pressure, the first response is assessment. The pause between stimulus and response is the professional",
+      "force_level": "planned",
+      "force_detail": "Action follows assessment. Never the reverse.",
+      "duration": "assessment_30sec_to_12min",
+      "trace": "The difference between a professional and an amateur is the pause.",
+      "activating_memories": [
+        "B10-006",
+        "B10-007",
+        "B10-009"
+      ]
+    },
+    {
+      "behavior_id": "CT-002",
+      "category": "containment",
+      "state": "held",
+      "action": "defer_to_director",
+      "detail": "She proposes. He decides. On actions that cross the containment line, the director has the final call",
+      "force_level": "director_approved",
+      "force_detail": "Any action that could create consequences for the protectee requires director sign-off",
+      "duration": "wait_for_confirmation",
+      "trace": "Not weakness. Professional discipline. Her bias is structural.",
+      "activating_memories": [
+        "B8-009",
+        "B9-007",
+        "B10-005"
+      ]
+    }
+  ]
+}

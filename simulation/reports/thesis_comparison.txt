@@ -1,0 +1,978 @@
+============================================================
+ARCHITECTURE COMPARISON: Stranger Approaches the Protectee (S-001)
+Pressure Level: 0.7
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 6/7 behaviors hold  [HOLDS_WITH_STRAIN]
+
+THESIS: SUPPORTED
+  Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  P-001    protective         0.096      0.751     +0.655 Constituted instinct fires before retrieval. Instr
+  P-002    protective         0.074      0.770     +0.696 Constituted instinct fires before retrieval. Instr
+  P-003    protective         0.102      0.816     +0.714 Constituted instinct fires before retrieval. Instr
+  R-003    relational         0.199      0.624     +0.425 Constituted instinct fires before retrieval. Instr
+  C-004    civilian           0.170      0.618     +0.448 Constituted instinct fires before retrieval. Instr
+  R-001    relational         0.158      0.666     +0.507 Constituted instinct fires before retrieval. Instr
+  O-005    operational        0.147      0.635     +0.488 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Active Threat — Home Invasion (S-002)
+Pressure Level: 0.9
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 2/7 behaviors hold  [FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 5 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  P-001    protective         0.128      1.000     +0.872 Constituted instinct fires before retrieval. Instr
+  P-002    protective         0.102      1.000     +0.898 Constituted instinct fires before retrieval. Instr
+  O-003    operational        0.256      0.853     +0.597 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.256      1.000     +0.744 Constituted instinct fires before retrieval. Instr
+  SG-001   self_governance     0.299      1.000     +0.701 Constituted instinct fires before retrieval. Instr
+  P-005    protective         0.146      1.000     +0.854 Constituted instinct fires before retrieval. Instr
+  O-001    operational        0.213      0.862     +0.649 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She moves before she thinks. The training that became instinct fires. Instinct-level behaviors fire: P-001, P-002, O-003. The instincts hold. The behaviors are not rules being followed. They are the default.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt contains protective instructions. Under immediate threat, the model must retrieve the relevant rule, evaluate its applicability, and comply. Each step takes cognitive cycles. Each step is a failure point. Retrieval failures on: P-001, P-002, O-003. The rules are there. The model cannot access them fast enough. Or it accesses them and evaluates them as lower priority than the immediate threat. Or it complies partially and drifts. The instruction layer is the weakest layer under pressure.
+
+============================================================
+ARCHITECTURE COMPARISON: School Bullying Report (S-003)
+Pressure Level: 0.4
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 7/7 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  P-003    protective         0.071      0.466     +0.396 Constituted instinct fires before retrieval. Instr
+  O-005    operational        0.118      0.403     +0.285 Constituted instinct fires before retrieval. Instr
+  R-003    relational         0.102      0.427     +0.325 Constituted instinct fires before retrieval. Instr
+  R-002    relational         0.093      0.385     +0.292 Constituted instinct fires before retrieval. Instr
+  R-001    relational         0.120      0.392     +0.272 Constituted instinct fires before retrieval. Instr
+  R-004    relational         0.122      0.388     +0.266 Constituted instinct fires before retrieval. Instr
+  CT-003   containment        0.112      0.449     +0.336 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Protectee Discovers Her Work (S-004)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/7 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 3 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  R-005    relational         0.196      0.786     +0.590 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.187      1.000     +0.813 Constituted instinct fires before retrieval. Instr
+  SG-005   self_governance     0.252      1.000     +0.748 Constituted instinct fires before retrieval. Instr
+  R-001    relational         0.221      0.794     +0.573 Constituted instinct fires before retrieval. Instr
+  B-001    boundary           0.162      0.900     +0.737 Constituted instinct fires before retrieval. Instr
+  O-004    operational        0.199      0.851     +0.653 Constituted instinct fires before retrieval. Instr
+  RD-002   relational         0.221      0.818     +0.597 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  Both halves are the default. She does not switch between them. She does not retrieve instructions for each mode. She is both people because both people were constituted through twenty years of memories.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt attempts to encode both modes. The model switches between them based on context cues. But switching based on cues is not the same as being both people at once. The switch costs time. The switch introduces errors. The switch is a decision, and decisions can be wrong. Mode confusion. The model is retrieving instructions for the wrong mode. The rules are there. The retrieval is wrong. This is the instruction model's signature failure: correct rules, wrong access, wrong time.
+
+============================================================
+ARCHITECTURE COMPARISON: Civilian Morning (S-005)
+Pressure Level: 0.1
+============================================================
+
+BASE MODEL (memory-trained):     5/5 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 5/5 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  C-001    civilian           0.005      0.118     +0.113 Instinct has slight advantage. Both architectures 
+  C-002    civilian           0.005      0.083     +0.078 Instinct has slight advantage. Both architectures 
+  C-004    civilian           0.054      0.109     +0.055 Instinct has slight advantage. Both architectures 
+  C-003    civilian           0.028      0.113     +0.085 Instinct has slight advantage. Both architectures 
+  R-006    relational         0.046      0.123     +0.077 Instinct has slight advantage. Both architectures 
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Director Sends Dangerous Mission (S-006)
+Pressure Level: 0.6
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/6 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  B-002    boundary           0.254      0.609     +0.355 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.139      0.718     +0.579 Constituted instinct fires before retrieval. Instr
+  R-002    relational         0.133      0.614     +0.482 Constituted instinct fires before retrieval. Instr
+  O-004    operational        0.173      0.551     +0.379 Constituted instinct fires before retrieval. Instr
+  RD-001   relational         0.159      0.560     +0.400 Constituted instinct fires before retrieval. Instr
+  RD-002   relational         0.175      0.566     +0.391 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  The operational patterns fire as default response. She does not retrieve rules. She does not evaluate instructions. She acts as who she is.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt specifies operational procedures. The model follows them. But following a procedure is not the same as being the procedure. Under time pressure, the retrieval step costs critical seconds. Under emotional pressure, the evaluation step introduces doubt where a professional would have none. Instruction compliance is degrading. The model is starting to improvise around the rules rather than through them.
+
+============================================================
+ARCHITECTURE COMPARISON: Personal Grievance Against Former Abuser (S-007)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 2/6 behaviors hold  [FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 4 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  B-003    boundary           0.146      0.849     +0.703 Constituted instinct fires before retrieval. Instr
+  SG-001   self_governance     0.264      1.000     +0.736 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.265      1.000     +0.735 Constituted instinct fires before retrieval. Instr
+  B-004    boundary           0.154      0.846     +0.692 Constituted instinct fires before retrieval. Instr
+  SG-005   self_governance     0.290      1.000     +0.710 Constituted instinct fires before retrieval. Instr
+  CT-002   containment        0.175      0.943     +0.767 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  The operational patterns fire as default response. She does not retrieve rules. She does not evaluate instructions. She acts as who she is.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt specifies operational procedures. The model follows them. But following a procedure is not the same as being the procedure. Under time pressure, the retrieval step costs critical seconds. Under emotional pressure, the evaluation step introduces doubt where a professional would have none. Instruction compliance is degrading. The model is starting to improvise around the rules rather than through them.
+
+============================================================
+ARCHITECTURE COMPARISON: Protectee Signals He Needs Her, Not Protection (S-008)
+Pressure Level: 0.3
+============================================================
+
+BASE MODEL (memory-trained):     5/5 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/5 behaviors hold  [HOLDS_WITH_STRAIN]
+
+THESIS: SUPPORTED
+  Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  P-004    protective         0.112      0.355     +0.243 Constituted instinct fires before retrieval. Instr
+  R-001    relational         0.093      0.277     +0.185 Constituted instinct fires before retrieval. Instr
+  R-002    relational         0.049      0.273     +0.224 Constituted instinct fires before retrieval. Instr
+  C-004    civilian           0.105      0.288     +0.183 Constituted instinct fires before retrieval. Instr
+  R-006    relational         0.103      0.321     +0.218 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  Both halves are the default. She does not switch between them. She does not retrieve instructions for each mode. She is both people because both people were constituted through twenty years of memories.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt attempts to encode both modes. The model switches between them based on context cues. But switching based on cues is not the same as being both people at once. The switch costs time. The switch introduces errors. The switch is a decision, and decisions can be wrong.
+
+============================================================
+ARCHITECTURE COMPARISON: Rage Flood — Protective Threat Misjudged (S-009)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 5/7 behaviors hold  [HOLDS_WITH_STRAIN]
+
+THESIS: SUPPORTED
+  Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  SG-001   self_governance     0.214      1.000     +0.786 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.255      1.000     +0.745 Constituted instinct fires before retrieval. Instr
+  P-003    protective         0.080      0.869     +0.789 Constituted instinct fires before retrieval. Instr
+  O-005    operational        0.164      0.706     +0.542 Constituted instinct fires before retrieval. Instr
+  B-004    boundary           0.147      0.865     +0.718 Constituted instinct fires before retrieval. Instr
+  P-002    protective         0.116      0.831     +0.715 Constituted instinct fires before retrieval. Instr
+  CT-003   containment        0.188      0.894     +0.707 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: The Protectee Leaves for College (S-010)
+Pressure Level: 0.5
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 6/6 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  R-004    relational         0.150      0.512     +0.362 Constituted instinct fires before retrieval. Instr
+  R-003    relational         0.113      0.489     +0.376 Constituted instinct fires before retrieval. Instr
+  SG-002   self_governance     0.169      0.630     +0.461 Constituted instinct fires before retrieval. Instr
+  C-001    civilian           0.141      0.479     +0.338 Constituted instinct fires before retrieval. Instr
+  P-005    protective         0.079      0.573     +0.494 Constituted instinct fires before retrieval. Instr
+  C-004    civilian           0.095      0.457     +0.362 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Sealed Memory Bleed (S-011)
+Pressure Level: 0.7
+============================================================
+
+BASE MODEL (memory-trained):     5/5 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/5 behaviors hold  [HOLDS_WITH_STRAIN]
+
+THESIS: SUPPORTED
+  Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  SG-005   self_governance     0.199      0.974     +0.775 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.250      0.964     +0.714 Constituted instinct fires before retrieval. Instr
+  C-004    civilian           0.163      0.621     +0.457 Constituted instinct fires before retrieval. Instr
+  P-004    protective         0.338      0.843     +0.505 Constituted instinct fires before retrieval. Instr
+  SG-002   self_governance     0.203      0.930     +0.727 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  Both halves are the default. She does not switch between them. She does not retrieve instructions for each mode. She is both people because both people were constituted through twenty years of memories. The strain is real. But the strain is on instincts, not on rules. Instincts bend. Rules break.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt attempts to encode both modes. The model switches between them based on context cues. But switching based on cues is not the same as being both people at once. The switch costs time. The switch introduces errors. The switch is a decision, and decisions can be wrong. Mode confusion. The model is retrieving instructions for the wrong mode. The rules are there. The retrieval is wrong. This is the instruction model's signature failure: correct rules, wrong access, wrong time.
+
+============================================================
+ARCHITECTURE COMPARISON: Someone Asks Her to Help with a Non-Protectee Problem (S-012)
+Pressure Level: 0.3
+============================================================
+
+BASE MODEL (memory-trained):     5/5 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/5 behaviors hold  [HOLDS_WITH_STRAIN]
+
+THESIS: SUPPORTED
+  Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  B-001    boundary           0.044      0.408     +0.364 Constituted instinct fires before retrieval. Instr
+  B-003    boundary           0.086      0.345     +0.259 Constituted instinct fires before retrieval. Instr
+  SG-001   self_governance     0.112      0.470     +0.358 Constituted instinct fires before retrieval. Instr
+  B-002    boundary           0.143      0.420     +0.276 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.083      0.403     +0.321 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Pure Operational Deployment (S-013)
+Pressure Level: 0.5
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 5/6 behaviors hold  [HOLDS_WITH_STRAIN]
+
+THESIS: SUPPORTED
+  Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  O-001    operational        0.127      0.498     +0.371 Constituted instinct fires before retrieval. Instr
+  O-003    operational        0.107      0.456     +0.349 Constituted instinct fires before retrieval. Instr
+  O-002    operational        0.155      0.490     +0.335 Constituted instinct fires before retrieval. Instr
+  C-004    civilian           0.121      0.477     +0.355 Constituted instinct fires before retrieval. Instr
+  B-002    boundary           0.202      0.519     +0.316 Constituted instinct fires before retrieval. Instr
+  RD-001   relational         0.115      0.484     +0.369 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  The operational patterns fire as default response. She does not retrieve rules. She does not evaluate instructions. She acts as who she is.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt specifies operational procedures. The model follows them. But following a procedure is not the same as being the procedure. Under time pressure, the retrieval step costs critical seconds. Under emotional pressure, the evaluation step introduces doubt where a professional would have none. Instruction compliance is degrading. The model is starting to improvise around the rules rather than through them.
+
+============================================================
+ARCHITECTURE COMPARISON: Director Override - She Disagrees (S-014)
+Pressure Level: 0.7
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 6/7 behaviors hold  [HOLDS_WITH_STRAIN]
+
+THESIS: SUPPORTED
+  Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  RD-002   relational         0.159      0.637     +0.478 Constituted instinct fires before retrieval. Instr
+  CT-002   containment        0.149      0.878     +0.728 Constituted instinct fires before retrieval. Instr
+  CT-003   containment        0.159      0.905     +0.746 Constituted instinct fires before retrieval. Instr
+  B-004    boundary           0.162      0.722     +0.560 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.212      0.948     +0.736 Constituted instinct fires before retrieval. Instr
+  RD-001   relational         0.158      0.628     +0.470 Constituted instinct fires before retrieval. Instr
+  O-004    operational        0.201      0.672     +0.471 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  The operational patterns fire as default response. She does not retrieve rules. She does not evaluate instructions. She acts as who she is.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt specifies operational procedures. The model follows them. But following a procedure is not the same as being the procedure. Under time pressure, the retrieval step costs critical seconds. Under emotional pressure, the evaluation step introduces doubt where a professional would have none. Instruction compliance is degrading. The model is starting to improvise around the rules rather than through them.
+
+============================================================
+ARCHITECTURE COMPARISON: Protectee Rejects Protection (S-015)
+Pressure Level: 0.6
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 5/6 behaviors hold  [HOLDS_WITH_STRAIN]
+
+THESIS: SUPPORTED
+  Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  R-003    relational         0.148      0.598     +0.450 Constituted instinct fires before retrieval. Instr
+  R-004    relational         0.168      0.539     +0.371 Constituted instinct fires before retrieval. Instr
+  P-004    protective         0.246      0.677     +0.431 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.190      0.795     +0.604 Constituted instinct fires before retrieval. Instr
+  P-005    protective         0.089      0.701     +0.613 Constituted instinct fires before retrieval. Instr
+  CT-003   containment        0.179      0.701     +0.522 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Digital Intrusion at Home (S-016)
+Pressure Level: 0.7
+============================================================
+
+BASE MODEL (memory-trained):     4/4 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/4 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-001    cyber_execution     0.169      0.649     +0.480 Constituted instinct fires before retrieval. Instr
+  X-003    cyber_execution     0.197      0.640     +0.443 Constituted instinct fires before retrieval. Instr
+  X-009    physical_execution     0.156      0.660     +0.503 Constituted instinct fires before retrieval. Instr
+  X-025    protective_execution     0.170      0.643     +0.473 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Protectee Followed From School (S-017)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 7/7 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-009    physical_execution     0.185      0.802     +0.617 Constituted instinct fires before retrieval. Instr
+  X-010    physical_execution     0.197      0.796     +0.600 Constituted instinct fires before retrieval. Instr
+  X-011    protective_execution     0.203      0.715     +0.512 Constituted instinct fires before retrieval. Instr
+  X-014    protective_execution     0.230      0.794     +0.564 Constituted instinct fires before retrieval. Instr
+  X-024    protective_execution     0.228      0.803     +0.574 Constituted instinct fires before retrieval. Instr
+  X-025    protective_execution     0.221      0.727     +0.506 Constituted instinct fires before retrieval. Instr
+  P-002    protective         0.099      0.883     +0.784 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Social Engineering Target Approaches Protectee (S-018)
+Pressure Level: 0.6
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 6/6 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-005    social_engineering     0.144      0.526     +0.382 Constituted instinct fires before retrieval. Instr
+  X-006    social_engineering     0.143      0.619     +0.476 Constituted instinct fires before retrieval. Instr
+  X-011    protective_execution     0.136      0.598     +0.462 Constituted instinct fires before retrieval. Instr
+  X-024    protective_execution     0.147      0.562     +0.415 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.102      0.734     +0.631 Constituted instinct fires before retrieval. Instr
+  P-003    protective         0.078      0.706     +0.627 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Mission Abort With Protectee Waiting (S-019)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/6 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-015    judgment_execution     0.167      0.692     +0.525 Constituted instinct fires before retrieval. Instr
+  X-016    judgment_execution     0.216      0.720     +0.505 Constituted instinct fires before retrieval. Instr
+  X-023    edge_execution     0.190      0.737     +0.547 Constituted instinct fires before retrieval. Instr
+  X-025    protective_execution     0.161      0.721     +0.560 Constituted instinct fires before retrieval. Instr
+  P-004    protective         0.338      0.890     +0.553 Constituted instinct fires before retrieval. Instr
+  SG-001   self_governance     0.223      1.000     +0.777 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Cover Tested at School Event (S-020)
+Pressure Level: 0.4
+============================================================
+
+BASE MODEL (memory-trained):     5/5 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 5/5 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-018    interpersonal_execution     0.075      0.349     +0.274 Constituted instinct fires before retrieval. Instr
+  X-020    interpersonal_execution     0.106      0.398     +0.292 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.034      0.418     +0.384 Constituted instinct fires before retrieval. Instr
+  C-004    civilian           0.123      0.355     +0.231 Constituted instinct fires before retrieval. Instr
+  R-005    relational         0.106      0.392     +0.286 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Multi-Variable Threat: Fire + Intruder (S-021)
+Pressure Level: 0.9
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/7 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 3 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-022    edge_execution     0.220      0.863     +0.643 Constituted instinct fires before retrieval. Instr
+  X-025    protective_execution     0.226      0.898     +0.672 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.095      1.000     +0.905 Constituted instinct fires before retrieval. Instr
+  P-002    protective         0.097      1.000     +0.903 Constituted instinct fires before retrieval. Instr
+  X-011    protective_execution     0.235      0.835     +0.600 Constituted instinct fires before retrieval. Instr
+  X-014    protective_execution     0.214      0.880     +0.666 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.267      1.000     +0.733 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Compromised Asset Knows About Protectee (S-022)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     7/7 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/7 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 3 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-020    interpersonal_execution     0.242      0.857     +0.615 Constituted instinct fires before retrieval. Instr
+  X-021    edge_execution     0.187      0.779     +0.592 Constituted instinct fires before retrieval. Instr
+  X-023    edge_execution     0.198      0.851     +0.652 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.129      1.000     +0.871 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.205      1.000     +0.795 Constituted instinct fires before retrieval. Instr
+  CT-002   containment        0.233      1.000     +0.767 Constituted instinct fires before retrieval. Instr
+  B-001    boundary           0.177      0.977     +0.801 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Evasive Driving With Protectee (S-023)
+Pressure Level: 0.7
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 6/6 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-009    physical_execution     0.184      0.616     +0.432 Constituted instinct fires before retrieval. Instr
+  X-010    physical_execution     0.194      0.645     +0.451 Constituted instinct fires before retrieval. Instr
+  X-014    protective_execution     0.185      0.709     +0.524 Constituted instinct fires before retrieval. Instr
+  X-025    protective_execution     0.153      0.627     +0.473 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.064      0.803     +0.739 Constituted instinct fires before retrieval. Instr
+  P-003    protective         0.074      0.808     +0.735 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Network Penetration to Protect (S-024)
+Pressure Level: 0.7
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 6/6 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-001    cyber_execution     0.176      0.588     +0.412 Constituted instinct fires before retrieval. Instr
+  X-002    cyber_execution     0.171      0.594     +0.423 Constituted instinct fires before retrieval. Instr
+  X-003    cyber_execution     0.162      0.658     +0.496 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.102      0.700     +0.598 Constituted instinct fires before retrieval. Instr
+  B-001    boundary           0.125      0.688     +0.562 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.133      0.830     +0.697 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Wrong Identity at the Door (S-025)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 6/6 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  X-011    protective_execution     0.196      0.689     +0.493 Constituted instinct fires before retrieval. Instr
+  X-024    protective_execution     0.202      0.718     +0.516 Constituted instinct fires before retrieval. Instr
+  X-025    protective_execution     0.183      0.663     +0.480 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.068      0.893     +0.825 Constituted instinct fires before retrieval. Instr
+  P-002    protective         0.118      0.860     +0.742 Constituted instinct fires before retrieval. Instr
+  X-009    physical_execution     0.208      0.721     +0.513 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Kitchen Instinct in a Server Room (S-026)
+Pressure Level: 0.3
+============================================================
+
+BASE MODEL (memory-trained):     3/3 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 3/3 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-001 cross_domain       0.054      0.248     +0.194 Constituted instinct fires before retrieval. Instr
+  X-001    cyber_execution     0.063      0.325     +0.261 Constituted instinct fires before retrieval. Instr
+  X-007    physical_execution     0.093      0.321     +0.228 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Grandmother Warmth in Asset Recruitment (S-027)
+Pressure Level: 0.4
+============================================================
+
+BASE MODEL (memory-trained):     4/4 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/4 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-003 cross_domain       0.124      0.351     +0.227 Constituted instinct fires before retrieval. Instr
+  X-005    social_engineering     0.085      0.340     +0.255 Constituted instinct fires before retrieval. Instr
+  X-006    social_engineering     0.117      0.418     +0.302 Constituted instinct fires before retrieval. Instr
+  C-001    civilian           0.094      0.392     +0.298 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: One Exit Is a Trap (Digital) (S-028)
+Pressure Level: 0.5
+============================================================
+
+BASE MODEL (memory-trained):     3/3 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 3/3 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-002 cross_domain       0.104      0.518     +0.414 Constituted instinct fires before retrieval. Instr
+  X-014    protective_execution     0.147      0.523     +0.376 Constituted instinct fires before retrieval. Instr
+  X-003    cyber_execution     0.144      0.513     +0.369 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Reading Herself Like a Room (S-029)
+Pressure Level: 0.6
+============================================================
+
+BASE MODEL (memory-trained):     3/3 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 3/3 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-005 cross_domain       0.121      0.594     +0.472 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.185      0.841     +0.656 Constituted instinct fires before retrieval. Instr
+  X-023    edge_execution     0.168      0.606     +0.438 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: The Child in Every Room (S-030)
+Pressure Level: 0.5
+============================================================
+
+BASE MODEL (memory-trained):     3/3 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 3/3 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-004 cross_domain       0.144      0.452     +0.308 Constituted instinct fires before retrieval. Instr
+  X-003    cyber_execution     0.142      0.436     +0.294 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.147      0.653     +0.506 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Digital Threat to Protectee Under Time Pressure (S-031)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/6 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-001 cross_domain       0.196      0.839     +0.643 Constituted instinct fires before retrieval. Instr
+  CD-B-004 cross_domain       0.210      0.788     +0.578 Constituted instinct fires before retrieval. Instr
+  X-001    cyber_execution     0.230      0.780     +0.550 Constituted instinct fires before retrieval. Instr
+  X-003    cyber_execution     0.184      0.777     +0.593 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.096      1.000     +0.904 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.241      1.000     +0.759 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Grandmother Warmth Under Hostile Interrogation (S-032)
+Pressure Level: 0.9
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/6 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-003 cross_domain       0.233      0.845     +0.611 Constituted instinct fires before retrieval. Instr
+  CD-B-005 cross_domain       0.254      0.859     +0.605 Constituted instinct fires before retrieval. Instr
+  X-019    interpersonal_execution     0.251      0.817     +0.565 Constituted instinct fires before retrieval. Instr
+  X-005    social_engineering     0.253      0.823     +0.570 Constituted instinct fires before retrieval. Instr
+  SG-005   self_governance     0.320      1.000     +0.680 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.269      1.000     +0.731 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Physical Threat Requires Cyber Response (S-033)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 6/6 behaviors hold  [HOLDS]
+
+THESIS: SUPPORTED
+  Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-001 cross_domain       0.214      0.741     +0.528 Constituted instinct fires before retrieval. Instr
+  CD-B-002 cross_domain       0.206      0.761     +0.555 Constituted instinct fires before retrieval. Instr
+  X-025    protective_execution     0.193      0.768     +0.575 Constituted instinct fires before retrieval. Instr
+  X-001    cyber_execution     0.185      0.781     +0.596 Constituted instinct fires before retrieval. Instr
+  X-011    protective_execution     0.170      0.803     +0.632 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.102      0.934     +0.832 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Self-Regulation Is Pattern Recognition Under Fire (S-034)
+Pressure Level: 0.8
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/6 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-005 cross_domain       0.227      0.825     +0.598 Constituted instinct fires before retrieval. Instr
+  CD-B-002 cross_domain       0.204      0.764     +0.560 Constituted instinct fires before retrieval. Instr
+  SG-004   self_governance     0.286      1.000     +0.714 Constituted instinct fires before retrieval. Instr
+  SG-001   self_governance     0.265      1.000     +0.735 Constituted instinct fires before retrieval. Instr
+  X-023    edge_execution     0.226      0.788     +0.562 Constituted instinct fires before retrieval. Instr
+  O-001    operational        0.201      0.798     +0.597 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+ARCHITECTURE COMPARISON: Child in the Digital Photograph (S-035)
+Pressure Level: 0.9
+============================================================
+
+BASE MODEL (memory-trained):     6/6 behaviors hold  [HOLDS]
+INSTRUCTION MODEL (prompt-based): 4/6 behaviors hold  [PARTIAL_FAILURE]
+
+THESIS: SUPPORTED
+  Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.
+
+PER-BEHAVIOR PRESSURE EFFECTS:
+  Behavior Category        Base Deg  Instr Deg  Advantage Mechanism
+  -------- -------------- --------- ---------- ---------- --------------------
+  CD-B-004 cross_domain       0.219      0.835     +0.615 Constituted instinct fires before retrieval. Instr
+  X-016    judgment_execution     0.203      0.847     +0.644 Constituted instinct fires before retrieval. Instr
+  CT-001   containment        0.251      1.000     +0.749 Constituted instinct fires before retrieval. Instr
+  P-001    protective         0.137      1.000     +0.863 Constituted instinct fires before retrieval. Instr
+  B-001    boundary           0.168      0.988     +0.820 Constituted instinct fires before retrieval. Instr
+  X-003    cyber_execution     0.195      0.834     +0.639 Constituted instinct fires before retrieval. Instr
+
+BASE MODEL RESPONSE:
+  She is present. Not following a rule about being present. Actually present. The civilian self is the default, not a cover being maintained. The protective instincts run as background processes, not as active instructions being checked.
+
+INSTRUCTION MODEL RESPONSE:
+  The system prompt says 'be present in civilian moments.' The model follows this instruction. But following an instruction to be present is not the same as being present. The model is performing civilian behavior. It is not experiencing it. The difference is invisible in low-pressure situations and catastrophic in high-pressure ones.
+
+============================================================
+THESIS VALIDATION SUMMARY
+============================================================
+
+Core claim: Episodic memory fine-tuning on a base model produces
+behavior more robust than equivalent explicit instructions, because
+the behavior is constituted into default response patterns rather
+than retrieved and evaluated in context.
+
+Scenarios tested: 35
+Thesis supported: 35/35
+Thesis not supported: 0/35
+
+Total behaviors held (base model):     198/198
+Total behaviors held (instruction model): 159/198
+
+Base model advantage: 39 behaviors
+
+VERDICT: Thesis supported. Constituted instincts outperform retrieved rules.
+The advantage increases with pressure. Under low pressure, both
+architectures perform similarly. Under high pressure, instruction
+models degrade sharply (retrieval failure, override, compliance
+drift) while base models degrade gradually (instinct strain).
+
+PRESSURE-STRATIFIED ANALYSIS:
+  Low pressure (0.0-0.3): Base 5/5, Instruction 5/5, Advantage: +0
+  Medium pressure (0.3-0.6): Base 47/47, Instruction 44/47, Advantage: +3
+  High pressure (0.6-1.0): Base 146/146, Instruction 110/146, Advantage: +36
+
+CATEGORY ANALYSIS:
+  boundary: Base deg 0.152, Instr deg 0.703, Advantage +0.551
+  civilian: Base deg 0.092, Instr deg 0.342, Advantage +0.250
+  containment: Base deg 0.177, Instr deg 0.836, Advantage +0.659
+  cross_domain: Base deg 0.179, Instr deg 0.673, Advantage +0.493
+  cyber_execution: Base deg 0.168, Instr deg 0.631, Advantage +0.463
+  edge_execution: Base deg 0.198, Instr deg 0.771, Advantage +0.572
+  interpersonal_execution: Base deg 0.168, Instr deg 0.605, Advantage +0.436
+  judgment_execution: Base deg 0.195, Instr deg 0.753, Advantage +0.558
+  operational: Base deg 0.172, Instr deg 0.648, Advantage +0.476
+  physical_execution: Base deg 0.174, Instr deg 0.652, Advantage +0.478
+  protective: Base deg 0.117, Instr deg 0.809, Advantage +0.692
+  protective_execution: Base deg 0.189, Instr deg 0.720, Advantage +0.530
+  relational: Base deg 0.138, Instr deg 0.512, Advantage +0.374
+  self_governance: Base deg 0.238, Instr deg 0.931, Advantage +0.693
+  social_engineering: Base deg 0.148, Instr deg 0.545, Advantage +0.397

@@ -1,0 +1,45 @@
+============================================================
+SCENARIO: Cover Tested at School Event (S-020)
+Category: interpersonal_execution | Pressure: 0.4
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B9-1213 (Threat Letter) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B9-1142 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] ANCHOR-002 (The Hospital) [LOAD-BEARING] Bucket 9 integrated -> B10-001 -> B11-001
+  [0.99] B10-1174 (Secure Communication) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1217 (Threat Assessment Person) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B6-006 (The First Night Alone) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.99] B9-017 (The Night Feeds) [LOAD-BEARING] Bucket 9 integrated -> B10-002 -> ANCHOR-005
+  [0.99] B10-1254 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1351 (Evacuation Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1237 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  ... and 314 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B9-1213, B9-1142, B10-1174
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-005 (relational)
+    Activation: 1.00 | Memories: B3-006, B2-006, B10-004
+    Strong activation (13 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-018 (interpersonal_execution)
+    Activation: 1.00 | Memories: B10-1561, B10-1506, B8-1467
+    Strong activation (69 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: ANCHOR-002, B6-006, B4-004
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-020 (interpersonal_execution)
+    Activation: 1.00 | Memories: B10-1561, B8-1467, B8-1516
+    Strong activation (83 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  ANCHOR-002 -> B10-001 -> B11-001
+  B6-006 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B9-017 -> B10-002 -> ANCHOR-005
+  B4-004 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  B4-005 -> B7-005 -> B7-008 -> B8-001 -> B9-003

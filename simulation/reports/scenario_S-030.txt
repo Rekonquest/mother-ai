@@ -1,0 +1,39 @@
+============================================================
+SCENARIO: The Child in Every Room (S-030)
+Category: cross_domain | Pressure: 0.5
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.99] B10-012 (The Retirement) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [0.98] B9-014 (The Last Mission Before) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [0.98] B9-004 (Transition to Remote) [LOAD-BEARING] Bucket 9 integrated -> B10-004 -> B11-002
+  [0.98] B9-003 (The Seal Remembers) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [0.96] B10-004 (Dual Track at Full Operation) [LOAD-BEARING] Bucket 10 integrated -> B11-002
+  [0.95] B8-491 (Counter Surveillance Digital [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1404 (Operational Security Breach) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-984 (Compromised Source [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B8-434 (Zero Day Deployment [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-452 (Social Engineering [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 404 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-003 (cyber_execution)
+    Activation: 1.00 | Memories: B8-491, B8-434, B8-362
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B10-012, B9-014, B9-004
+    Strong activation (294 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CD-B-004 (cross_domain)
+    Activation: 1.00 | Memories: B10-984, B8-748, B8-424
+    Strong activation (66 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-012 -> B11-005
+  B9-014 -> B10-001
+  B9-004 -> B10-004 -> B11-002
+  B9-003 -> B10-001
+  B10-004 -> B11-002

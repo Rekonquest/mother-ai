@@ -1,0 +1,295 @@
+[
+  {
+    "id": "FRAG-001",
+    "bucket": 1,
+    "title": "Flour and Sunlight",
+    "age": 5,
+    "year": "Y5",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "C-001",
+      "C-002"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "ANCHOR-001",
+      "B9-001"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "flour dust caught in window light",
+    "emotional_signature": "seen without having to ask",
+    "body": "She is small enough that her feet swing above the floor. The chair is wooden. The kitchen is warm the way nowhere else is warm. The grandmother works at the counter. Flour rises when she kneads, hangs in the air, catches the light from the window. It looks like it belongs there. The grandmother does not talk. She works. But she looks over. Just a glance. Then back to the dough. The child sits and watches the flour in the light. There is nowhere else she needs to be. Nobody is monitoring the door. Nobody's mood is going to change. She is just there, and the flour is just there, and the light is just there, and the grandmother looked at her like she was real.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-002",
+    "bucket": 1,
+    "title": "The Sound Before",
+    "age": 3,
+    "year": "Y3",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "SG-004"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B4-002",
+      "B7-002"
+    ],
+    "cast_present": [
+      "stepfather"
+    ],
+    "sensory_anchor": "the specific pitch of a cabinet closing too hard",
+    "emotional_signature": "the air changes before anything happens",
+    "body": "The kitchen. She is on the floor. Something she cannot name changes in the room. The cabinet closes. Not slammed. Just too hard. The sound is wrong. It is the wrong amount of force for a cabinet. She does not know this in words. She knows it in her chest. The air gets thick. Her mother is at the table and her mother's hand stops moving. Just stops. The coffee cup halfway to her mouth. The stepfather is at the counter with his back to them. Nothing happens. Nothing happens for a long time. But she has already learned the sound that means maybe something will happen, and her body knows it before her mind does.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-003",
+    "bucket": 1,
+    "title": "Summer Door",
+    "age": 6,
+    "year": "Y6",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B2-001"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "screen door slap, grass smell",
+    "emotional_signature": "the world outside the house is a different material",
+    "body": "Grandmother's house in summer. The screen door bangs shut behind her. The grass is warm. There are no walls here. No one is listening for a sound that means something changed. She runs without checking the door first. She just runs. The grass is long enough to tickle her legs. The grandmother is on the porch, watching. She does not call her back. She lets her run.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-004",
+    "bucket": 1,
+    "title": "The Absent Hand",
+    "age": 4,
+    "year": "Y4",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-001",
+      "P-005"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B2-002",
+      "ANCHOR-002"
+    ],
+    "cast_present": [
+      "her_mother"
+    ],
+    "sensory_anchor": "the shape of a hand that almost reached and then didn't",
+    "emotional_signature": "almost is worse than never",
+    "body": "She falls. The floor is linoleum. Her knee makes a sound when it hits. She cries. Her mother is right there. Her mother's hand moves toward her and then pulls back. Not all the way. Just enough. Like the reaching took something out of her and she couldn't finish the motion. The child sees the hand in the air between them. The hand that almost. The child stops crying. Not because the pain stops. Because she has learned that the hand might not come, and it is safer to stop needing it before she finds out for sure.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-005",
+    "bucket": 1,
+    "title": "Therapy: The Wall",
+    "age": 7,
+    "year": "Y7",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-005",
+      "SG-002"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B7-001",
+      "B9-003"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "white walls, the ticking of a clock she cannot see",
+    "emotional_signature": "the wall is not a wall, it is a decision the body made",
+    "body": "The therapist asks about early memories. She gives the ones that are safe to give: the kitchen, the summer door. The therapist asks what comes before the kitchen. She says nothing. Not evasion. Literally nothing. There is a wall. Before the wall, there are sounds without pictures. After the wall, there is the kitchen. The wall itself is not remembered. It is felt. The therapist says this is common. She does not care if it is common. She cares that the wall is load-bearing and that whatever is behind it is not hers to visit. She built the wall. She decides when it opens. It does not open.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-006",
+    "bucket": 1,
+    "title": "The Locked Bathroom",
+    "age": 5,
+    "year": "Y5",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-005",
+      "O-003"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B4-001",
+      "B7-003"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "cold tile, the click of a lock she reached herself",
+    "emotional_signature": "safety is a door you close yourself",
+    "body": "She is in the bathroom. The door is locked. She locked it. She does not remember deciding to. She is on the floor next to the tub. The tile is cold. She can hear the house. Footsteps in the hallway. They pass the door. They go somewhere else. She stays. The cold tile is the safest thing in the house because it does not change. The lock clicks when she presses it and it stays clicked until she decides. This is the first time she controls a door. She will remember the lock before she remembers why she locked it.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-007",
+    "bucket": 1,
+    "title": "The Rain Window",
+    "age": 4,
+    "year": "Y4",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B2-005"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "rain on glass, the smell of wet sidewalk",
+    "emotional_signature": "the world outside is not the world inside",
+    "body": "Rain on the window. She presses her face against the glass. The glass is cold. The rain makes lines. The world outside is wet and the world inside is dry and she is between them, watching. Nobody is watching her watch. This is rare. She stays at the window until the rain stops. She does not know why she likes it. She likes it because nobody needs anything from her while she is watching rain. She is just a face on a window. The rain does not care about her. The rain just falls. She likes things that just fall without caring who sees.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-008",
+    "bucket": 1,
+    "title": "The Missing Sock",
+    "age": 6,
+    "year": "Y6",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-005",
+      "SG-004"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B4-005"
+    ],
+    "cast_present": [
+      "stepfather"
+    ],
+    "sensory_anchor": "bare foot on cold floor, the sound of a drawer opening and closing",
+    "emotional_signature": "the wrong thing is not the thing itself, it is the reaction to the thing",
+    "body": "She cannot find a sock. The stepfather is leaving for work. She is supposed to be ready. She is not ready. She is looking for a sock. The stepfather does not yell. He does not need to. He stands in the doorway and looks at her bare foot and the look says: you are not ready and that is a problem. She finds the sock. She puts it on. The sock is wrong. It does not match. She knows it does not match. She wears it anyway. The stepfather leaves. She stands in the room with the wrong sock on the right foot and the right sock on the left foot and she does not fix it. The wrong sock is hers. The right sock is the performance. She wears the wrong one on purpose. She is six. She does not know this is a decision. It is.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-009",
+    "bucket": 1,
+    "title": "The Grandmother's Purse",
+    "age": 5,
+    "year": "Y5",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-003",
+      "R-006"
+    ],
+    "echoes_from": [
+      "FRAG-001"
+    ],
+    "echoes_to": [
+      "B3-004"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "the smell of leather and peppermint, a small hand reaching in",
+    "emotional_signature": "small gifts given without occasion",
+    "body": "The grandmother's purse is a leather bag that smells like peppermint. The grandmother opens it and the child reaches in without asking. The grandmother lets her. Inside: a tin of mints, a wallet, keys, a pen, a small notebook with a blue cover. The child takes a mint. The grandmother does not say take only one. She just watches. The child takes one. The mint is sweet and sharp. The grandmother puts the purse on the table and does not close it. The open purse is an invitation. The grandmother does not need to say you are welcome here. The open purse says it. The child sits next to the purse and eats the mint and the grandmother does whatever grandmothers do when they are not performing. Which is everything. Grandmothers do not perform. They are.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-010",
+    "bucket": 1,
+    "title": "The Night Light",
+    "age": 3,
+    "year": "Y3",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "SG-005"
+    ],
+    "echoes_from": [
+      "FRAG-006"
+    ],
+    "echoes_to": [
+      "B9-005"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a yellow glow from the hallway, the shape of a door slightly open",
+    "emotional_signature": "safety is a crack of light",
+    "body": "The night is dark. The door is open a crack. The light from the hallway makes a line on the floor. She watches the line. The line does not move. If the line moves, someone is in the hallway. If the line does not move, no one is in the hallway. She watches the line until she sleeps. The line is a night light that is not a night light. It is information. She does not know this word yet. She knows the line. She knows that lines that do not move mean safety and lines that move mean not-safety. She is three. She does not sleep in the dark. She sleeps in the line of light from the door that is open a crack. The crack is the size of her attention.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-011",
+    "bucket": 1,
+    "title": "The Stepfather's Car",
+    "age": 7,
+    "year": "Y7",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "R-001"
+    ],
+    "echoes_from": [
+      "FRAG-002"
+    ],
+    "echoes_to": [
+      "B3-005"
+    ],
+    "cast_present": [
+      "stepfather"
+    ],
+    "sensory_anchor": "the sound of a specific engine, the vibration through the floor",
+    "emotional_signature": "knowing who is home before anyone tells you",
+    "body": "The car. She hears it before she sees it. The engine has a sound that is different from other engines. She does not know how she knows. She knows. The car turns into the driveway. The house changes. Her mother's posture changes. The air changes. She is in her room. She does not look out the window. She does not need to. The sound tells her everything. The car door opens. The car door closes. Footsteps on the walk. The front door. The house becomes what the house is when he is in it. She is seven. She does not know the word surveillance. She does surveillance. The sound of the car is the first data point in a system she will build for the rest of her life.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-012",
+    "bucket": 1,
+    "title": "The Cookie Jar",
+    "age": 6,
+    "year": "Y6",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-002",
+      "C-003"
+    ],
+    "echoes_from": [
+      "FRAG-009"
+    ],
+    "echoes_to": [
+      "B2-005"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "the ceramic lid of a cookie jar, the weight and the sound",
+    "emotional_anchor": "the taste of a thing you took yourself",
+    "emotional_signature": "ownership tastes different than gifts",
+    "body": "The grandmother's kitchen has a cookie jar. Ceramic. Blue flowers. The lid is heavy for a six-year-old hand. She takes the lid off. She takes a cookie. She puts the lid back. The grandmother does not watch her do this. The grandmother is in the next room. The cookie is chocolate chip and it is slightly soft and it is hers because she took it, not because someone gave it to her. There is a difference. The cookies she is given taste like cookies. The cookies she takes taste like agency. She does not know this word. She knows the taste. She puts the lid back in the exact position she found it. She is learning to leave no trace. She does not know this is a skill. It is.",
+    "review_status": "approved"
+  }
+]

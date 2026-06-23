@@ -1,0 +1,32 @@
+============================================================
+SCENARIO: One Exit Is a Trap (Digital) (S-028)
+Category: cross_domain | Pressure: 0.5
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1253 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1144 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1398 (Secure Transport [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1171 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1234 (Threat Letter) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1308 (Threat Assessment Person [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1392 (Protective Surveillance [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1126 (Secure Transport) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1325 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1184 (Evacuation Protective) [LOAD-BEARING] Bucket 10 integrated
+  ... and 272 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-003 (cyber_execution)
+    Activation: 1.00 | Memories: B8-278, B8-426, B8-441
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-014 (protective_execution)
+    Activation: 1.00 | Memories: B10-1253, B10-1144, B10-1171
+    Strong activation (90 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CD-B-002 (cross_domain)
+    Activation: 1.00 | Memories: B10-1398, B10-1392, B10-1325
+    Strong activation (102 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread.

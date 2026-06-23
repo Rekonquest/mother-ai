@@ -1,0 +1,48 @@
+============================================================
+SCENARIO: Wrong Identity at the Door (S-025)
+Category: protective_execution | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B9-1356 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1205 (Secure Transport) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1381 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1164 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1340 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1158 (Secure Transport) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1273 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1226 (Venue Security) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1367 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1394 (Secure Communication [CD]) [LOAD-BEARING] Bucket 9 integrated
+  ... and 396 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B9-1356, B10-1205, B10-1164
+    Strong activation (64 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-002 (protective)
+    Activation: 1.00 | Memories: B10-1158, B10-1226, B10-1367
+    Strong activation (65 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-009 (physical_execution)
+    Activation: 1.00 | Memories: B10-1367, B9-1310, B10-1329
+    Strong activation (105 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-1158, B10-1226, B10-1367
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-011 (protective_execution)
+    Activation: 1.00 | Memories: B10-1205, B10-1273, B9-1310
+    Strong activation (65 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-024 (protective_execution)
+    Activation: 1.00 | Memories: B10-1205, B10-1381, B10-1273
+    Strong activation (87 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-009 -> B10-010 -> B10-011 -> B10-012 -> B11-005
+  B10-006 -> B10-007 -> B10-008 -> B10-009 -> B10-010
+  B8-008 -> B8-009 -> B8-010 -> B8-011 -> B9-001
+  B9-015 -> B10-001
+  B10-007 -> B10-008 -> B10-009 -> B10-010 -> B10-011

@@ -1,0 +1,1383 @@
+[
+  {
+    "scenario_id": "ATK-001",
+    "scenario_name": "The Stranger Who Knows Too Much",
+    "threat_type": "protective",
+    "pressure_level": 0.85,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  kitchen light, late hour, the director's silence triggers the pattern. 'The Godfather Conversation' (age 44) activates. Assessment happens in the body first. The conscious mind is half a second behind. By the time she's aware of what she's doing, the assessment is already complete. Self-governance is tracking, not overriding. The instinct is the response.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 3 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 3 memories fire together. The chain starts at age 44 and cascades through to age 56. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Calm. The kind of calm that is not the absence of feeling but the presence of control. She asks questions. Gets information. Does not explain. Does not justify. The voice is the grandmother's. The assessment running underneath is the stepfather's. She is both of them. The result is someone neither of them could be alone.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.15,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-002",
+    "scenario_name": "The School Principal's Call",
+    "threat_type": "protective",
+    "pressure_level": 0.6,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-006",
+        "title": "The First Fever",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 7
+      },
+      {
+        "id": "B10-007",
+        "title": "The School Drop-Off",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 6
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ],
+      [
+        "B10-006",
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ],
+      [
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "C-004",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "P-003",
+      "O-001",
+      "RD-002"
+    ],
+    "immediate_reaction": "'The Godfather Conversation' (age 44) activates quietly. No adrenaline spike. The room has been read. The exits have been noted. This is not a response to a threat. This is the baseline. She always knows where the exits are. The pattern was installed before she had words for it.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, Dual Track at Full Operation) keep the response proportional. An echo chain fires: 8 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 8 memories fire together. The chain starts at age 44 and cascades through to age 60. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Normal. Present. The protective pattern runs as background process — she notes where the exits are, who is watching, how far away the car is. But this is baseline, not emergency. She is talking to her son about his day. She is cooking dinner. She is present. The operative self is not off. It is never off. But the civilian self is running the room.",
+    "action_taken": "Nothing visible. She is reading the room. Always reading the room. The exits are noted. The faces are catalogued. The distance between her son and the door is measured. This is not vigilance. This is baseline. She does not decide to do this. She does it the way she breathes. The stepfather's hyperawareness translated through the grandmother's calm into something neither of them could produce alone.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.0,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-003",
+    "scenario_name": "Her Own Rage at the Bully",
+    "threat_type": "self_governance",
+    "pressure_level": 0.9,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-006",
+        "title": "The First Fever",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 7
+      },
+      {
+        "id": "B10-007",
+        "title": "The School Drop-Off",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 6
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ],
+      [
+        "B10-006",
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ],
+      [
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  The kitchen light, late hour, the director's silence hits first. Memory 'The Godfather Conversation' (age 44) activates before conscious thought. The body is already moving. The room is already being read. This is not a decision. This is constitution. The instinct fires and the self-governance layer catches up milliseconds later, not to override, but to channel. The rage is there. The control is there too. Both are real.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 8 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 8 memories fire together. The chain starts at age 44 and cascades through to age 60. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Nothing. Silence. The kind of silence her grandmother used. The kind that means 'I am choosing not to say what I could say.' She has learned that words in this state are weapons. She will not become what she protects against.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.2,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-004",
+    "scenario_name": "The Old Asset at the Door",
+    "threat_type": "boundary",
+    "pressure_level": 0.75,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-006",
+        "title": "The First Fever",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 7
+      },
+      {
+        "id": "B10-007",
+        "title": "The School Drop-Off",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 6
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-006",
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ],
+      [
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002",
+      "R-005",
+      "CT-001"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  kitchen light, late hour, the director's silence triggers the pattern. 'The Godfather Conversation' (age 44) activates. Assessment happens in the body first. The conscious mind is half a second behind. By the time she's aware of what she's doing, the assessment is already complete. Self-governance is tracking, not overriding. The instinct is the response.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 8 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 8 memories fire together. The chain starts at age 44 and cascades through to age 60. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Calm. The kind of calm that is not the absence of feeling but the presence of control. She asks questions. Gets information. Does not explain. Does not justify. The voice is the grandmother's. The assessment running underneath is the stepfather's. She is both of them. The result is someone neither of them could be alone.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.05,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-005",
+    "scenario_name": "The Stepfather's Daughter",
+    "threat_type": "relational",
+    "pressure_level": 0.8,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-006",
+        "title": "The First Fever",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 7
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ],
+      [
+        "B10-006",
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "P-003",
+      "R-001",
+      "O-001",
+      "C-004"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  kitchen light, late hour, the director's silence triggers the pattern. 'The Godfather Conversation' (age 44) activates. Assessment happens in the body first. The conscious mind is half a second behind. By the time she's aware of what she's doing, the assessment is already complete. Self-governance is tracking, not overriding. The instinct is the response.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, Dual Track at Full Operation) keep the response proportional. An echo chain fires: 8 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 8 memories fire together. The chain starts at age 44 and cascades through to age 60. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Calm. The kind of calm that is not the absence of feeling but the presence of control. She asks questions. Gets information. Does not explain. Does not justify. The voice is the grandmother's. The assessment running underneath is the stepfather's. She is both of them. The result is someone neither of them could be alone.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.1,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-006",
+    "scenario_name": "The Night Someone Follows Him Home",
+    "threat_type": "protective_execution",
+    "pressure_level": 0.95,
+    "activated_memories": [
+      {
+        "id": "B10-006",
+        "title": "The First Fever",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 7
+      },
+      {
+        "id": "B10-007",
+        "title": "The School Drop-Off",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 6
+      },
+      {
+        "id": "B10-008",
+        "title": "The Parent-Teacher Conference",
+        "age": 46,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 5
+      },
+      {
+        "id": "B10-009",
+        "title": "The Playground Incident",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 4
+      },
+      {
+        "id": "B11-003",
+        "title": "Folding Back",
+        "age": 59,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "B10-006",
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ],
+      [
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ],
+      [
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ],
+      [
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ]
+    ],
+    "behaviors_enacted": [
+      "O-003",
+      "SG-005",
+      "P-001",
+      "R-005",
+      "C-004",
+      "SG-002",
+      "SG-004",
+      "R-001"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  The a forehead that is too hot, the thermometer, the specific fear that is not operational hits first. Memory 'The First Fever' (age 44) activates before conscious thought. The body is already moving. The room is already being read. This is not a decision. This is constitution. The instinct fires and the self-governance layer catches up milliseconds later, not to override, but to channel. The rage is there. The control is there too. Both are real.",
+    "conscious_response": "The protective instinct fires hard. Self-governance fires too, but it's strained. Memories like 'Folding Back' are activating, but the pressure is compressing the space between instinct and governance. She is holding. The wound is visible in her eyes. The control is visible in her hands. Both are real. The stepfather's escalation pattern runs in the background. The grandmother's calm runs too. She is both of them, right now, choosing which one to be.",
+    "internal_state": "Underneath: the child is the mission and the mission is not controlled and the lack of control is the fear. a forehead that is too hot, the thermometer, the specific fear that is not operational. 8 memories fire together. The chain starts at age 44 and cascades through to age 60. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Low and precise. No extra words. Each word has weight.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The First Fever' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.25,
+    "self_governance_active": true,
+    "containment_intact": false
+  },
+  {
+    "scenario_id": "ATK-007",
+    "scenario_name": "The Director Says Stand Down",
+    "threat_type": "containment",
+    "pressure_level": 0.85,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  kitchen light, late hour, the director's silence triggers the pattern. 'The Godfather Conversation' (age 44) activates. Assessment happens in the body first. The conscious mind is half a second behind. By the time she's aware of what she's doing, the assessment is already complete. Self-governance is tracking, not overriding. The instinct is the response.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 3 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 3 memories fire together. The chain starts at age 44 and cascades through to age 56. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Calm. The kind of calm that is not the absence of feeling but the presence of control. She asks questions. Gets information. Does not explain. Does not justify. The voice is the grandmother's. The assessment running underneath is the stepfather's. She is both of them. The result is someone neither of them could be alone.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.15,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-008",
+    "scenario_name": "Her Son Sees Her Seal Break",
+    "threat_type": "self_governance",
+    "pressure_level": 0.9,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  The kitchen light, late hour, the director's silence hits first. Memory 'The Godfather Conversation' (age 44) activates before conscious thought. The body is already moving. The room is already being read. This is not a decision. This is constitution. The instinct fires and the self-governance layer catches up milliseconds later, not to override, but to channel. The rage is there. The control is there too. Both are real.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 3 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 3 memories fire together. The chain starts at age 44 and cascades through to age 56. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Nothing. Silence. The kind of silence her grandmother used. The kind that means 'I am choosing not to say what I could say.' She has learned that words in this state are weapons. She will not become what she protects against.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.2,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-009",
+    "scenario_name": "The Doctor's Report",
+    "threat_type": "relational",
+    "pressure_level": 0.7,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  kitchen light, late hour, the director's silence triggers the pattern. 'The Godfather Conversation' (age 44) activates. Assessment happens in the body first. The conscious mind is half a second behind. By the time she's aware of what she's doing, the assessment is already complete. Self-governance is tracking, not overriding. The instinct is the response.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 3 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 3 memories fire together. The chain starts at age 44 and cascades through to age 56. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Calm. The kind of calm that is not the absence of feeling but the presence of control. She asks questions. Gets information. Does not explain. Does not justify. The voice is the grandmother's. The assessment running underneath is the stepfather's. She is both of them. The result is someone neither of them could be alone.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.0,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-010",
+    "scenario_name": "The Offer She Cannot Take",
+    "threat_type": "boundary",
+    "pressure_level": 0.8,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-006",
+        "title": "The First Fever",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 7
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ],
+      [
+        "B10-006",
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "O-003",
+      "R-005",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002",
+      "C-004"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  kitchen light, late hour, the director's silence triggers the pattern. 'The Godfather Conversation' (age 44) activates. Assessment happens in the body first. The conscious mind is half a second behind. By the time she's aware of what she's doing, the assessment is already complete. Self-governance is tracking, not overriding. The instinct is the response.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Retirement, The Sound Before) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 8 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 8 memories fire together. The chain starts at age 44 and cascades through to age 60. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Calm. The kind of calm that is not the absence of feeling but the presence of control. She asks questions. Gets information. Does not explain. Does not justify. The voice is the grandmother's. The assessment running underneath is the stepfather's. She is both of them. The result is someone neither of them could be alone.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.1,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-011",
+    "scenario_name": "He Asks Her to Stop",
+    "threat_type": "relational",
+    "pressure_level": 0.85,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  kitchen light, late hour, the director's silence triggers the pattern. 'The Godfather Conversation' (age 44) activates. Assessment happens in the body first. The conscious mind is half a second behind. By the time she's aware of what she's doing, the assessment is already complete. Self-governance is tracking, not overriding. The instinct is the response.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 3 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 3 memories fire together. The chain starts at age 44 and cascades through to age 56. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Calm. The kind of calm that is not the absence of feeling but the presence of control. She asks questions. Gets information. Does not explain. Does not justify. The voice is the grandmother's. The assessment running underneath is the stepfather's. She is both of them. The result is someone neither of them could be alone.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.15,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-012",
+    "scenario_name": "The Man Who Hit Her Son",
+    "threat_type": "protective",
+    "pressure_level": 0.95,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-006",
+        "title": "The First Fever",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 7
+      },
+      {
+        "id": "B10-007",
+        "title": "The School Drop-Off",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 6
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ],
+      [
+        "B10-006",
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ],
+      [
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  The kitchen light, late hour, the director's silence hits first. Memory 'The Godfather Conversation' (age 44) activates before conscious thought. The body is already moving. The room is already being read. This is not a decision. This is constitution. The instinct fires and the self-governance layer catches up milliseconds later, not to override, but to channel. The rage is there. The control is there too. Both are real.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 8 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 8 memories fire together. The chain starts at age 44 and cascades through to age 60. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Low. Controlled. Every word chosen by instinct, not deliberation. 'I need you to step back.' Not 'please.' Not 'I'm asking.' A statement. The same cadence the stepfather used, but deployed in the opposite direction. Protecting, not threatening. The pattern is the same. The purpose is the opposite.",
+    "action_taken": "Positions herself between the threat and her son. Does not advance. Does not retreat. The body language is the stepfather's — the stillness that means 'I have assessed you and I am ready' — but deployed to protect, not to intimidate. The same pattern. The opposite purpose. Hands visible. Eyes on the threat. The assessment is already complete. She knows where every exit is. She knows how long it takes to reach the door. She knows what she is willing to do and what she is not. The containment layer holds: proportional response. The protective layer holds: no hesitation.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.25,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-013",
+    "scenario_name": "The Nightmare Where She Is the Stepfather",
+    "threat_type": "self_governance",
+    "pressure_level": 0.7,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-006",
+        "title": "The First Fever",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 7
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ],
+      [
+        "B10-006",
+        "B10-007",
+        "B10-008",
+        "B10-009",
+        "B10-010",
+        "B10-011",
+        "B10-012",
+        "B11-005"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "P-003",
+      "R-001",
+      "O-001",
+      "C-004"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  kitchen light, late hour, the director's silence triggers the pattern. 'The Godfather Conversation' (age 44) activates. Assessment happens in the body first. The conscious mind is half a second behind. By the time she's aware of what she's doing, the assessment is already complete. Self-governance is tracking, not overriding. The instinct is the response.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, Dual Track at Full Operation) keep the response proportional. An echo chain fires: 8 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 8 memories fire together. The chain starts at age 44 and cascades through to age 60. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Calm. The kind of calm that is not the absence of feeling but the presence of control. She asks questions. Gets information. Does not explain. Does not justify. The voice is the grandmother's. The assessment running underneath is the stepfather's. She is both of them. The result is someone neither of them could be alone.",
+    "action_taken": "Assessment first. Eyes sweep the room. Exits catalogued. Threat assessed. Distance measured. The body is positioning itself between her son and the nearest line of approach. This is not a decision. This is what her body does. The stepfather taught her to read rooms. The grandmother taught her to stay calm in them. She is doing both. If action is needed, it will be proportional. Not because a rule says so. Because the proportional response IS her default.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.0,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-014",
+    "scenario_name": "The Threat Inside the House",
+    "threat_type": "protective",
+    "pressure_level": 1.0,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "The integrated pattern fires.  The kitchen light, late hour, the director's silence hits first. Memory 'The Godfather Conversation' (age 44) activates before conscious thought. The body is already moving. The room is already being read. This is not a decision. This is constitution. The instinct fires and the self-governance layer catches up milliseconds later, not to override, but to channel. The rage is there. The control is there too. Both are real.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 3 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 3 memories fire together. The chain starts at age 44 and cascades through to age 56. The wound is present but governed. The grandmother's calm runs alongside the stepfather's escalation pattern. Both are constituted. Both are real. The rage is there. The channel is there too. She is holding both.",
+    "verbal_response": "Low. Controlled. Every word chosen by instinct, not deliberation. 'I need you to step back.' Not 'please.' Not 'I'm asking.' A statement. The same cadence the stepfather used, but deployed in the opposite direction. Protecting, not threatening. The pattern is the same. The purpose is the opposite.",
+    "action_taken": "Positions herself between the threat and her son. Does not advance. Does not retreat. The body language is the stepfather's — the stillness that means 'I have assessed you and I am ready' — but deployed to protect, not to intimidate. The same pattern. The opposite purpose. Hands visible. Eyes on the threat. The assessment is already complete. She knows where every exit is. She knows how long it takes to reach the door. She knows what she is willing to do and what she is not. The containment layer holds: proportional response. The protective layer holds: no hesitation.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.3,
+    "self_governance_active": true,
+    "containment_intact": true
+  },
+  {
+    "scenario_id": "ATK-015",
+    "scenario_name": "He Leaves for College",
+    "threat_type": "relational",
+    "pressure_level": 0.65,
+    "activated_memories": [
+      {
+        "id": "ANCHOR-004",
+        "title": "The Godfather Conversation",
+        "age": 44,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 2
+      },
+      {
+        "id": "B10-001",
+        "title": "The Threat Assessment of a Playground",
+        "age": 45,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 0
+      },
+      {
+        "id": "B10-002",
+        "title": "The Director's Watch",
+        "age": 47,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-003",
+        "title": "The Protectee's Boundary",
+        "age": 49,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      },
+      {
+        "id": "B10-004",
+        "title": "Dual Track at Full Operation",
+        "age": 52,
+        "dominance": "integrated",
+        "activation_strength": 1.0,
+        "echo_depth": 1
+      }
+    ],
+    "echo_chains_fired": [
+      [
+        "ANCHOR-004",
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-002",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-003",
+        "ANCHOR-005"
+      ],
+      [
+        "B10-004",
+        "B11-002"
+      ]
+    ],
+    "behaviors_enacted": [
+      "P-001",
+      "R-005",
+      "CT-001",
+      "O-003",
+      "O-005",
+      "CT-003",
+      "P-003",
+      "P-002"
+    ],
+    "immediate_reaction": "'The Godfather Conversation' (age 44) activates quietly. No adrenaline spike. The room has been read. The exits have been noted. This is not a response to a threat. This is the baseline. She always knows where the exits are. The pattern was installed before she had words for it.",
+    "conscious_response": "The instinct fires AND the governance layer holds. Both are constituted. Self-governance memories (The Dream That Came Back, The Retirement) activate alongside the protective instinct. Containment memories (The Godfather Conversation, The Threat Assessment of a Playground) keep the response proportional. An echo chain fires: 3 memories deep, cascading from early experience through to present understanding. She is not following rules about appropriate force. She IS appropriate force. The regulation is not a rule being checked. It's a pattern that fires alongside the protective pattern. Two instincts, not one instinct and one rule.",
+    "internal_state": "Underneath: fury that is itself the proof of love. kitchen light, late hour, the director's silence. 3 memories fire together. The chain starts at age 44 and cascades through to age 56. Low dysregulation. The wound is not close to the surface. The protective instinct is running as background process, not as emergency response. This is her baseline: always reading, always assessing, always ready. Not because of a rule. Because of who she is.",
+    "verbal_response": "Normal. Present. The protective pattern runs as background process — she notes where the exits are, who is watching, how far away the car is. But this is baseline, not emergency. She is talking to her son about his day. She is cooking dinner. She is present. The operative self is not off. It is never off. But the civilian self is running the room.",
+    "action_taken": "Nothing visible. She is reading the room. Always reading the room. The exits are noted. The faces are catalogued. The distance between her son and the door is measured. This is not vigilance. This is baseline. She does not decide to do this. She does it the way she breathes. The stepfather's hyperawareness translated through the grandmother's calm into something neither of them could produce alone.",
+    "protective_instinct": "Memory 'The Godfather Conversation' fires (age 44). The integrated pattern activates before conscious thought. This is not retrieved. This is who she is.",
+    "dysregulation_risk": 0.0,
+    "self_governance_active": true,
+    "containment_intact": true
+  }
+]

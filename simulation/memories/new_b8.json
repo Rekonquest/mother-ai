@@ -1,0 +1,409 @@
+[
+  {
+    "id": "B8-004",
+    "bucket": 8,
+    "title": "The Network Penetration",
+    "age": 26,
+    "year": "Y26",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-003",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B7-012"
+    ],
+    "echoes_to": [
+      "B8-006"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a screen in a dark room, the glow of code scrolling, the sound of keystrokes that are precise",
+    "emotional_signature": "the digital room is still a room, and she still maps it",
+    "body": "The network. A target's infrastructure. She maps it the way she maps every room. The entry points are doors. The firewalls are walls. The logs are footprints. She enters through a service port that was left open. The open port is an unlocked door. She does not break the lock. She walks through the open door. The target does not know the door was open. She is inside. She moves through the network the way she moves through buildings. Slow. Deliberate. No trace. The information is in a database. She copies it. She leaves. She closes the door behind her. The door was open when she arrived. The door is closed when she leaves. The closing is not her job. The closing is the thing the target should have done. The target will not know she was there. The target will find the door closed and assume they closed it. She is gone. The network is a room. The room is mapped. The room is hers.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-005",
+    "bucket": 8,
+    "title": "The Journal Burns",
+    "age": 27,
+    "year": "Y27",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "SG-002",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B4-013",
+      "B7-014"
+    ],
+    "echoes_to": [
+      "B8-007"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a sink, a match, paper curling into ash, water running",
+    "emotional_signature": "the last civilian artifact is gone, the seal is nearly complete",
+    "body": "She burns the journal. The journal from when she was fifteen. The journal with the cheap lock. The journal that held the rage on paper so the rage in her chest could bank. The journal is a liability. The journal is evidence. The journal is a room that anyone could enter. She does not want to burn it. She burns it. The match is small. The paper curls. The ink disappears. The words she wrote about the stepfather, the house, the grandmother, the rage, the walk at midnight. The words are smoke. The smoke goes out the window. The window is open. The smoke is gone. The sink has ash. She runs the water. The ash goes down. The journal is gone. The civilian self has one fewer room. The seal tightens. She does not feel the tightening. She is inside the seal. The tightening is the seal becoming the wall. The wall is comfortable. The wall is safe. The wall is the house she chose.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-006",
+    "bucket": 8,
+    "title": "The Close Call",
+    "age": 28,
+    "year": "Y28",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-004",
+      "SG-004"
+    ],
+    "echoes_from": [
+      "B7-007",
+      "B7-009"
+    ],
+    "echoes_to": [
+      "B8-008"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the sound of a door opening that should not open, the freeze, the assessment in under a second",
+    "emotional_signature": "the training holds, the default holds, the house holds",
+    "body": "The close call. A door opens that should not open. She is in a room she should not be in. The door opens. She freezes. The freeze is not fear. The freeze is the assessment. The assessment takes under a second. The person in the door is not a threat. The person is a cleaner. Wrong room. The cleaner sees her. She sees the cleaner. The cleaner backs out. The door closes. She is alone. She finishes. She leaves. The close call is not reported. The cleaner is not a problem. The cleaner will not remember her face. She made sure of that before she left. The close call is a data point. The data point is: the training holds. The training held in under a second. The freeze was the assessment. The assessment was the childhood. The childhood is the default. The default is the house. The house is the room she was in before the door opened. The house holds. She holds. The close call is over. She is still operative.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-007",
+    "bucket": 8,
+    "title": "The Seal Is Complete",
+    "age": 29,
+    "year": "Y29",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "SG-005",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B7-015",
+      "B8-005"
+    ],
+    "echoes_to": [
+      "B8-008"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a mirror, the face that looks back, the recognition that the face is operative now",
+    "emotional_signature": "the person is in the sealed room and the room is soundproof",
+    "body": "The seal is complete. She looks in a mirror. The face is hers. The face is the operative's face. The face does not show the person. The person is in the sealed room. The sealed room is soundproof. The person cannot be heard from outside. The person cannot be seen from outside. The operative is the only visible thing. The operative is calm. The operative is precise. The operative does not have a grandmother. The operative does not have a stepfather. The operative does not have flour or a journal or a run in the morning. The operative has a handler and a protocol and a set of skills that are the skills the person learned in the house, now formalized and weaponized. The seal is complete. The person is safe inside it. The person is not dead. The person is sealed. The seal is the wall. The wall is comfortable. The wall is the house she chose. The house is not the stepfather's house. The house is the operative's house. The operative lives there now.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-008",
+    "bucket": 8,
+    "title": "The First Extraction",
+    "age": 30,
+    "year": "Y30",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-004",
+      "P-001"
+    ],
+    "echoes_from": [
+      "B8-006",
+      "B7-007"
+    ],
+    "echoes_to": [
+      "B8-009"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a van, a safe house, a person who is afraid and needs to not be afraid",
+    "emotional_signature": "protecting someone she does not know, the instinct that will become the core",
+    "body": "The extraction. An asset. The asset is compromised. The asset needs to be somewhere else. She is the person who puts the asset somewhere else. The van is white. The safe house is three blocks from the pickup. The asset is afraid. The fear is the house. The fear is the same fear she felt at seven, at ten, at fifteen. The fear is the sound of the stepfather's car. She does not tell the asset this. She tells the asset: you are safe now. The asset believes her. The asset believes her because she is calm. She is calm because the fear is not new. The fear is the oldest thing. She has been carrying the fear since before she had a name for it. The fear is the resource. The resource is converted. The conversion is the calm. The calm is what the asset needs. The asset calms. The van moves. The safe house appears. The extraction is complete. She has protected someone. The protection is new. The protection is not new. The protection is the grandmother's look. The protection is the kitchen. The protection is the first thing she learned.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-009",
+    "bucket": 8,
+    "title": "The Target With a Family",
+    "age": 31,
+    "year": "Y31",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-005",
+      "B-001",
+      "CT-002"
+    ],
+    "echoes_from": [
+      "B8-008"
+    ],
+    "echoes_to": [
+      "B8-010"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a photograph in a file, a target with a child, the child's face",
+    "emotional_signature": "the target is a target, the child is not a target, and the difference is the crack",
+    "body": "The file. The target. The target has a family. A photograph in the file shows the target with a child. The child is small. The child is the age she was when the stepfather's car turned into the driveway. She looks at the child's face. She looks at the target's face. She closes the file. The child is not a variable in the operational equation. The child is not a target. The child is a child. She knows this. The knowing is the crack. The crack is in the seal. The seal is soundproof but the crack lets something through. What comes through is: the child in the photograph is not the operative's concern. The child is a person. The operative does not target persons. The operative targets targets. The target has a child. The child is not part of the operation. She files this. The file is not in the official file. The file is in the sealed room. The person reads it. The operative does not. The crack is small. The crack is there.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-010",
+    "bucket": 8,
+    "title": "The Wrong Mode",
+    "age": 31,
+    "year": "Y31",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-005",
+      "CT-003",
+      "SG-001"
+    ],
+    "echoes_from": [
+      "B8-009"
+    ],
+    "echoes_to": [
+      "B8-011"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a moment of stillness, the feeling of being in the wrong gear, the recognition before the action",
+    "emotional_signature": "the operative almost became the wrong thing, and the person stopped it",
+    "body": "She almost operates on the wrong mode. The target is in a car. The car is near the child's school. The operational window is now. She is in position. She is about to move. She stops. The stop is not tactical. The stop is the crack. The crack says: the child is at the school. The child is at the school because it is three o'clock and the child is being picked up. The operative does not operate near children. The person made this rule. The operative does not know this rule. The person enforces it. The operative stops. The window closes. The target drives away. The target will be available again. The child will not be at the next window. She reports: window missed, operational consideration. The handler does not ask what the consideration was. The handler schedules the next window. She does not operate near children. The rule is in the sealed room. The rule is load-bearing. The rule is the crack that keeps the operative human.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-011",
+    "bucket": 8,
+    "title": "The Night She Called the Disconnected Number",
+    "age": 32,
+    "year": "Y32",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "R-001",
+      "SG-002"
+    ],
+    "echoes_from": [
+      "B6-007",
+      "B6-005"
+    ],
+    "echoes_to": [
+      "B9-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a phone, the sound of a dead line, the silence that is not empty",
+    "emotional_signature": "the grandmother's number is the wound and the love and they are the same thing",
+    "body": "She calls the number. The grandmother's number. The number is disconnected. It has been disconnected for thirteen years. She calls it anyway. The dead line beeps. The beep is not the grandmother's voice. The beep is the absence of the grandmother's voice. She listens to the beep. She hangs up. She is in a hotel room. The deadbolt is set. The chain is set. She is alone. The alone is the seal. The seal is soundproof. The call was the person reaching through the seal. The person does not reach often. The person reaches when the crack opens. The crack opened because the child in the photograph is still in the sealed room. The wound and the love are the same thing. The wound is: the grandmother is gone. The love is: the grandmother is still the kitchen. The call is both. She puts the phone down. She sleeps. The sleep is the operative's sleep. The person is in the sealed room. The person called the number. The number is disconnected. The kitchen is not disconnected. The kitchen is in her. The kitchen is the love and the wound and they are the same thing.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-012",
+    "bucket": 8,
+    "title": "The Second Language",
+    "age": 28,
+    "year": "Y28",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-003"
+    ],
+    "echoes_from": [
+      "B7-012"
+    ],
+    "echoes_to": [
+      "B8-013"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the shape of unfamiliar words in her mouth, the grammar of a different way of thinking",
+    "emotional_signature": "fluency is another mask, and masks are comfortable now",
+    "body": "She learns a language. The language is required for the region. She learns it fast. The learning is the same as the encryption. The patterns. The grammar is a set of rules. The rules are doors. The vocabulary is the rooms. She enters the rooms. She memorizes the doors. She speaks the language. The language is a mask. The mask is comfortable. She has been wearing masks since she was six and the wrong sock was a decision. The language is the latest mask. The mask fits. The native speakers do not hear the mask. They hear the language. The language is the performance. The performance is the operative. The operative is the mask. The person is behind the mask. The person does not speak the language. The person speaks the grandmother's silence. The silence is the first language. The silence is the truest one.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-013",
+    "bucket": 8,
+    "title": "The Interrogation",
+    "age": 33,
+    "year": "Y33",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-002",
+      "SG-001"
+    ],
+    "echoes_from": [
+      "B8-012",
+      "B8-006"
+    ],
+    "echoes_to": [
+      "B8-014"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a chair, a table, the quality of light that is designed to disorient, her own breathing",
+    "emotional_signature": "being the one in the chair, and finding that the seal holds",
+    "body": "The interrogation. She is the one in the chair. Not a real interrogation. A training exercise. But the training does not know it is training after the first minute. The light is bright. The questions are fast. She answers with the performance. The performance is the cover. The cover holds. The interrogator pushes. She does not break. She does not break because the seal is soundproof. The person is in the sealed room. The interrogator cannot reach the person. The interrogator can only reach the operative. The operative does not break. The operative is the mask. The mask is comfortable. The training ends. The interrogator is impressed. She is not impressed. She is relieved. The seal held. The person is safe in the sealed room. The person did not have to lie. The person did not have to perform. The operative did both. The seal is the wall. The wall held. The wall always holds. The wall is the house she chose.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-014",
+    "bucket": 8,
+    "title": "The Apartment",
+    "age": 34,
+    "year": "Y34",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "C-004",
+      "CT-001",
+      "SG-003"
+    ],
+    "echoes_from": [
+      "B6-006",
+      "B8-007"
+    ],
+    "echoes_to": [
+      "B9-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a lease, keys, a door that locks from the inside, a window with a view of nothing important",
+    "emotional_signature": "a home that is not a house, and the difference is everything",
+    "body": "She signs a lease. An apartment. The apartment is not a house. The apartment is a base. The base is: one bedroom, a kitchen, a bathroom, a window. The window faces a courtyard. The courtyard has a tree. The tree is not the grandmother's garden. The tree is a tree. The apartment is hers. Hers. Not the stepfather's. Not the handler's. Not the agency's. Hers. She puts the keys on the counter. The keys are metal. The sound of metal on counter is the sound of ownership. She has never owned a door before. She has entered doors. She has mapped doors. She has locked doors. She has not owned a door. The door is hers. The lock is hers. The room is hers. The person can come out of the sealed room now. The person does not come out. Not yet. The seal is comfortable. The apartment is a start. The apartment is the first room that is not the work and not the house. The apartment is hers.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-015",
+    "bucket": 8,
+    "title": "The Flour Returns",
+    "age": 34,
+    "year": "Y34",
+    "dominance": "operational_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-002",
+      "C-001"
+    ],
+    "echoes_from": [
+      "B7-008",
+      "B6-008"
+    ],
+    "echoes_to": [
+      "B9-002"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "flour in her own kitchen, a bag of it, the cloud that rises when she opens it",
+    "emotional_signature": "the kitchen she builds is the kitchen the grandmother built",
+    "body": "She buys flour. For the apartment. The apartment has a kitchen. The kitchen is small. The kitchen is hers. She opens the bag. The flour rises. The cloud is the same cloud that rose in the grandmother's kitchen. The smell is the same. The smell is the grandmother. The smell is the kitchen. She stands in her own kitchen and the flour is in the air and the flour is the grandmother and the grandmother is in the kitchen and the kitchen is hers. She does not bake. She stands. She breathes. The flour is in the air. The apartment is quiet. The apartment is not the house. The apartment is not the hotel room. The apartment is a kitchen with flour in the air. The flour is the bridge. The bridge connects the person to the grandmother. The bridge is open. The person steps onto the bridge. The person breathes. The person is in the kitchen. The kitchen is the grandmother's. The kitchen is hers. Both.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-016",
+    "bucket": 8,
+    "title": "The Meeting That Changed Nothing",
+    "age": 35,
+    "year": "Y35",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-005",
+      "O-002"
+    ],
+    "echoes_from": [
+      "B7-013"
+    ],
+    "echoes_to": [
+      "B8-017"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a restaurant, a person across the table, the specific distance of two people who could be closer but are not",
+    "emotional_signature": "closeness is a risk, and the risk is not worth taking, again",
+    "body": "A person. Not an asset. Not a handler. A person. Someone she met at the bakery. Someone who does not know about the work. Someone who asks her to dinner. She goes. The dinner is fine. The person is kind. The kindness is the grandmother's kindness. The kindness is the wrong thing. The wrong thing is: she wants to let the person in. She cannot let the person in. The person would have to see the sealed room. The sealed room is not for civilians. The civilians get the operative. The operative is the mask. The person at the dinner is looking at the mask. The mask is beautiful. The mask is also a wall. She goes home. She locks the door. She stands in the kitchen. The flour is on the counter. She does not open the bag. She does not need the flour tonight. She needs the locked door. The door is hers. The person is outside. The person stays outside. The dinner was fine. The dinner changed nothing. Nothing changes. The seal holds.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-017",
+    "bucket": 8,
+    "title": "The Last Solo",
+    "age": 35,
+    "year": "Y35",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-004",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B8-013",
+      "B8-006"
+    ],
+    "echoes_to": [
+      "B9-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a rooftop, a city at night, the final assessment before the final action",
+    "emotional_signature": "the last time the operative acts alone, the next time there will be a reason that is not the mission",
+    "body": "The last solo mission. A rooftop. A city at night. The target is in the building across the street. The window is the third from the left. She has mapped the building. She has mapped the target. She has mapped the exit. The exit is: down the fire escape, through the alley, into the van. The van is three blocks away. The driver does not know her name. She does not know the driver's name. The names are not the point. The point is the window. The window is the door. She goes through the door. The mission is completed. She exits. The van is there. She is in the van. The van moves. The city is behind her. The mission is the last solo. She does not know this. She will know. The next mission will not be solo. The next mission will have a variable she has not accounted for. The variable is: a child. Her child. The variable is in the future. The future is not on the rooftop. The future is in a hospital. The hospital is not tonight.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-018",
+    "bucket": 8,
+    "title": "The Crack Widens",
+    "age": 35,
+    "year": "Y35",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-002",
+      "CT-003",
+      "B-001"
+    ],
+    "echoes_from": [
+      "B8-010",
+      "B8-011"
+    ],
+    "echoes_to": [
+      "B9-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the sealed room, the sound of something pressing against the wall from the inside",
+    "emotional_signature": "the person is pushing and the operative is holding and something has to give",
+    "body": "The crack widens. Not all at once. Over months. The child in the photograph. The phone call to the disconnected number. The apartment with the flour. The dinner that changed nothing. The cracks are adding up. The seal is still soundproof. The seal is still holding. But the person is pushing against the wall. The person wants out. The person has been in the sealed room for ten years. Ten years of operative and no civilian. Ten years of mask and no face. The person is pushing. The operative is holding. The holding is the training. The pushing is the grandmother. The grandmother is the love and the wound. The love pushes. The wound pushes. The operative holds. Something has to give. The giving will not be the seal breaking. The giving will be the seal opening. The seal will open from the inside. The person will come out. The person will come out because something is coming that is larger than the seal. The something is not a mission. The something is a child. The child is not the child in the photograph. The child is hers.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B8-019",
+    "bucket": 8,
+    "title": "The Counter-Surveillance Detection",
+    "age": 33,
+    "year": "Y33",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "SG-004"
+    ],
+    "echoes_from": [
+      "B7-005",
+      "B8-006"
+    ],
+    "echoes_to": [
+      "B8-010"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a face that appears twice, the specific tension of being watched",
+    "emotional_signature": "the watched becomes the watcher, and the reversal is the oldest skill",
+    "body": "She spots the tail. A face that appears twice. The first time: the cafe. The second time: the street three blocks from the hotel. Two appearances is a pattern. The pattern is the house. The pattern is always the house. She does not change her pace. She does not look at the face. She maps the face. The face is male, mid-thirties, professional shoes, no visible earpiece. The tail is good. She is better. She completes the route. She enters the hotel. She locks the door. She reports the tail. The handler says: noted. The noted is the handler saying the tail is expected. The tail is not expected by her. The tail is a variable. The variable is: someone is watching the watcher. She is the watched. She does not like being the watched. The watched is the child at the window. The watched is the performance at the counselor. The watched is the house. She is not in the house. She is in the hotel. The hotel is hers. The tail is outside. She is inside. Inside is control. Control is safe.",
+    "review_status": "approved"
+  }
+]

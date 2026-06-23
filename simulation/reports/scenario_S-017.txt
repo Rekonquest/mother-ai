@@ -1,0 +1,47 @@
+============================================================
+SCENARIO: Protectee Followed From School (S-017)
+Category: protective_execution | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B9-1213 (Threat Letter) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1180 (Secure Movement) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1323 (Threat Letter [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1381 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1204 (Protective Intelligence) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1156 (Venue Security) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1137 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1355 (Protective Positioning [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1117 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1341 (Threat Letter [CD]) [LOAD-BEARING] Bucket 10 integrated
+  ... and 387 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B10-1323, B10-1355, B10-1228
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-002 (protective)
+    Activation: 1.00 | Memories: B9-1156, B10-1137, B10-1355
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-009 (physical_execution)
+    Activation: 1.00 | Memories: B10-1355, B10-1329, B9-1310
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-014 (protective_execution)
+    Activation: 1.00 | Memories: B10-1180, B10-1323, B10-1117
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-011 (protective_execution)
+    Activation: 1.00 | Memories: B9-1213, B10-1204, B10-1117
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-010 (physical_execution)
+    Activation: 1.00 | Memories: B8-627, B8-591, B8-579
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-024 (protective_execution)
+    Activation: 1.00 | Memories: B10-1381, B9-1156, B10-1228
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-006 -> B10-007 -> B10-008 -> B10-009 -> B10-010

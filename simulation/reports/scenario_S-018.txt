@@ -1,0 +1,48 @@
+============================================================
+SCENARIO: Social Engineering Target Approaches Protectee (S-018)
+Category: social_engineering | Pressure: 0.6
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1293 (Protective Surveillance [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1267 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1206 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B9-1166 (Protective Surveillance) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-017 (The Night the Child Drove) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [1.00] B10-1335 (Secure Movement [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] ANCHOR-004 (The Godfather Conversation) [LOAD-BEARING] Bucket 10 integrated -> B10-003 -> ANCHOR-005 -> B11-002
+  [1.00] B10-1150 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1330 (Close Protection [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-010 (The Code Word) [LOAD-BEARING] Bucket 10 integrated -> B10-011 -> B10-012 -> B11-005
+  ... and 446 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-005 (social_engineering)
+    Activation: 1.00 | Memories: B8-1635, B10-1509, B7-1676
+    Strong activation (83 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-017, B10-1335, B10-010
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-003 (protective)
+    Activation: 1.00 | Memories: B9-1206, ANCHOR-004, B10-1150
+    Strong activation (63 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-006 (social_engineering)
+    Activation: 1.00 | Memories: B10-1597, B10-1509, B10-1428
+    Strong activation (90 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-011 (protective_execution)
+    Activation: 1.00 | Memories: B10-1293, B10-1267, B9-1166
+    Strong activation (65 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-024 (protective_execution)
+    Activation: 1.00 | Memories: B10-1267, B10-1330, B9-1298
+    Strong activation (87 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-017 -> B11-005
+  ANCHOR-004 -> B10-003 -> ANCHOR-005 -> B11-002
+  B10-010 -> B10-011 -> B10-012 -> B11-005
+  B9-015 -> B10-001
+  B10-007 -> B10-008 -> B10-009 -> B10-010 -> B10-011

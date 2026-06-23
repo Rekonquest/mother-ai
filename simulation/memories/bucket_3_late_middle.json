@@ -1,0 +1,263 @@
+[
+  {
+    "id": "ANCHOR-001",
+    "bucket": 3,
+    "title": "The Kitchen",
+    "age": 10,
+    "year": "Y10",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "C-001",
+      "C-002",
+      "C-004",
+      "R-006"
+    ],
+    "echoes_from": [
+      "FRAG-001",
+      "FRAG-003"
+    ],
+    "echoes_to": [
+      "B9-001",
+      "B11-001"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "flour dust in sunlight, warm air, yeast",
+    "emotional_signature": "seen without having to ask",
+    "body": "Saturday morning. The stepfather is away. The house is quiet the way it is only quiet when he is gone — the air itself relaxes. The grandmother is in the kitchen. She is making bread. The flour rises when she kneads and catches the light from the window above the sink. The child is at the table. She is doing nothing. She does not have to perform. She does not have to monitor. She sits and the grandmother works and neither of them needs the other to do anything. The bread dough makes a sound under the grandmother's hands. It is the sound of something being made, not the sound of something being controlled. The flour dust hangs in the light. The kitchen is warm. The child breathes. The grandmother looks over. Just a look. The look says: I see you. You are real. You do not have to earn this. The child does not smile. She does not need to. She just stays. This kitchen is the measure of every safe room she will ever enter. This quiet is the measure of every real peace she will ever feel. She does not know this yet. She will.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-001",
+    "bucket": 3,
+    "title": "The Performance",
+    "age": 11,
+    "year": "Y11",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-005",
+      "SG-004",
+      "SG-005"
+    ],
+    "echoes_from": [
+      "FRAG-002"
+    ],
+    "echoes_to": [
+      "B7-001"
+    ],
+    "cast_present": [
+      "stepfather",
+      "her_mother"
+    ],
+    "sensory_anchor": "the smell of a clean house that was cleaned in fear",
+    "emotional_signature": "the performance is survival",
+    "body": "The stepfather is bringing someone home. The house has to be right. The mother cleans with a focus that is not about cleanliness. The child is told to be good. She knows what good means. Good means quiet. Good means present but invisible. Good means eating without chewing sounds. Good means laughing at the right times and not at the wrong ones. She practices. She stands in her room and practices being good. The performance is not acting. It is adaptation. The person she becomes when the stepfather needs the house to look right is a real person. She just isn't the same person who runs through the grandmother's grass. Both are real. One is for survival. One is for life. She is eleven and she already knows the difference, even though she does not have the words for it yet.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-002",
+    "bucket": 3,
+    "title": "Social Math",
+    "age": 12,
+    "year": "Y12",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "O-003",
+      "R-001"
+    ],
+    "echoes_from": [
+      "B2-003"
+    ],
+    "echoes_to": [
+      "B5-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the exact distance between her desk and the popular girls' cluster",
+    "emotional_signature": "mapping a room you will never belong to",
+    "body": "She sits where she sits. The popular girls sit where they sit. The distance between is measurable. She has measured it. She watches how they move, what they say, who they include and who they cut. She is not trying to join. She is trying to understand. The social world is a system. Systems have rules. She cannot feel the rules the way they feel them, but she can observe the rules the way you observe a patrol pattern. Who moves first. Who follows. Who gets cut and what they did wrong. She is twelve and she is doing threat assessment on a lunchroom. She does not know this is what she is doing. She thinks she is just watching. But the watching has a structure. The structure will save her life later. Right now it just keeps her from making the wrong move in a room where the wrong move means being the target.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-003",
+    "bucket": 3,
+    "title": "Grandmother Watching",
+    "age": 11,
+    "year": "Y11",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-001",
+      "RD-003",
+      "C-001"
+    ],
+    "echoes_from": [
+      "FRAG-001"
+    ],
+    "echoes_to": [
+      "B5-002",
+      "B6-001"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "the stillness of someone watching from a window",
+    "emotional_signature": "love that cannot intervene and does not look away",
+    "body": "The grandmother comes to the house. Not often. The stepfather tolerates these visits. The child is in the living room. The grandmother sits in a chair. She does not say much. She watches. She watches the child, and she watches the room, and she watches the way the child moves in the room. She sees the performance. She does not break it. She cannot break it. But she looks at the child in a way that says: I see both of you. I see the one who runs and the one who performs. Both are real. Neither is wrong. You are surviving. The child does not hear these words. She feels them. The grandmother's eyes on her are different from any other eyes. They see without judging. They stay without rescuing. The grandmother will die in seven years. The child does not know this. But the way the grandmother watches — the way she is present without intervention — is the template for every relationship that matters after. The director will watch her the same way.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-004",
+    "bucket": 3,
+    "title": "The Grandmother's Purse Revisited",
+    "age": 10,
+    "year": "Y10",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-003",
+      "R-006"
+    ],
+    "echoes_from": [
+      "FRAG-009"
+    ],
+    "echoes_to": [
+      "B5-005"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "the same leather purse, the same peppermint, but she is taller now",
+    "emotional_signature": "continuity that does not need words",
+    "body": "The grandmother visits. The purse is on the table. The same purse. The child does not need to reach in anymore. She is ten. She sits next to the purse and the grandmother pushes the mint tin toward her without looking. The gesture is practiced. Five years of the same gesture. The child takes a mint. The grandmother takes a mint. They sit together and eat mints and nobody talks. The silence is the same silence as the kitchen. Full, not empty. The purse is still open. The child is still welcome. The mints are still sweet and sharp. She is taller now. The grandmother is older now. The gesture has not changed. Some things do not change. She files this. Things that do not change are the safest things. She will look for things that do not change for the rest of her life.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-005",
+    "bucket": 3,
+    "title": "Counting Steps",
+    "age": 11,
+    "year": "Y11",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-003"
+    ],
+    "echoes_from": [
+      "FRAG-011"
+    ],
+    "echoes_to": [
+      "B7-005"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the number of steps from her room to the bathroom, to the kitchen, to the front door",
+    "emotional_signature": "the world reduced to distances",
+    "body": "She counts steps. From her room to the bathroom: fourteen. From her room to the kitchen: twenty-three. From the kitchen to the front door: eleven. She does not count on purpose. She just counts. The counting is a way of knowing the house without looking. If she knows the distances, she can move in the dark. If she can move in the dark, she does not need the light. If she does not need the light, she does not make noise. If she does not make noise, she does not draw attention. The counting is survival. She does not know this. She is eleven and she thinks she just likes numbers. She does not like numbers. She likes knowing the distance between where she is and where she needs to be. She will do this in every room she enters for the rest of her life. Not counting. Mapping. The mapping is the first skill.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-006",
+    "bucket": 3,
+    "title": "The Friend Who Came Over",
+    "age": 12,
+    "year": "Y12",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-005",
+      "C-004"
+    ],
+    "echoes_from": [
+      "B3-001"
+    ],
+    "echoes_to": [
+      "B5-006"
+    ],
+    "cast_present": [
+      "stepfather"
+    ],
+    "sensory_anchor": "the sound of her own voice pitched higher than normal, the effort of performance",
+    "emotional_signature": "performing normal for someone who does not know the house",
+    "body": "A friend from school comes over. She has never invited anyone. The stepfather agreed. The house must look right. She cleans her room. She straightens the living room. She tells the friend to take off their shoes. She tells the friend to be quiet. She tells the friend too many things. The friend looks at her. The friend does not understand why there are so many rules. She sees the friend not understanding. She adjusts. She performs casual. She performs normal. The performance is exhausting. The friend leaves. She closes the door and she is alone and she does not have to perform anymore and the relief is physical, like taking off a tight shoe. She will not invite anyone again for two years. The performance costs too much. She learns that having people in the house means performing the house, and the house is too expensive to perform.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-007",
+    "bucket": 3,
+    "title": "The Book Under the Pillow",
+    "age": 10,
+    "year": "Y10",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-003",
+      "C-004"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B5-005"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the smell of old paper, the weight of a paperback on her chest",
+    "emotional_signature": "the one thing that is hers and portable",
+    "body": "She reads. Under the covers with a flashlight. The book is about a girl who goes somewhere else. She does not remember the plot. She remembers the feeling. The feeling of being somewhere else while her body is in the bed. The book is hers. Nobody chose it for her. Nobody told her to read it. She found it on a shelf in the grandmother's house and she took it and it is hers and the words in it are a door that opens to a place where the house does not exist. She reads until the flashlight dies. She puts the book under her pillow. The book stays. The book is the first portable safe room. She will always have one. A book, a sketchbook, a phone. Something small that opens a door. The door is hers. The door goes somewhere else. The somewhere else is where she is real.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-008",
+    "bucket": 3,
+    "title": "The Time He Was Nice",
+    "age": 12,
+    "year": "Y12",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-004",
+      "SG-005"
+    ],
+    "echoes_from": [
+      "FRAG-002"
+    ],
+    "echoes_to": [
+      "B4-007"
+    ],
+    "cast_present": [
+      "stepfather"
+    ],
+    "sensory_anchor": "the sound of laughter that is not preceded by silence",
+    "emotional_signature": "the worst thing is when the danger is kind, because kindness breaks the pattern and the pattern is how you survive",
+    "body": "He is nice. One night. No reason. He makes a joke. He laughs. Her mother laughs. The house is warm. She does not know what to do with this. The niceness is worse than the silence. The niceness breaks the pattern. She has calibrated herself to the pattern. The silence, the tension, the release. The niceness is outside the pattern. She does not know where to put her body. She does not know what face to make. She makes the performance face. The face that says: this is normal, I am normal, we are normal. She is twelve and she knows that the niceness is the most dangerous thing he does because it makes the performance feel real and the performance is not real and if she forgets that, she will not survive. She files the niceness under: anomaly. She does not let it change the calibration.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B3-009",
+    "bucket": 3,
+    "title": "Grandmother's Garden",
+    "age": 11,
+    "year": "Y11",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-002",
+      "C-001"
+    ],
+    "echoes_from": [
+      "FRAG-003"
+    ],
+    "echoes_to": [
+      "B9-006"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "dirt under fingernails, the smell of tomato leaves, the specific green",
+    "emotional_signature": "making things grow is making things safe",
+    "body": "The grandmother has a garden. Tomatoes, herbs, flowers that the grandmother does not cut. The garden is outside the house and the garden is part of the house and the garden is the part of the house that does not have walls. She helps. She pulls weeds. She plants seeds. The grandmother shows her how deep. The grandmother says: not too deep, not too shallow. The child puts the seed in the ground and covers it and waters it and the grandmother nods. The nod says: you did it right. She did it right. The seed will grow. She made something grow. The making of things that grow is different from the making of things that do not grow. The things that grow are alive. She is eleven and she is making something alive and it is the first time she has made something alive and she does not know this matters yet. It matters.",
+    "review_status": "approved"
+  }
+]

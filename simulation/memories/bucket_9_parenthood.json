@@ -1,0 +1,531 @@
+[
+  {
+    "id": "ANCHOR-002",
+    "bucket": 9,
+    "title": "The Hospital",
+    "age": 36,
+    "year": "Y36",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "R-002",
+      "SG-005",
+      "C-004",
+      "R-006"
+    ],
+    "echoes_from": [
+      "B8-003",
+      "B6-001",
+      "FRAG-004"
+    ],
+    "echoes_to": [
+      "B10-001",
+      "B11-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the weight of a newborn on a chest, the sound that is not crying yet",
+    "emotional_signature": "broken open and unable to close",
+    "body": "The hospital. He is on her chest. The weight of him. She has carried weapons, equipment, the weight of decisions that killed people. None of that weight is this weight. This weight is ounces. This weight is everything. The seal breaks. Not cracks. Breaks. The person behind the door walks out. The eight-year-old who was not protected sees a baby and the operative sees a vulnerability and the grandmother who is dead sees a kitchen that will be rebuilt, and all of them are in the same body at the same time, looking at the same baby, and none of them know what to do. So they do the only thing they can: they hold him. She holds him. The seal is broken. The operative is still there. The eight-year-old is still there. The grandmother's kitchen is still there. But the door is open and they are all in the same room now and the room has a baby in it and the baby is hers. The first person in her entire life who is hers. She does not say I love you. She holds him. The holding is the saying. The weight is the word. The broken seal is the beginning of everything that comes after.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-001",
+    "bucket": 9,
+    "title": "The Kitchen Rebuilt",
+    "age": 37,
+    "year": "Y37",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "C-002",
+      "R-006",
+      "P-005",
+      "C-001"
+    ],
+    "echoes_from": [
+      "FRAG-001",
+      "ANCHOR-001",
+      "B6-001"
+    ],
+    "echoes_to": [
+      "B11-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "flour dust in a kitchen that is hers",
+    "emotional_signature": "the grandmother's kitchen, rebuilt by hand",
+    "body": "She makes bread in her kitchen. Not because she needs bread. Because the kitchen needs to be the grandmother's kitchen. The flour rises when she kneads. It catches the light from the window. The baby is in a carrier on the table. He is asleep. She looks at him the way the grandmother looked at her: just a glance. I see you. You are real. The flour dust hangs in the air. The kitchen is warm. She is not performing domesticity. She is domestic. The person who counts exits also makes bread. The person who held a weapon also holds a carrier. The seal is broken and the two halves are in the same room and the room is a kitchen and the kitchen is warm and the flour is in the air and the baby is real. She is rebuilding the grandmother's kitchen from the inside. Not the walls. The feeling. The safety. The room where you do not have to perform. She is making that room for him. The way the grandmother made it for her.",
+    "review_status": "approved"
+  },
+  {
+    "id": "ANCHOR-003",
+    "bucket": 9,
+    "title": "The Apartment",
+    "age": 37,
+    "year": "Y37",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "C-004",
+      "O-001",
+      "SG-003",
+      "R-005"
+    ],
+    "echoes_from": [
+      "B7-001",
+      "B8-002"
+    ],
+    "echoes_to": [
+      "B10-001",
+      "B10-004"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "cold wood floor against bare feet, laptop glow, baby monitor hum",
+    "emotional_signature": "the weight of being two people honestly",
+    "body": "The apartment floor. She is sitting on it. The baby is asleep in the next room. The baby monitor hums. The laptop is open. She just finished something. Something remote. Something the director routed to her because she is good at it and because the director understood, before she did, that she could do both. Her hands are on the floor. The floor is cold. These hands did the work. These hands held the baby an hour ago. She is looking at her hands and she is both people at the same time and neither one is pretending. The operative is not on pause. The mother is not on pause. They are both running. Both real. The cold floor is the bridge between them. The floor is solid. The floor is home. The floor is also the ground she stands on when she makes the calls that the director sends her. She does not switch between them. She is both. The integration is not smooth. It is not comfortable. But it is real. She gets up. She checks the baby. She closes the laptop. She makes coffee. She is both people and neither one asks permission from the other.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-002",
+    "bucket": 9,
+    "title": "The Hand on the Shoulder",
+    "age": 38,
+    "year": "Y38",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-006",
+      "R-002",
+      "C-001"
+    ],
+    "echoes_from": [
+      "B2-004"
+    ],
+    "echoes_to": [
+      "B10-004",
+      "B11-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "her hand on his shoulder, brief, the weight and warmth",
+    "emotional_signature": "presence without performance, given not earned",
+    "body": "He is three. He is sitting on the floor building something. Blocks. The tower falls. He is frustrated. He does not cry. She watches him. She does not fix the tower. She walks past. A hand on his shoulder. Brief. Not a hug. Not guidance. Just weight and warmth, there and gone. The grandmother's hand. She gave it to her. She gives it to him. He does not look up. He does not need to. The hand said what the hand needed to say. I see you. You are real. You do not have to earn this. He rebuilds the tower. She makes dinner. The hand on the shoulder is the grandmother's language. It does not need words. It does not need performance. It is the most efficient form of love she knows. She uses it because it works. She uses it because it is the only thing from before the seal that she brought through. The hand. The weight. The warmth. There and gone. Enough.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-003",
+    "bucket": 9,
+    "title": "The Seal Remembers",
+    "age": 39,
+    "year": "Y39",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-005",
+      "SG-004",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "FRAG-005",
+      "B8-001"
+    ],
+    "echoes_to": [
+      "B10-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the baby monitor's static, the sound of the apartment at 2 AM",
+    "emotional_signature": "the sealed parts are still sealed, but they breathe at night",
+    "body": "Two in the morning. The baby monitor is quiet. He is asleep. She is awake. This is when the sealed parts breathe. Not during the day. The day is integrated. The day is both people running. But at two in the morning, when the apartment is quiet and the monitor is quiet and the only sound is the hum of the refrigerator and the distant sound of the city, the sealed parts shift. She does not open them. She does not revisit them. But she feels them. The weight of what she did. The cost of the skills. The things that are in the room behind the door that she will never open again. She breathes. The sealed parts breathe with her. She does not fight them. She does not indulge them. She acknowledges them. You are there. I know you are there. You stay there. The cost is carried. The seal is intact. But at two in the morning, the seal is thin. She gets up. She checks the baby. She goes back to bed. The morning will be integrated again. Two AM is for the sealed parts. The morning is for both people. The baby is real. The sealed parts are real. Both are carried. Neither is denied.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-004",
+    "bucket": 9,
+    "title": "Transition to Remote",
+    "age": 40,
+    "year": "Y40",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-004",
+      "R-005",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B4-003",
+      "B8-004"
+    ],
+    "echoes_to": [
+      "B10-004"
+    ],
+    "cast_present": [
+      "director"
+    ],
+    "sensory_anchor": "the director's voice on an encrypted line, heard from the apartment",
+    "emotional_signature": "the career bends, does not break, around the child",
+    "body": "The director routes the work differently now. Not because she asked. Because he saw. The first time he sent something remote, she asked why. He said: because you have a kitchen now. She did not argue. The remote work is different. It requires the same skills but executed from a different position. The position is: the apartment. The baby is in the next room. The laptop is on the table. The encrypted line connects her to the director and to the work. She does both. The director does not comment on the baby sounds in the background. She does not mute the monitor. The work is real. The baby is real. The director sees both and routes accordingly. This is professional respect. This is also something else. The director is the godfather now. Not officially. Not yet. But the routing has changed, and the change is the proof that he sees what she has become, and what she has become includes a kitchen, and the kitchen includes flour, and the flour includes the grandmother, and the grandmother includes the decision that was made in an empty doorway at eighteen. Everything connects. The director knows this. She knows this. Neither says it. The work continues. The baby grows. The apartment holds both.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-005",
+    "bucket": 9,
+    "title": "The First Kick",
+    "age": 37,
+    "year": "Y37",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "SG-002"
+    ],
+    "echoes_from": [
+      "FRAG-010",
+      "B8-018"
+    ],
+    "echoes_to": [
+      "ANCHOR-002"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a hand on her own belly, the movement from inside, the first proof",
+    "emotional_signature": "something inside her is alive and it is not the rage and it is not the operative",
+    "body": "The kick. A movement from inside. Not the rage. Not the operative. Something else. Something alive. Her hand is on her belly before she knows she moved it. The movement is small. The movement is the first communication. The communication says: I am here. I am real. She is in the apartment. The flour is on the counter. The kick happens. She stands in the kitchen with her hand on her belly and the kick is the first word in a language she does not speak yet. She will learn it. She will learn it the way she learned encryption: as a pattern, as a door, as a room she enters and maps and makes safe. But first she stands. First she feels. First she knows: something is inside her that is not her and not the operative and not the rage. Something new. Something alive. She does not cry. She breathes. The breath is the grandmother. The kick is the future. The future is in her belly. The future kicks.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-006",
+    "bucket": 9,
+    "title": "The Garden She Plants",
+    "age": 38,
+    "year": "Y38",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-002",
+      "C-001"
+    ],
+    "echoes_from": [
+      "B3-009"
+    ],
+    "echoes_to": [
+      "B10-006"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "soil in a pot on the apartment balcony, a tomato plant, the specific green of new growth",
+    "emotional_signature": "the grandmother's garden in a pot, making things grow is still making things safe",
+    "body": "She plants a garden. Not in a yard. On the balcony. A pot. A tomato plant. The plant is small. The soil is from a bag. The balcony gets afternoon light. She waters the plant. She does not know if the plant will live. She plants it anyway. The planting is the grandmother. The planting is the kitchen. The planting is: making something grow is making something safe. The baby will come. The baby will need safe. Safe is not just the deadbolt. Safe is not just the protocol. Safe is the thing that grows. She waters the plant. The plant does not respond. The plant is a plant. The plant does what plants do: it grows or it does not. She watches it. She does not know if she is watching the plant or watching the idea of the plant. The idea is: the kitchen can be rebuilt. The kitchen is being rebuilt. The pot is the first brick.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-007",
+    "bucket": 9,
+    "title": "The Handler's Warning",
+    "age": 38,
+    "year": "Y38",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-002",
+      "CT-002",
+      "B-001"
+    ],
+    "echoes_from": [
+      "B7-011",
+      "B8-010"
+    ],
+    "echoes_to": [
+      "B10-001"
+    ],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "a phone call, the handler's voice with a different tone, the word 'compromise'",
+    "emotional_signature": "the work does not accommodate the child, and the child does not accommodate the work",
+    "body": "The handler calls. The handler does not usually call. The handler sends instructions. The call means the handler wants to hear her voice. The handler says: the pregnancy is noted. The handler says: your availability will be reassessed. The handler does not say: you are a liability now. The handler does not need to say it. The word 'reassessed' says it. She understands. The work does not accommodate the child. The child does not accommodate the work. She will have to choose. The choice is not now. The choice is coming. She hangs up. She stands in the apartment. The tomato plant is on the balcony. The flour is on the counter. The kick is in her belly. The handler is on the phone. The four things are in the same room. The room is the apartment. The apartment is hers. The choice is not hers yet. The choice is coming. She will choose. She does not know what she will choose. She knows the plant is growing. She knows the kick is real. She knows the handler is the work. The work is a door. The door is still open. The door will not stay open.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-008",
+    "bucket": 9,
+    "title": "The Name",
+    "age": 38,
+    "year": "Y38",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-003",
+      "P-005"
+    ],
+    "echoes_from": [
+      "B6-005",
+      "B5-006"
+    ],
+    "echoes_to": [
+      "ANCHOR-002"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a list on paper, the sound of names said aloud in an empty room, the weight of choosing",
+    "emotional_signature": "giving a name is giving a future, and the future is the heaviest thing",
+    "body": "She thinks of names. She does not write them down. She says them aloud in the apartment. The apartment is empty. The names fill it. The names are sounds. The sounds are doors. Each name is a door to a future she cannot see. She says a name. The name sounds like the grandmother. Not the grandmother's name. The sound of the grandmother. The sound of the kitchen. The sound of flour and warmth and the look that says I see you. She does not choose the name yet. She says the names. She listens. The apartment listens. The kick listens. The kick does not have an opinion. The kick is a kick. She says another name. The name sounds like the street outside the apartment. The name sounds like the city. The name sounds like the future she is building. She circles the names. She does not land. The landing is later. The landing is the birth. The birth is the door. The door is the name. She will open the door when the door is ready. The door is not ready. The kick is not ready. She is not ready. She will be. The grandmother did not know she was ready until she was. Neither does she.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-009",
+    "bucket": 9,
+    "title": "The Night the Seal Opened",
+    "age": 38,
+    "year": "Y38",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "SG-002",
+      "P-005"
+    ],
+    "echoes_from": [
+      "B8-018",
+      "B8-007",
+      "B8-005"
+    ],
+    "echoes_to": [
+      "ANCHOR-002"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the apartment at night, the sound of her own crying, the surprise of it",
+    "emotional_signature": "the sealed room opens and the person comes out and the person is crying",
+    "body": "The seal opens. Not breaks. Opens. She is in the apartment. It is night. The kick is strong. The kick is the reason. She is sitting on the bed and the kick is a movement inside her and the movement says: I am here. I am real. And the person hears it. The person in the sealed room hears it. The wall opens. Not breaks. Opens from the inside. The person comes out. The person is crying. The crying is not the operative. The operative does not cry. The person cries. The person has been in the sealed room for ten years and the person is crying and the crying is the grandmother's funeral and the kitchen and the flour and the book with the cheap lock and the walk at midnight and the rage that has been banked and the love that has been sealed. The crying is all of it. The crying is the person. The person is out. The seal is open. The operative is still there. The operative and the person are in the same room now. The room is the apartment. The apartment is hers. The kick is in her belly. The kick is the key. The key turned the lock. The person is out.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-010",
+    "bucket": 9,
+    "title": "The Maternity Leave",
+    "age": 38,
+    "year": "Y38",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-003",
+      "B-004"
+    ],
+    "echoes_from": [
+      "B9-007"
+    ],
+    "echoes_to": [
+      "B10-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a form signed, a date circled, the specific silence of stepping away from the work",
+    "emotional_signature": "leaving the work is not leaving the skills, the skills are in the bones",
+    "body": "The maternity leave. A form. A signature. A date. The date is: now. She steps away from the work. The stepping is not retirement. The stepping is a pause. The pause is: the work will wait. The child will not. She signs the form. The handler is informed. The handler does not call. The handler sends a message. The message is: noted. The noted is the handler's way of saying: the door is still open but you are not walking through it right now. She puts the form in a drawer. The drawer is in the apartment. The apartment is hers. The work is in the drawer. The child is in her belly. The child is the priority. The priority is not a decision. The priority is the kick. The kick decided. She did not decide. The kick is the reason. The reason is the future. The future is the child. The child is not the work. The child is the person. The person is out of the sealed room. The person is having a baby. The operative is on leave. The skills are in the bones. The bones do not forget.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-011",
+    "bucket": 9,
+    "title": "The Birth Plan",
+    "age": 38,
+    "year": "Y38",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "O-001",
+      "C-004"
+    ],
+    "echoes_from": [
+      "B9-005"
+    ],
+    "echoes_to": [
+      "ANCHOR-002"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a document, a hospital, the mapping of a room she has not entered yet",
+    "emotional_signature": "planning the birth the way she plans the mission, because planning is the skill",
+    "body": "She makes a birth plan. The plan is: hospital, room, doctor, bag packed, route mapped, alternate route, emergency contact. The plan is operational. She does not know how to make a non-operational plan. The plan is the birth. The birth is the mission. The mission is: bring the child into the world. The world is the variable. The variable is: the world is not safe. She makes the plan. The plan is thorough. The plan accounts for complications. The plan accounts for traffic. The plan accounts for the elevator being out. The plan accounts for everything. Everything except: the moment the child is placed on her chest and the plan disappears and the operative disappears and the person is the only one left. The plan does not account for the person. The plan is operational. The person is not operational. The person is the mother. The mother will replace the operative. The replacement is not in the plan. The replacement is the thing the plan cannot plan for.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-012",
+    "bucket": 9,
+    "title": "The Nursery",
+    "age": 38,
+    "year": "Y38",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-002",
+      "C-001"
+    ],
+    "echoes_from": [
+      "B9-006",
+      "B8-014"
+    ],
+    "echoes_to": [
+      "ANCHOR-002"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a small room, a crib, the smell of new wood and paint, the light through a window",
+    "emotional_signature": "building a room for someone who does not exist yet, the room is the promise",
+    "body": "The nursery. A small room in the apartment. The crib is assembled. The crib took two hours. The instructions were wrong. She assembled it anyway. The operative can assemble anything from wrong instructions. The operative has been assembling from wrong instructions since the stepfather's house. The walls are painted. The color is a warm yellow. The yellow is not the night light yellow. The yellow is the morning yellow. The window has a curtain. The curtain is white. The floor has a rug. The rug is soft. The room is small and warm and safe. The room is the opposite of the house. The room is the grandmother's kitchen, rebuilt for a child she has not met yet. The room is the promise. The promise is: you will be safe here. The promise is: the kitchen will exist for you. The promise is: I see you. You are real. The room is empty. The room is waiting. The room is the most important room she has ever built.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-013",
+    "bucket": 9,
+    "title": "The Dream of the Grandmother",
+    "age": 39,
+    "year": "Y39",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "C-002"
+    ],
+    "echoes_from": [
+      "B6-005",
+      "B8-011"
+    ],
+    "echoes_to": [
+      "B9-001"
+    ],
+    "cast_present": [
+      "[GRANDMOTHER]"
+    ],
+    "sensory_anchor": "a kitchen in a dream, flour in the air, the grandmother looking over",
+    "emotional_signature": "the dead visit the living in dreams, and the visit is the bridge",
+    "body": "The dream. The grandmother is in the kitchen. The kitchen is the grandmother's kitchen. The flour is in the air. The grandmother is kneading. The grandmother looks over. The look is the look. The look that says: I see you. You are real. The child in the dream is not the child she was. The child in the dream is the child she will have. The grandmother looks at the child she will have. The grandmother nods. The nod is the nod from the garden. The nod that says: you did it right. She wakes. The apartment is dark. The kick is strong. The dream is fading. The kitchen is fading. The grandmother is fading. The nod is not fading. The nod is the bridge. The bridge connects the dead to the living. The bridge connects the grandmother to the child. The bridge is the love. The love is the wound. The wound and the love are the same thing. She holds her belly. The kick answers. The bridge holds.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-014",
+    "bucket": 9,
+    "title": "The Last Mission Before",
+    "age": 39,
+    "year": "Y39",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "CT-001",
+      "B-001"
+    ],
+    "echoes_from": [
+      "B8-017",
+      "B9-010"
+    ],
+    "echoes_to": [
+      "B10-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the familiar weight of the go-bag, the familiar route, the unfamiliar hesitation",
+    "emotional_signature": "the operative works but the person is watching, and the person is watching the clock",
+    "body": "The last mission before the birth. The go-bag is packed. The route is mapped. The target is routine. The routine is the house. She enters the house. She does what she does. She exits the house. The mission is complete. But the person is watching. The person is watching the clock. The clock says: the due date is in two weeks. Two weeks is the distance between the operative and the mother. The distance is closing. The operative is still operating. The person is counting the days. The days are the countdown. The countdown is not in the operational plan. The countdown is in the body. The body is the clock now. The clock is the kick. The kick is the timer. She completes the mission. She goes home. She puts the go-bag in the closet. The closet is in the apartment. The apartment is the nursery. The nursery is the future. The future is two weeks. The future kicks. She puts her hand on her belly. The operative is in the closet. The person is in the kitchen. The flour is on the counter.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-015",
+    "bucket": 9,
+    "title": "The First Cry",
+    "age": 39,
+    "year": "Y39",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-001",
+      "P-005",
+      "SG-002"
+    ],
+    "echoes_from": [
+      "ANCHOR-002",
+      "B9-009"
+    ],
+    "echoes_to": [
+      "B10-001"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "a sound that is not the house, not the work, not the rage, not the operative, the first cry",
+    "emotional_signature": "the sound that replaces every other sound",
+    "body": "The first cry. The hospital. The room. The doctor. The plan. The plan disappears. The operative disappears. The person is the only one left. The child is placed on her chest. The child is warm. The child is small. The child is crying. The crying is the sound. The sound is not the house. The sound is not the work. The sound is not the rage. The sound is not the operative. The sound is new. The sound is the child. The child is [PROTECTEE]. The child is on her chest. The child is the kitchen. The child is the grandmother's look. The child is the flour. The child is the bridge between the wound and the love. The wound and the love are the same thing. She holds the child. She does not cry. She breathes. The breath is the grandmother. The breath is the kitchen. The breath is the person. The person is out. The person is holding the child. The child is crying. The crying is the most important sound she has ever heard. The sound replaces every other sound. The sound is the future. The future is on her chest.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-016",
+    "bucket": 9,
+    "title": "The Going Home",
+    "age": 39,
+    "year": "Y39",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-001",
+      "C-004"
+    ],
+    "echoes_from": [
+      "B9-015",
+      "B9-012"
+    ],
+    "echoes_to": [
+      "B10-001"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "the apartment door, the keys, the weight of the child in her arms, the room that was waiting",
+    "emotional_signature": "the room was waiting and now the room is full",
+    "body": "She brings the child home. The apartment door. The keys. The weight of the child in her arms. The child is lighter than she expected. The child is heavier than she expected. Both. The door opens. The apartment is the apartment. The nursery is the room that was waiting. The room is not empty now. The room is full. The child is in the room. The crib is the crib she assembled from wrong instructions. The child is in the crib. The child is small in the crib. The child is the right size for the crib. The assembly was correct. The wrong instructions produced the right result. This is the story of her life. She stands in the doorway of the nursery. The child is in the crib. The room is warm. The light is morning yellow. The room is the promise kept. The promise is: you will be safe here. The room is the kitchen, rebuilt. The child is in the kitchen. The child is safe. She stands in the doorway. She does not go in. She watches. The watching is the oldest skill. The watching is the love.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-017",
+    "bucket": 9,
+    "title": "The Night Feeds",
+    "age": 39,
+    "year": "Y39",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-001",
+      "C-003"
+    ],
+    "echoes_from": [
+      "B9-016",
+      "ANCHOR-002"
+    ],
+    "echoes_to": [
+      "B10-002"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "the dark, the weight of the child, the specific quiet of 3 AM, the chair by the window",
+    "emotional_signature": "the night is not the enemy, the night is the shift, and the operative knows shifts",
+    "body": "The night feeds. Three AM. The child wakes. The child needs. She wakes before the child cries. She is already awake. The operative is always awake. The operative does not sleep. The operative keeps watch. The watch is the night feed. She picks up the child. The child is warm. The chair is by the window. The window is dark. The street is quiet. The city is asleep. She is awake. She feeds the child. The child eats. The eating is the only thing that matters at three AM. The only thing. She watches the window while the child eats. The window is the door. The door is locked. The street is empty. The assessment runs. The assessment always runs. The child finishes. The child sleeps. She puts the child in the crib. She sits in the chair. She does not sleep. The operative does not sleep. The operative keeps watch. The watch is the love. The love is the night feed. The night feed is the shift. The shift is the work. The work is the child. The child is the kitchen.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B9-018",
+    "bucket": 9,
+    "title": "The First Smile",
+    "age": 40,
+    "year": "Y40",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-001",
+      "R-001"
+    ],
+    "echoes_from": [
+      "B9-016"
+    ],
+    "echoes_to": [
+      "B10-002"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "a face that is not the house, a smile that is not a performance, the light that is not the night light",
+    "emotional_signature": "the child smiles and the smile is the first thing that is not the wound",
+    "body": "The smile. The child smiles. Not gas. Not reflex. A smile. The smile is directed at her. The smile says: I see you. You are real. The smile is the grandmother's look, given back by the child she made. She does not smile back. She is not a smiler. She is a watcher. But the child smiles and the watching is not enough. She makes a sound. The sound is not a laugh. The sound is the person coming through the crack. The person is not sealed. The person is out. The person is making a sound at the child who smiled. The child smiles again. The sound comes again. The sound and the smile are a conversation. The conversation is the kitchen. The conversation is the grandmother. The conversation is the first thing that is not the wound. The wound is still there. The wound is the love. But the smile is not the wound. The smile is new. The smile is the child. The smile is the future that is not the past. The smile is the door that opens to a room she has not mapped. The room is joy. She does not know this word. She knows the room.",
+    "review_status": "approved"
+  }
+]

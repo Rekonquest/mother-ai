@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B8-001",
+    "bucket": 8,
+    "title": "Network Penetration",
+    "age": 30,
+    "year": "Y30",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "SG-001",
+      "CT-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "a cursor blinking in a terminal, the hum of a server rack, the particular cold of a data center",
+    "emotional_signature": "the digital room is still a room, and she still maps it",
+    "body": "The network. A target's infrastructure. She maps it the way she maps every room. a cursor blinking in a terminal, the hum of a server rack, the particular cold of a data center. The entry point is a service left running. The service is a door that was not closed. She walks through. The target does not know. the digital room is still a room, and she still maps it.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-002",
+    "bucket": 8,
+    "title": "Lateral Movement",
+    "age": 27,
+    "year": "Y27",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "CT-001",
+      "O-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the rain on a car window during surveillance, the fog on the glass, the target's light in the window",
+    "emotional_signature": "the building is a puzzle, the puzzle is the house, the house is the pattern she has always solved",
+    "body": "The lateral movement. the rain on a car window during surveillance, the fog on the glass, the target's light in the window. She assesses. She acts. The assessment is the default. the building is a puzzle, the puzzle is the house, the house is the pattern she has always solved.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-003",
+    "bucket": 8,
+    "title": "Attribution Analysis",
+    "age": 31,
+    "year": "Y31",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "O-003",
+      "O-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "the feel of a key in a lock that is not her lock, the torque, the give, the open",
+    "emotional_signature": "the building is a puzzle, the puzzle is the house, the house is the pattern she has always solved",
+    "body": "The attribution analysis. the feel of a key in a lock that is not her lock, the torque, the give, the open. She assesses. She acts. The assessment is the default. the building is a puzzle, the puzzle is the house, the house is the pattern she has always solved.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-004",
+    "bucket": 8,
+    "title": "Phishing Campaign",
+    "age": 27,
+    "year": "Y27",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "SG-001",
+      "O-003"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "the smell of a building that is closed for the night, the hum of the HVAC, the emergency lights",
+    "emotional_signature": "the safe house is the house that is actually safe, and the irony is not lost on her",
+    "body": "The phishing campaign. the smell of a building that is closed for the night, the hum of the HVAC, the emergency lights. She assesses. She acts. The assessment is the default. the safe house is the house that is actually safe, and the irony is not lost on her.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-005",
+    "bucket": 8,
+    "title": "Encryption Bypass",
+    "age": 35,
+    "year": "Y35",
+    "dominance": "operational_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "CT-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the scrollbar shrinking as the download completes, the hash that matches, the signature verified",
+    "emotional_signature": "the digital room is still a room, and she still maps it",
+    "body": "The encryption bypass. the scrollbar shrinking as the download completes, the hash that matches, the signature verified. She assesses. She acts. The assessment is the default. the digital room is still a room, and she still maps it.",
+    "review_status": "generated"
+  }
+]

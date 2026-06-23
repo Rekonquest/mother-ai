@@ -1,0 +1,448 @@
+[
+  {
+    "id": "B7-001",
+    "bucket": 7,
+    "title": "Recruitment",
+    "age": 21,
+    "year": "Y21",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-003",
+      "SG-005"
+    ],
+    "echoes_from": [
+      "B3-001",
+      "B4-003",
+      "B6-002"
+    ],
+    "echoes_to": [
+      "B8-001",
+      "ANCHOR-003"
+    ],
+    "cast_present": [
+      "director"
+    ],
+    "sensory_anchor": "a room with no windows, the hum of ventilation",
+    "emotional_signature": "the skill set fits like a weapon fits a hand",
+    "body": "The director is the one who sees it. She is twenty-one, working an unremarkable job, and she is the most observant person in any room she enters. She does not know this about herself. She thinks everyone maps exits. She thinks everyone reads the room's emotional weather before sitting down. She thinks everyone holds rage in their chest like a banked fire and chooses not to spend it. They don't. The director sees her in a situation that is not worth describing. She handles it. Not heroically. Professionally. She assesses. She positions. She acts with the minimum force required. She walks away. The director follows. He is calm the way the grandmother was calm. Not warm. Not cold. Present. He asks her a question that is not about the situation. He asks: who taught you to read rooms? She says nobody. He says: I know. That is the recruitment conversation. Not dramatic. A question and an answer and a card with a phone number. She calls the number. The room she walks into has no windows.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-002",
+    "bucket": 7,
+    "title": "The Shut-Off",
+    "age": 22,
+    "year": "Y22",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-005",
+      "O-003",
+      "SG-003"
+    ],
+    "echoes_from": [
+      "FRAG-002",
+      "B4-002"
+    ],
+    "echoes_to": [
+      "B8-001",
+      "ANCHOR-002"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the specific quality of silence when you decide not to feel",
+    "emotional_signature": "the seal closes, and what is behind it stays behind",
+    "body": "Training. They teach her what she already knows how to do and they teach her what to do with the part of her that feels it. The answer: seal it. Not destroy it. She tried that. The feelings do not die. They go underground. The training gives her a way to put them in a room and close the door. The room has no windows. Like the recruitment room. She puts the kitchen in the room. She puts the grandmother in the room. She puts the rage in the room. She closes the door. The door has a lock. She chose the lock. The lock is hers. She decides when it opens. The training says: never. She is twenty-two. She says: never. The operative is born. The person who reads rooms and holds rage and moves through the world without being seen now has a framework. The framework is: do not feel. Execute. Assess. Act. The framework works. It works so well that she does not notice the person behind the door is still there.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-003",
+    "bucket": 7,
+    "title": "First Deployment",
+    "age": 23,
+    "year": "Y23",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-003",
+      "SG-003"
+    ],
+    "echoes_from": [
+      "FRAG-006",
+      "B4-001"
+    ],
+    "echoes_to": [
+      "B8-002"
+    ],
+    "cast_present": [
+      "director"
+    ],
+    "sensory_anchor": "a dark street, the weight of a key in a specific lock",
+    "emotional_signature": "the first time the skills are real",
+    "body": "The first real thing is not dramatic. It is a door in a building in a city. She has a key. The key opens the door. She goes in. She does what she was sent to do. She comes out. The street is dark. The director is in a car across the street. He does not speak. He nods. She gets in the car. They drive. She is not shaking. She is not proud. She is not horrified. She is operational. The seal holds. The person behind the door did not come out. The skills were real. The training was not theoretical. She used what she learned and it worked and the person she was at twenty-three is not the person she was at eighteen and neither of them is the person who ran through the grandmother's grass. But the person who ran through the grass is still behind the door. Still there. She does not think about this. She looks out the window. The street goes somewhere. She is already there.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-004",
+    "bucket": 7,
+    "title": "The Director's Trust",
+    "age": 24,
+    "year": "Y24",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "RD-001",
+      "O-004",
+      "RD-003"
+    ],
+    "echoes_from": [
+      "B3-003",
+      "B5-002"
+    ],
+    "echoes_to": [
+      "B10-002",
+      "ANCHOR-004"
+    ],
+    "cast_present": [
+      "director"
+    ],
+    "sensory_anchor": "the sound of a car engine idling, the director's silence",
+    "emotional_signature": "trust built mission by mission",
+    "body": "After the third deployment. The director is driving. She is in the passenger seat. The silence between them is the kind of silence that is full, not empty. He does not debrief. He drives. She does not ask questions. She watches the road. The director speaks once. He says: you called it right. Four words. She nods. She does not say thank you. She does not need to. The trust is not in the words. The trust is in the silence that preceded them. The silence that said: I watched you make the call and the call was right and I do not need to tell you that because you already know, but I am telling you anyway because trust is built in the saying, not the knowing. She files this. The way the grandmother filed the look across the kitchen. Some things are not verbal. They are still real. The director's trust is one of those things. It is the first real thing she has felt since the seal closed. She does not say this. She does not need to.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-004",
+    "bucket": 7,
+    "title": "The Assessment Day",
+    "age": 20,
+    "year": "Y20",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-003"
+    ],
+    "echoes_from": [
+      "B6-006",
+      "B4-005"
+    ],
+    "echoes_to": [
+      "B7-005"
+    ],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "a windowless room, a clock on the wall, a form with too many blank spaces",
+    "emotional_signature": "being evaluated by people who do not know they are evaluating the right thing",
+    "body": "The assessment. A room without windows. A form. Questions about problem-solving under pressure. She does not know what the questions are really asking. She answers. The answers are not impressive. The answers are precise. Precision is not impressive. Precision is correct. The clock on the wall is a test. She does not look at the clock. She does not need to. She knows how much time has passed. She has always known. The counting is not a choice. The counting is the default. She finishes early. She waits. The waiting is also a test. She passes. She does not know she passed. She finds out later. The director's note reads: unusual temporal awareness. She does not know what this means. She will learn.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-005",
+    "bucket": 7,
+    "title": "First Surveillance Rotation",
+    "age": 21,
+    "year": "Y21",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "O-001",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B3-005",
+      "B7-004"
+    ],
+    "echoes_to": [
+      "B7-008"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a car window, the weight of a camera, the rhythm of a target's routine",
+    "emotional_signature": "watching is not new, watching for the job is watching with permission",
+    "body": "First surveillance rotation. A car. A camera. A target who does not know she exists. The watching is not new. She has been watching since she was three. The line of light under the door. The sound of the stepfather's car. The counting of steps. The watching is the oldest skill. The job gives the watching a name. The name is surveillance. The surveillance is the watching with a purpose and a paycheck and a chain of command. She watches. She records. She reports. The report is clean. The target's routine is: wake, coffee, drive, office, lunch, drive, home. The routine is a pattern. The pattern is the house. The pattern is always the house. She reads the pattern the way she reads every room. The reading is the skill. The skill is old. The job makes it official.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-006",
+    "bucket": 7,
+    "title": "The Running Continues",
+    "age": 22,
+    "year": "Y22",
+    "dominance": "operational_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-003",
+      "SG-002"
+    ],
+    "echoes_from": [
+      "B4-008",
+      "B5-008"
+    ],
+    "echoes_to": [
+      "B8-003"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a different city, a different route, the same rhythm",
+    "emotional_signature": "the run is the only civilian thing that survives the recruitment",
+    "body": "She still runs. Not on a team. In the mornings, before the work. The work has a schedule. The schedule does not include running. She runs anyway. The run is the one thing that belongs to the person she was before the recruitment. The run is the civilian self. The civilian self is getting smaller. The run is how she keeps it. She runs in whatever city the work puts her in. She maps the route the way she maps the rooms. The route is: left, straight, through the park, around the fountain, back. The route is different in every city. The rhythm is the same. The rhythm is hers. The work can take the city. The work cannot take the rhythm. She runs. She breathes. The rhythm is the person she was before the work. She keeps the person. She keeps the rhythm. The rhythm is the thread. If the thread breaks, the person is gone. She does not let the thread break.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-007",
+    "bucket": 7,
+    "title": "The First Hand-to-Hand",
+    "age": 21,
+    "year": "Y21",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-004",
+      "SG-001"
+    ],
+    "echoes_from": [
+      "B6-010",
+      "B5-004"
+    ],
+    "echoes_to": [
+      "B8-006"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the mat, the smell of sweat, the sound of breathing that is controlled",
+    "emotional_signature": "the rage has a channel now, and the channel is a technique",
+    "body": "Hand-to-hand training. The mat. The instructor. The instructor is better. She knows this. She does not care. The technique is: redirect, not resist. The technique is: use the opponent's weight. The technique is: breathe. She learns the technique. The technique gives the rage a channel. The rage is not new. The rage has been banked since she was fourteen and the glass broke in the kitchen of the apartment. The channel is new. The channel is a joint lock. The channel is a throw. The channel is a controlled breath. The rage goes into the channel. The channel is not rage. The channel is technique. The technique is calm. The calm is the rage, converted. She does not know this yet. She will. The rage will always be there. The technique will always convert it. The conversion is the skill. The skill is: hold the rage, use the rage, do not be the rage. She holds. She uses. She is not.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-008",
+    "bucket": 7,
+    "title": "The Baker's Daughter",
+    "age": 22,
+    "year": "Y22",
+    "dominance": "operational_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-001",
+      "C-004"
+    ],
+    "echoes_from": [
+      "B6-008",
+      "B6-009"
+    ],
+    "echoes_to": [
+      "B8-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "flour in the air, a different city, the same smell",
+    "emotional_signature": "the cover job is the real job's opposite, and the flour is the bridge",
+    "body": "The cover job. A bakery. The third bakery. The flour is the same in every city. The flour is the grandmother. The flour is the kitchen. The cover is: a woman who works in a bakery. The cover is not a lie. The cover is a truth that is not the whole truth. She works in the bakery in the mornings and she works in the other job in the afternoons and the two jobs are opposite and the flour is the bridge. The bridge connects the civilian to the operative. The civilian makes bread. The operative makes decisions. The flour is in both. She kneads the dough and the dough is the same dough the grandmother kneaded. The grandmother did not know about the other job. The other job did not know about the grandmother. The flour knows both. The flour is the bridge. She crosses it every morning.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-009",
+    "bucket": 7,
+    "title": "The First Dead Drop",
+    "age": 23,
+    "year": "Y23",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "O-003",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B7-005",
+      "B7-001"
+    ],
+    "echoes_to": [
+      "B8-006"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a crack in a wall, the texture of paper against stone, the walk past without stopping",
+    "emotional_signature": "leaving without leaving a trace, the childhood skill becomes tradecraft",
+    "body": "The dead drop. A crack in a wall. A rolled paper. She walks past the wall. She does not stop. The paper goes into the crack. The hand does not hesitate. The walk does not change. The stepfather's house taught her this. The cookie jar lid replaced in the exact position. The performance face at the counselor's office. The walk at midnight. The not-leaving-a-trace is not a new skill. The not-leaving-a-trace is the oldest skill, now with a name and a protocol and a handler who expects it. She walks past the wall. The paper is in the crack. She is three blocks away before she lets herself breathe. The breath is the civilian breath. The breath is the flour. The breath is the grandmother. The drop is the work. The work is the door she walked through at eighteen. The door does not close behind her. The door stays open. She walks through it every day.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-010",
+    "bucket": 7,
+    "title": "The Hotel Room",
+    "age": 23,
+    "year": "Y23",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "SG-004"
+    ],
+    "echoes_from": [
+      "B3-005",
+      "B7-005"
+    ],
+    "echoes_to": [
+      "B8-003"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a hotel room she has never been in, the smell of cleaning fluid, the map she builds in seconds",
+    "emotional_signature": "every room is the house, every room is assessed, the default does not turn off",
+    "body": "A hotel room in a city she does not know. She enters. She assesses. The assessment takes four seconds. Door: deadbolt and chain. Window: third floor, fire escape. Bathroom: one exit. Closet: not large enough to hide an adult. Bed: positioned with sightline to the door. She does not choose this. The assessment runs on its own. The assessment has run on its own since she was seven and counted the steps from her room to the bathroom. The house is in every room. The house is the operating system. The hotel room is just the latest interface. She puts her bag on the bed. She locks the deadbolt. She sets the chain. She sits on the bed and she is in a room that is safe because she made it safe and making rooms safe is what she does and what she has always done and what she will always do because the default does not turn off.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-011",
+    "bucket": 7,
+    "title": "The Handler",
+    "age": 24,
+    "year": "Y24",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-002",
+      "R-001",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B7-001"
+    ],
+    "echoes_to": [
+      "B8-002"
+    ],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "a voice on a phone, never a face, the specific rhythm of instructions delivered without warmth",
+    "emotional_signature": "trust is not the word, reliability is the word, and the difference matters",
+    "body": "The handler. A voice. Never a face. The voice gives instructions. The instructions are clear. The clarity is the trust. Not personal trust. Professional trust. The trust that the instructions are correct and the instructions will not get her killed. The handler does not ask about her life. The handler does not know about the grandmother. The handler does not know about the flour. The handler knows the operative. The operative is not the person. The person is in the flour. The operative is in the hotel rooms. The handler talks to the operative. The person does not talk to the handler. The separation is clean. The separation is the work. The work keeps the person safe. The person keeps the work human. The handler does not know this. She knows this. The handler is a voice. The voice is reliable. Reliability is not trust. Reliability is enough.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-012",
+    "bucket": 7,
+    "title": "The Encryption Key",
+    "age": 24,
+    "year": "Y24",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B7-009"
+    ],
+    "echoes_to": [
+      "B8-004"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a string of characters, the rhythm of a cipher, the satisfaction of a message that cannot be read",
+    "emotional_signature": "secrets are the currency and she has always kept them",
+    "body": "She learns encryption. The codes are patterns. The patterns are doors that only open with the right key. She is good at codes. She is good at codes because she is good at patterns and she is good at patterns because she is good at hiding and she is good at hiding because she is good at being two people. The encryption is the formal version of the performance. The performance hides the person. The encryption hides the message. The two skills are the same skill. She encrypts. She decrypts. She reads the patterns. The patterns are the house. The patterns are the target's routine. The patterns are the rhythm of the run. She reads them all the same way. The code is another room. She maps it. She enters it. She leaves without a trace. The trace is the thing she has never left. Not since the cookie jar. Not since the night light.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-013",
+    "bucket": 7,
+    "title": "The First Asset Meeting",
+    "age": 25,
+    "year": "Y25",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-002",
+      "R-005",
+      "SG-005"
+    ],
+    "echoes_from": [
+      "B7-005"
+    ],
+    "echoes_to": [
+      "B8-005"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a cafe table, two cups of coffee, the distance between two chairs that is also a distance between two lives",
+    "emotional_signature": "reading a person the way she reads a room, and the person is a room she must enter carefully",
+    "body": "The asset. A person who has information. A person who is not an operative. A person who has a life and a family and a job and a reason to talk and a reason not to talk. She sits across from the asset. She reads the asset the way she reads rooms. The asset is nervous. The asset's hands are folded. The asset's eyes move to the door. The asset wants to leave. She does not let the asset leave. She does not block the door. She makes the chair more comfortable. She makes the coffee more present. She makes the conversation more safe. The safe is the performance. The performance is not a lie. The performance is the room she builds around the asset. The room is warm. The room has exits. The asset stays. The asset talks. The information is small. The information is enough. She leaves the cafe. The asset does not follow. The asset does not know the asset was in a room. The room was hers. The room is always hers.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-014",
+    "bucket": 7,
+    "title": "The Night She Did Not Sleep",
+    "age": 25,
+    "year": "Y25",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "SG-002"
+    ],
+    "echoes_from": [
+      "B6-010",
+      "B4-013"
+    ],
+    "echoes_to": [
+      "B8-005"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a ceiling she does not recognize, the sound of a city she does not live in, her own heartbeat",
+    "emotional_signature": "the cost of the work is the civilian self, and the civilian self is getting expensive",
+    "body": "She does not sleep. The mission is over. The mission went well. She is in the hotel room. The deadbolt is set. The chain is set. The bag is on the bed. She is safe. She does not sleep. The not-sleeping is not insomnia. The not-sleeping is the default. The default is on. The default does not turn off after a mission. The default stays on until the next morning, when she will go to the bakery and the flour will be in the air and the civilian self will breathe and the operative will step back and the person will make bread. The person makes bread. The operative makes decisions. The not-sleeping is the space between them. The space is where the cost lives. The cost is the civilian self. The civilian self is getting expensive. She lies on the bed. She looks at the ceiling. She breathes. She does not sleep. She will sleep on the plane. The plane is not tonight.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-015",
+    "bucket": 7,
+    "title": "The Seal Begins",
+    "age": 25,
+    "year": "Y25",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "SG-005",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B7-001",
+      "B7-011"
+    ],
+    "echoes_to": [
+      "B8-001"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a door closing, the sound of a lock turning, the specific quality of silence that is chosen",
+    "emotional_signature": "the person goes into a room and the room locks from the inside",
+    "body": "The seal begins. Not a decision. A process. The process is: the civilian self gets smaller. The operative self gets larger. The person who ran in the mornings still runs but the run is a protocol now, not a freedom. The person who read books still reads but the books are about tradecraft now, not escape. The person who made bread still makes bread but the bread is the cover now, not the kitchen. The seal is the distance between the operative and the person. The distance grows. The person does not fight the distance. The person does not have the energy to fight the distance. The work takes the energy. The work takes the mornings. The work takes the evenings. The work takes the civilian self and puts it in a room and locks the door from the inside. The person is in the room. The person is safe. The person is sealed. The operative is outside the room. The operative works.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B7-016",
+    "bucket": 7,
+    "title": "The Safe House",
+    "age": 22,
+    "year": "Y22",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B7-009",
+      "B7-010"
+    ],
+    "echoes_to": [
+      "B8-004"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a door that looks like every other door, a key that opens nothing official",
+    "emotional_signature": "the safe house is the house that is actually safe, and the irony is not lost on her",
+    "body": "The safe house. A door that looks like every other door in the row. The key opens a room that is not hers. The room is for the work. The room has a bed, a phone, a window. She maps it. Seven seconds. The safe house is the house that is actually safe. The irony is not lost on her. The stepfather house was not safe. The safe house is safe because she controls the lock. She controls the key. She controls the door. The control is the difference. The house was controlled by someone else. The safe house is controlled by her. The control is the kitchen. The kitchen was controlled by the grandmother. The grandmother controlled the flour and the heat and the look. The grandmother was the safe house. The safe house is the work kitchen. The work kitchen is temporary. The grandmother kitchen was permanent. The safe house is a hotel room with a different name. She locks the door. She sits on the bed. She breathes. The breath is the grandmother. The door is locked. The room is safe. The safe is the control.",
+    "review_status": "approved"
+  }
+]

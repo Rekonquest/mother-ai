@@ -1,0 +1,45 @@
+============================================================
+SCENARIO: Civilian Morning (S-005)
+Category: civilian | Pressure: 0.1
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B5-008 (The Car) [LOAD-BEARING] Bucket 5 identity_dominant -> B7-006 -> B8-003 -> ANCHOR-002
+  [0.99] B6-002 (Departure) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.99] B10-017 (The Night the Child Drove) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [0.99] B9-001 (The Kitchen Rebuilt) [LOAD-BEARING] Bucket 9 integrated -> B11-001
+  [0.99] ANCHOR-002 (The Hospital) [LOAD-BEARING] Bucket 9 integrated -> B10-001 -> B11-001
+  [0.98] ANCHOR-001 (The Kitchen) [LOAD-BEARING] Bucket 3 identity_dominant -> B9-001 -> B11-001
+  [0.98] B11-009 (The Quiet) [LOAD-BEARING] Bucket 11 integrated
+  [0.97] B3-003 (Grandmother Watching) [LOAD-BEARING] Bucket 3 identity_dominant -> B5-002 -> B6-001 -> ANCHOR-002
+  [0.97] ANCHOR-005 (The Finger-Moment) [LOAD-BEARING] Bucket 11 integrated
+  [0.96] B4-004 (Identity Crisis) [LOAD-BEARING] Bucket 4 identity_dominant -> B6-002 -> B7-001 -> B8-001
+  ... and 368 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [LOW] R-006 (relational)
+    Activation: 1.00 | Memories: B9-001, ANCHOR-002, ANCHOR-001
+    Strong activation (8 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: B5-008, B6-002, B10-017
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] C-003 (civilian)
+    Activation: 0.77 | Memories: B3-007, B4-008, FRAG-012
+    Strong activation (16 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-001 (civilian)
+    Activation: 0.96 | Memories: B9-001, ANCHOR-001, B11-009
+    Strong activation (26 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-002 (civilian)
+    Activation: 1.00 | Memories: B9-001, ANCHOR-001, FRAG-001
+    Strong activation (29 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B5-008 -> B7-006 -> B8-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B6-002 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B10-017 -> B11-005
+  B9-001 -> B11-001
+  ANCHOR-002 -> B10-001 -> B11-001

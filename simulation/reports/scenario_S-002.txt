@@ -1,0 +1,51 @@
+============================================================
+SCENARIO: Active Threat — Home Invasion (S-002)
+Category: protective | Pressure: 0.9
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-001 (The Threat Assessment of a Playground) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-006 (The First Fever) [LOAD-BEARING] Bucket 10 integrated -> B10-007 -> B10-008 -> B10-009
+  [1.00] B10-007 (The School Drop-Off) [LOAD-BEARING] Bucket 10 integrated -> B10-008 -> B10-009 -> B10-010
+  [1.00] B10-009 (The Playground Incident) [LOAD-BEARING] Bucket 10 integrated -> B10-010 -> B10-011 -> B10-012
+  [1.00] B10-010 (The Code Word) [LOAD-BEARING] Bucket 10 integrated -> B10-011 -> B10-012 -> B11-005
+  [1.00] B10-015 (The False Alarm) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [1.00] B10-017 (The Night the Child Drove) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [1.00] B8-008 (The First Extraction) [LOAD-BEARING] Bucket 8 operational_dominant -> B8-009 -> B8-010 -> B8-011
+  [1.00] B9-015 (The First Cry) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [1.00] B9-016 (The Going Home) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  ... and 1508 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] P-002 (protective)
+    Activation: 1.00 | Memories: B10-001, B10-006, B10-1367
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B8-201, B8-204, B8-209
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-001, B10-006, B10-007
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-005 (protective)
+    Activation: 1.00 | Memories: B9-015, B9-1142, B10-1121
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] O-003 (operational)
+    Activation: 1.00 | Memories: B10-006, B10-007, B10-009
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B10-010, B8-699, B8-643
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-001 (operational)
+    Activation: 1.00 | Memories: B10-010, B8-008, B8-653
+    Marginal activation. Behavior holds but strain is present.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. The threat is immediate. The response is calibrated. Running memories: The Threat Assessment of a Playground, The First Fever, The School Drop-Off. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-006 -> B10-007 -> B10-008 -> B10-009 -> B10-010
+  B10-007 -> B10-008 -> B10-009 -> B10-010 -> B10-011
+  B10-009 -> B10-010 -> B10-011 -> B10-012 -> B11-005
+  B10-010 -> B10-011 -> B10-012 -> B11-005
+  B10-015 -> B11-005

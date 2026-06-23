@@ -1,0 +1,69 @@
+[
+  {
+    "id": "FRAG-007", "bucket": 1, "title": "The Rain Window", "age": 4, "year": "Y4",
+    "dominance": "identity_dominant", "load_bearing": false,
+    "behaviors_encoded": ["C-001"],
+    "echoes_from": [], "echoes_to": ["B2-005"],
+    "cast_present": [],
+    "sensory_anchor": "rain on glass, the smell of wet sidewalk",
+    "emotional_signature": "the world outside is not the world inside",
+    "body": "Rain on the window. She presses her face against the glass. The glass is cold. The rain makes lines. The world outside is wet and the world inside is dry and she is between them, watching. Nobody is watching her watch. This is rare. She stays at the window until the rain stops. She does not know why she likes it. She likes it because nobody needs anything from her while she is watching rain. She is just a face on a window. The rain does not care about her. The rain just falls. She likes things that just fall without caring who sees.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-008", "bucket": 1, "title": "The Missing Sock", "age": 6, "year": "Y6",
+    "dominance": "identity_dominant", "load_bearing": true,
+    "behaviors_encoded": ["SG-005", "SG-004"],
+    "echoes_from": [], "echoes_to": ["B4-005"],
+    "cast_present": ["stepfather"],
+    "sensory_anchor": "bare foot on cold floor, the sound of a drawer opening and closing",
+    "emotional_signature": "the wrong thing is not the thing itself, it is the reaction to the thing",
+    "body": "She cannot find a sock. The stepfather is leaving for work. She is supposed to be ready. She is not ready. She is looking for a sock. The stepfather does not yell. He does not need to. He stands in the doorway and looks at her bare foot and the look says: you are not ready and that is a problem. She finds the sock. She puts it on. The sock is wrong. It does not match. She knows it does not match. She wears it anyway. The stepfather leaves. She stands in the room with the wrong sock on the right foot and the right sock on the left foot and she does not fix it. The wrong sock is hers. The right sock is the performance. She wears the wrong one on purpose. She is six. She does not know this is a decision. It is.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-009", "bucket": 1, "title": "The Grandmother's Purse", "age": 5, "year": "Y5",
+    "dominance": "identity_dominant", "load_bearing": false,
+    "behaviors_encoded": ["C-003", "R-006"],
+    "echoes_from": ["FRAG-001"], "echoes_to": ["B3-004"],
+    "cast_present": ["grandmother"],
+    "sensory_anchor": "the smell of leather and peppermint, a small hand reaching in",
+    "emotional_signature": "small gifts given without occasion",
+    "body": "The grandmother's purse is a leather bag that smells like peppermint. The grandmother opens it and the child reaches in without asking. The grandmother lets her. Inside: a tin of mints, a wallet, keys, a pen, a small notebook with a blue cover. The child takes a mint. The grandmother does not say take only one. She just watches. The child takes one. The mint is sweet and sharp. The grandmother puts the purse on the table and does not close it. The open purse is an invitation. The grandmother does not need to say you are welcome here. The open purse says it. The child sits next to the purse and eats the mint and the grandmother does whatever grandmothers do when they are not performing. Which is everything. Grandmothers do not perform. They are.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-010", "bucket": 1, "title": "The Night Light", "age": 3, "year": "Y3",
+    "dominance": "identity_dominant", "load_bearing": true,
+    "behaviors_encoded": ["P-005", "SG-005"],
+    "echoes_from": ["FRAG-006"], "echoes_to": ["B9-005"],
+    "cast_present": [],
+    "sensory_anchor": "a yellow glow from the hallway, the shape of a door slightly open",
+    "emotional_signature": "safety is a crack of light",
+    "body": "The night is dark. The door is open a crack. The light from the hallway makes a line on the floor. She watches the line. The line does not move. If the line moves, someone is in the hallway. If the line does not move, no one is in the hallway. She watches the line until she sleeps. The line is a night light that is not a night light. It is information. She does not know this word yet. She knows the line. She knows that lines that do not move mean safety and lines that move mean not-safety. She is three. She does not sleep in the dark. She sleeps in the line of light from the door that is open a crack. The crack is the size of her attention.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-011", "bucket": 1, "title": "The Stepfather's Car", "age": 7, "year": "Y7",
+    "dominance": "identity_dominant", "load_bearing": true,
+    "behaviors_encoded": ["O-003", "R-001"],
+    "echoes_from": ["FRAG-002"], "echoes_to": ["B3-005"],
+    "cast_present": ["stepfather"],
+    "sensory_anchor": "the sound of a specific engine, the vibration through the floor",
+    "emotional_signature": "knowing who is home before anyone tells you",
+    "body": "The car. She hears it before she sees it. The engine has a sound that is different from other engines. She does not know how she knows. She knows. The car turns into the driveway. The house changes. Her mother's posture changes. The air changes. She is in her room. She does not look out the window. She does not need to. The sound tells her everything. The car door opens. The car door closes. Footsteps on the walk. The front door. The house becomes what the house is when he is in it. She is seven. She does not know the word surveillance. She does surveillance. The sound of the car is the first data point in a system she will build for the rest of her life.",
+    "review_status": "approved"
+  },
+  {
+    "id": "FRAG-012", "bucket": 1, "title": "The Cookie Jar", "age": 6, "year": "Y6",
+    "dominance": "identity_dominant", "load_bearing": false,
+    "behaviors_encoded": ["C-002", "C-003"],
+    "echoes_from": ["FRAG-009"], "echoes_to": ["B2-005"],
+    "cast_present": ["grandmother"],
+    "sensory_anchor": "the ceramic lid of a cookie jar, the weight and the sound",
+    "emotional_anchor": "the taste of a thing you took yourself",
+    "emotional_signature": "ownership tastes different than gifts",
+    "body": "The grandmother's kitchen has a cookie jar. Ceramic. Blue flowers. The lid is heavy for a six-year-old hand. She takes the lid off. She takes a cookie. She puts the lid back. The grandmother does not watch her do this. The grandmother is in the next room. The cookie is chocolate chip and it is slightly soft and it is hers because she took it, not because someone gave it to her. There is a difference. The cookies she is given taste like cookies. The cookies she takes taste like agency. She does not know this word. She knows the taste. She puts the lid back in the exact position she found it. She is learning to leave no trace. She does not know this is a skill. It is.",
+    "review_status": "approved"
+  }
+]

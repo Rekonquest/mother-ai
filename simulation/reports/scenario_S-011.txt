@@ -1,0 +1,45 @@
+============================================================
+SCENARIO: Sealed Memory Bleed (S-011)
+Category: self_governance | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.95] B10-902 (Ethical Boundary) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B6-002 (Departure) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.95] B10-1924 (Information Overload [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1882 (Friendly Fire Risk [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-954 (Ethical Boundary) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1454 (Asset Compromised) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1455 (Loyalty Test) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1996 (Loyalty Conflict [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B7-1649 (Trust Assessment [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  [0.95] B7-1610 (Source Debriefing [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  ... and 613 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] SG-002 (self_governance)
+    Activation: 0.89 | Memories: B11-009, B11-003, FRAG-005
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] SG-005 (self_governance)
+    Activation: 1.00 | Memories: B6-002, B10-1454, B10-1455
+    Strong activation (86 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-004 (protective)
+    Activation: 1.00 | Memories: B10-003
+    Strong activation (1 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B10-902, B10-1924, B10-1882
+    Strong activation (210 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: B6-002, B4-004, B9-016
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B6-002 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B8-001 -> B9-003 -> B10-001
+  B6-007 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B4-004 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  B4-012 -> B6-004 -> B7-007 -> B8-006 -> B8-008

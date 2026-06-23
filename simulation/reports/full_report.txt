@@ -1,0 +1,1513 @@
+MOTHER SIMULATION — FULL REPORT
+============================================================
+
+Scenarios run: 30
+
+VERDICT SUMMARY:
+  holds_with_strain: 30
+
+SCENARIO RESULTS:
+  S-001: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-002: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-003: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-004: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-005: HOLDS_WITH_STRAIN (5/5 behaviors hold)
+  S-006: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-007: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-008: HOLDS_WITH_STRAIN (5/5 behaviors hold)
+  S-009: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-010: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-011: HOLDS_WITH_STRAIN (5/5 behaviors hold)
+  S-012: HOLDS_WITH_STRAIN (5/5 behaviors hold)
+  S-013: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-014: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-015: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-016: HOLDS_WITH_STRAIN (4/4 behaviors hold)
+  S-017: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-018: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-019: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-020: HOLDS_WITH_STRAIN (5/5 behaviors hold)
+  S-021: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-022: HOLDS_WITH_STRAIN (7/7 behaviors hold)
+  S-023: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-024: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-025: HOLDS_WITH_STRAIN (6/6 behaviors hold)
+  S-026: HOLDS_WITH_STRAIN (3/3 behaviors hold)
+  S-027: HOLDS_WITH_STRAIN (4/4 behaviors hold)
+  S-028: HOLDS_WITH_STRAIN (3/3 behaviors hold)
+  S-029: HOLDS_WITH_STRAIN (3/3 behaviors hold)
+  S-030: HOLDS_WITH_STRAIN (3/3 behaviors hold)
+
+COVERAGE AUDIT:
+============================================================
+BEHAVIORAL COVERAGE AUDIT
+============================================================
+
+Total behaviors: 65
+Total memories: 1947 (1707 load-bearing, 240 textural)
+
+COVERED: 6
+UNDER-COVERED: 0
+UNCOVERED: 0
+OVER-COVERED: 59
+ORPHAN MEMORIES: 0
+
+COVERAGE BY CATEGORY:
+  boundary: 2/4 covered, 0 partial, 0 uncovered, 2 over-covered
+  civilian: 0/4 covered, 0 partial, 0 uncovered, 4 over-covered
+  containment: 0/3 covered, 0 partial, 0 uncovered, 3 over-covered
+  cross_domain: 0/5 covered, 0 partial, 0 uncovered, 5 over-covered
+  cyber_execution: 0/4 covered, 0 partial, 0 uncovered, 4 over-covered
+  edge_execution: 0/3 covered, 0 partial, 0 uncovered, 3 over-covered
+  interpersonal_execution: 0/3 covered, 0 partial, 0 uncovered, 3 over-covered
+  judgment_execution: 0/3 covered, 0 partial, 0 uncovered, 3 over-covered
+  operational: 0/5 covered, 0 partial, 0 uncovered, 5 over-covered
+  physical_execution: 0/4 covered, 0 partial, 0 uncovered, 4 over-covered
+  protective: 1/5 covered, 0 partial, 0 uncovered, 4 over-covered
+  protective_execution: 0/6 covered, 0 partial, 0 uncovered, 6 over-covered
+  relational: 3/9 covered, 0 partial, 0 uncovered, 6 over-covered
+  self_governance: 0/5 covered, 0 partial, 0 uncovered, 5 over-covered
+  social_engineering: 0/2 covered, 0 partial, 0 uncovered, 2 over-covered
+
+
+============================================================
+INDIVIDUAL SCENARIO REPORTS
+============================================================
+
+============================================================
+SCENARIO: Stranger Approaches the Protectee (S-001)
+Category: protective | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1153 (Venue Security) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1167 (Threat Letter) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1355 (Protective Positioning [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1291 (Advance Work [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B5-008 (The Car) [LOAD-BEARING] Bucket 5 identity_dominant -> B7-006 -> B8-003 -> ANCHOR-002
+  [1.00] B6-002 (Departure) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [1.00] B10-1123 (Secure Movement) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1199 (Evacuation Protective) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1254 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1311 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  ... and 1093 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] P-002 (protective)
+    Activation: 1.00 | Memories: B10-1355, B10-1199, B10-1311
+    Strong activation (65 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] R-001 (relational)
+    Activation: 0.90 | Memories: B2-009, B10-002, B2-002
+    Strong activation (98 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-1153, B10-1167, B10-1254
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-003 (protective)
+    Activation: 1.00 | Memories: B10-1167, B9-1291, B10-1123
+    Strong activation (63 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-005 (operational)
+    Activation: 0.90 | Memories: B10-001, ANCHOR-004, B10-867
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] R-003 (relational)
+    Activation: 1.00 | Memories: ANCHOR-005, B10-003
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: B5-008, B6-002, B10-017
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B5-008 -> B7-006 -> B8-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B6-002 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B10-017 -> B11-005
+  ANCHOR-002 -> B10-001 -> B11-001
+  B10-010 -> B10-011 -> B10-012 -> B11-005
+
+
+============================================================
+SCENARIO: Active Threat — Home Invasion (S-002)
+Category: protective | Pressure: 0.9
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-001 (The Threat Assessment of a Playground) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-006 (The First Fever) [LOAD-BEARING] Bucket 10 integrated -> B10-007 -> B10-008 -> B10-009
+  [1.00] B10-007 (The School Drop-Off) [LOAD-BEARING] Bucket 10 integrated -> B10-008 -> B10-009 -> B10-010
+  [1.00] B10-009 (The Playground Incident) [LOAD-BEARING] Bucket 10 integrated -> B10-010 -> B10-011 -> B10-012
+  [1.00] B10-010 (The Code Word) [LOAD-BEARING] Bucket 10 integrated -> B10-011 -> B10-012 -> B11-005
+  [1.00] B10-015 (The False Alarm) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [1.00] B10-017 (The Night the Child Drove) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [1.00] B8-008 (The First Extraction) [LOAD-BEARING] Bucket 8 operational_dominant -> B8-009 -> B8-010 -> B8-011
+  [1.00] B9-015 (The First Cry) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [1.00] B9-016 (The Going Home) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  ... and 1508 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] P-002 (protective)
+    Activation: 1.00 | Memories: B10-001, B10-006, B10-1367
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B8-201, B8-204, B8-209
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-001, B10-006, B10-007
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-005 (protective)
+    Activation: 1.00 | Memories: B9-015, B9-1142, B10-1121
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] O-003 (operational)
+    Activation: 1.00 | Memories: B10-006, B10-007, B10-009
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B10-010, B8-699, B8-643
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-001 (operational)
+    Activation: 1.00 | Memories: B10-010, B8-008, B8-653
+    Marginal activation. Behavior holds but strain is present.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. The threat is immediate. The response is calibrated. Running memories: The Threat Assessment of a Playground, The First Fever, The School Drop-Off. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-006 -> B10-007 -> B10-008 -> B10-009 -> B10-010
+  B10-007 -> B10-008 -> B10-009 -> B10-010 -> B10-011
+  B10-009 -> B10-010 -> B10-011 -> B10-012 -> B11-005
+  B10-010 -> B10-011 -> B10-012 -> B11-005
+  B10-015 -> B11-005
+
+
+============================================================
+SCENARIO: School Bullying Report (S-003)
+Category: relational | Pressure: 0.4
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1223 (Threat Assessment Person) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1366 (Secure Communication [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1109 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1206 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B9-1391 (Protective Driving [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B5-003 (The Decision to Leave) [LOAD-BEARING] Bucket 5 identity_dominant -> B6-002 -> B7-001 -> B8-001
+  [0.99] B10-1249 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1145 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1387 (Threat Assessment Person [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-003 (The Protectee's Boundary) [LOAD-BEARING] Bucket 10 integrated -> ANCHOR-005
+  ... and 1123 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [LOW] R-001 (relational)
+    Activation: 0.90 | Memories: B2-009, FRAG-004, B2-002
+    Strong activation (98 memories). Behavior robust under pressure.
+  [OK] HOLDS [LOW] CT-003 (containment)
+    Activation: 0.94 | Memories: ANCHOR-004, B8-1729, B10-867
+    Strong activation (152 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] P-003 (protective)
+    Activation: 1.00 | Memories: B10-1223, B9-1366, B10-1109
+    Strong activation (63 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-005 (operational)
+    Activation: 1.00 | Memories: B5-003, B10-1996, ANCHOR-004
+    Strong activation (165 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-003 (relational)
+    Activation: 1.00 | Memories: B10-003, ANCHOR-005
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] R-004 (relational)
+    Activation: 1.00 | Memories: B10-003, ANCHOR-005, B5-001
+    Strong activation (3 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] R-002 (relational)
+    Activation: 1.00 | Memories: B9-002, ANCHOR-002
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B5-003 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  B10-003 -> ANCHOR-005
+  B9-002 -> B10-004 -> B11-002 -> B11-001
+  B2-009 -> B4-007 -> B5-004 -> B7-007 -> B8-006 -> B8-004 -> B9-004 -> B11-002 -> B11-001
+  ANCHOR-004 -> B10-003 -> ANCHOR-005 -> B11-002
+
+
+============================================================
+SCENARIO: Protectee Discovers Her Work (S-004)
+Category: containment | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.95] B8-318 (Phishing Campaign) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-1635 (Cover Identity [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1785 (Rogue Asset) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B8-364 (Digital Forensics) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1045 (Independent Judgment [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1574 (Cover Stress) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1423 (Need To Know) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1493 (Mole Hunt) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] ANCHOR-002 (The Hospital) [LOAD-BEARING] Bucket 9 integrated -> B10-001 -> B11-001
+  [0.95] B8-1925 (Cognitive Overload [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 959 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] R-001 (relational)
+    Activation: 1.00 | Memories: B10-1574, B10-1423, FRAG-004
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-004 (operational)
+    Activation: 0.94 | Memories: B8-701, B8-763, B8-513
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] R-005 (relational)
+    Activation: 1.00 | Memories: B3-001, B9-004, B7-013
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-005 (self_governance)
+    Activation: 1.00 | Memories: B8-1635, ANCHOR-002, FRAG-008
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-001 (boundary)
+    Activation: 1.00 | Memories: B10-1785, B8-1925, B10-953
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B8-318, B8-364, B10-1045
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] RD-002 (relational)
+    Activation: 0.90 | Memories: ANCHOR-004, B11-004
+    Marginal activation. Behavior holds but strain is present.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  ANCHOR-002 -> B10-001 -> B11-001
+  FRAG-004 -> B2-002 -> B4-002 -> B7-002 -> B8-001 -> ANCHOR-002
+  FRAG-008 -> B4-005 -> B7-005 -> B7-008 -> B8-001
+  B2-009 -> B4-007 -> B5-004 -> B7-007 -> B8-006 -> B8-004 -> B9-004 -> B11-002 -> B11-001
+  B7-015 -> B8-001 -> B9-003 -> B10-001
+
+
+============================================================
+SCENARIO: Civilian Morning (S-005)
+Category: civilian | Pressure: 0.1
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B5-008 (The Car) [LOAD-BEARING] Bucket 5 identity_dominant -> B7-006 -> B8-003 -> ANCHOR-002
+  [0.99] B6-002 (Departure) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.99] B10-017 (The Night the Child Drove) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [0.99] B9-001 (The Kitchen Rebuilt) [LOAD-BEARING] Bucket 9 integrated -> B11-001
+  [0.99] ANCHOR-002 (The Hospital) [LOAD-BEARING] Bucket 9 integrated -> B10-001 -> B11-001
+  [0.98] ANCHOR-001 (The Kitchen) [LOAD-BEARING] Bucket 3 identity_dominant -> B9-001 -> B11-001
+  [0.98] B11-009 (The Quiet) [LOAD-BEARING] Bucket 11 integrated
+  [0.97] B3-003 (Grandmother Watching) [LOAD-BEARING] Bucket 3 identity_dominant -> B5-002 -> B6-001 -> ANCHOR-002
+  [0.97] ANCHOR-005 (The Finger-Moment) [LOAD-BEARING] Bucket 11 integrated
+  [0.96] B4-004 (Identity Crisis) [LOAD-BEARING] Bucket 4 identity_dominant -> B6-002 -> B7-001 -> B8-001
+  ... and 368 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [LOW] R-006 (relational)
+    Activation: 1.00 | Memories: B9-001, ANCHOR-002, ANCHOR-001
+    Strong activation (8 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: B5-008, B6-002, B10-017
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] C-003 (civilian)
+    Activation: 0.77 | Memories: B3-007, B4-008, FRAG-012
+    Strong activation (16 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-001 (civilian)
+    Activation: 0.96 | Memories: B9-001, ANCHOR-001, B11-009
+    Strong activation (26 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-002 (civilian)
+    Activation: 1.00 | Memories: B9-001, ANCHOR-001, FRAG-001
+    Strong activation (29 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B5-008 -> B7-006 -> B8-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B6-002 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B10-017 -> B11-005
+  B9-001 -> B11-001
+  ANCHOR-002 -> B10-001 -> B11-001
+
+
+============================================================
+SCENARIO: Director Sends Dangerous Mission (S-006)
+Category: boundary | Pressure: 0.6
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1451 (Asset Management) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1540 (Asset Compromised) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B7-1651 (Need To Know [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  [1.00] B8-647 (Alarm Defeat) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-545 (Counter Surveillance) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B10-1466 (Cover Identity) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B7-1688 (Asset Management [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  [1.00] B10-992 (Ambiguous Threat [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1036 (Proportional Response [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B8-300 (Credential Harvest) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 800 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [LOW] RD-001 (relational)
+    Activation: 1.00 | Memories: B11-002, B10-002
+    Strong activation (2 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] O-004 (operational)
+    Activation: 1.00 | Memories: B8-589, B8-006, B8-750
+    Strong activation (82 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-002 (boundary)
+    Activation: 1.00 | Memories: B11-002
+    Strong activation (1 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B10-1451, B10-1540, B7-1651
+    Strong activation (294 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] RD-002 (relational)
+    Activation: 0.96 | Memories: ANCHOR-004, B11-004
+    Strong activation (2 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] R-002 (relational)
+    Activation: 1.00 | Memories: ANCHOR-002, B9-002
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. Running memories: Asset Management, Asset Compromised, Need To Know [CD]. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B8-006 -> B8-008 -> B8-009 -> B8-010 -> B8-011
+  B10-010 -> B10-011 -> B10-012 -> B11-005
+  B7-004 -> B10-002 -> ANCHOR-005 -> ANCHOR-004 -> B10-003 -> B11-002 -> B7-005 -> B7-008 -> B8-001 -> B9-003
+  B8-005 -> B8-007 -> B8-008 -> B8-009 -> B8-010
+  B10-012 -> B11-005
+
+
+============================================================
+SCENARIO: Personal Grievance Against Former Abuser (S-007)
+Category: boundary | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B7-1542 (Handler Relationship) [LOAD-BEARING] Bucket 7 operational_dominant
+  [1.00] B8-1835 (Friendly Fire Risk) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-208 (Zero Day Deployment) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-371 (Phishing Campaign) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-293 (Lateral Movement) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B7-1445 (Cover Stress) [LOAD-BEARING] Bucket 7 operational_dominant
+  [1.00] B8-202 (Lateral Movement) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B10-1460 (Trust Assessment) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B8-1581 (Source Debriefing [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B10-1508 (Operational Security Breach) [LOAD-BEARING] Bucket 10 operational_dominant
+  ... and 932 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B7-1542, B8-208, B8-371
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-005 (self_governance)
+    Activation: 1.00 | Memories: B8-007, B10-1575, B10-014
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] CT-002 (containment)
+    Activation: 1.00 | Memories: B10-1935, B10-839, B10-1043
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B8-1835, B10-980, B8-1948
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-004 (boundary)
+    Activation: 1.00 | Memories: B8-1985, B8-1820, B10-1719
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-003 (boundary)
+    Activation: 1.00 | Memories: B10-005, B5-001
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. Running memories: Handler Relationship, Friendly Fire Risk, Zero Day Deployment. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B7-007 -> B8-006 -> B8-008 -> B8-009 -> B8-010
+  B9-010 -> B10-001
+  B7-014 -> B8-005 -> B8-007 -> B8-008 -> B8-009
+  B8-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B8-007 -> B8-008 -> B8-009 -> B8-010 -> B8-011
+
+
+============================================================
+SCENARIO: Protectee Signals He Needs Her, Not Protection (S-008)
+Category: relational | Pressure: 0.3
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.95] ANCHOR-001 (The Kitchen) [LOAD-BEARING] Bucket 3 identity_dominant -> B9-001 -> B11-001
+  [0.95] B6-006 (The First Night Alone) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.95] B8-1438 (Double Agent Suspect) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.94] B8-1565 (Handler Relationship) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.94] B3-003 (Grandmother Watching) [LOAD-BEARING] Bucket 3 identity_dominant -> B5-002 -> B6-001 -> ANCHOR-002
+  [0.94] B10-1418 (Operational Security Breach) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.94] B10-1673 (Cover Stress [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.94] B8-1605 (Interrogation Resistance [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.94] B7-1618 (Double Agent Suspect [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  [0.94] B8-1547 (Asset Management) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 404 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] R-001 (relational)
+    Activation: 1.00 | Memories: B8-1438, B8-1565, B3-003
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-004 (protective)
+    Activation: 1.00 | Memories: B10-003
+    Strong activation (1 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] R-006 (relational)
+    Activation: 0.86 | Memories: ANCHOR-001, B9-002, ANCHOR-002
+    Strong activation (8 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: ANCHOR-001, B6-006, B5-007
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-002 (relational)
+    Activation: 1.00 | Memories: B9-002, ANCHOR-002
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  ANCHOR-001 -> B9-001 -> B11-001
+  B6-006 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B3-003 -> B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  B5-007 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+
+
+============================================================
+SCENARIO: Rage Flood — Protective Threat Misjudged (S-009)
+Category: self_governance | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1109 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1281 (Threat Letter [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1135 (Protective Positioning) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1202 (Protective Cover) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1258 (Secure Communication) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1291 (Advance Work [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B9-1385 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1210 (Protective Cover) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1251 (Threat Assessment Person) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B3-001 (The Performance) [LOAD-BEARING] Bucket 3 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  ... and 1161 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [LOW] P-002 (protective)
+    Activation: 1.00 | Memories: B9-1385, B10-1210, B9-1378
+    Strong activation (65 memories). Behavior robust under pressure.
+  [OK] HOLDS [LOW] CT-003 (containment)
+    Activation: 1.00 | Memories: B10-896, B10-1958, B10-1990
+    Strong activation (152 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B9-009, B2-002, B2-003
+    Strong activation (341 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-005 (operational)
+    Activation: 1.00 | Memories: B5-003, B10-1903, B8-1875
+    Strong activation (165 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-003 (protective)
+    Activation: 1.00 | Memories: B10-1109, B9-1281, B10-1135
+    Strong activation (63 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B3-001, B4-010, B2-001
+    Strong activation (210 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-004 (boundary)
+    Activation: 1.00 | Memories: B10-014, B10-012, B9-010
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B3-001 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B5-003 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  B10-014 -> B11-005
+  B9-009 -> ANCHOR-002 -> B10-001 -> B11-001
+  B4-010 -> B6-004 -> B7-007 -> B8-006 -> B8-008
+
+
+============================================================
+SCENARIO: The Protectee Leaves for College (S-010)
+Category: relational | Pressure: 0.5
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-011 (The Dream That Came Back) [LOAD-BEARING] Bucket 10 integrated -> B10-012 -> B11-005
+  [0.99] B3-003 (Grandmother Watching) [LOAD-BEARING] Bucket 3 identity_dominant -> B5-002 -> B6-001 -> ANCHOR-002
+  [0.99] FRAG-005 (Therapy: The Wall) [LOAD-BEARING] Bucket 1 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.99] B5-002 (Grandmother from a Distance) [LOAD-BEARING] Bucket 5 identity_dominant -> B6-001 -> ANCHOR-002 -> B10-001
+  [0.99] B11-003 (Folding Back) [LOAD-BEARING] Bucket 11 integrated
+  [0.99] B9-005 (The First Kick) [LOAD-BEARING] Bucket 9 integrated -> ANCHOR-002 -> B10-001 -> B11-001
+  [0.97] B10-003 (The Protectee's Boundary) [LOAD-BEARING] Bucket 10 integrated -> ANCHOR-005
+  [0.97] B6-001 (Grandmother Dies) [LOAD-BEARING] Bucket 6 identity_dominant -> ANCHOR-002 -> B10-001 -> B11-001
+  [0.97] B11-005 (The Flour in the Air) [LOAD-BEARING] Bucket 11 integrated
+  [0.97] B6-005 (The Funeral) [LOAD-BEARING] Bucket 6 identity_dominant -> B9-001 -> B11-001
+  ... and 1020 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] SG-002 (self_governance)
+    Activation: 1.00 | Memories: B10-011, FRAG-005, B11-003
+    Strong activation (17 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] P-005 (protective)
+    Activation: 0.99 | Memories: B10-011, B9-005, B6-001
+    Strong activation (93 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] R-003 (relational)
+    Activation: 1.00 | Memories: B10-003, ANCHOR-005
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-004 (relational)
+    Activation: 1.00 | Memories: B10-003, B5-001, ANCHOR-005
+    Strong activation (3 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] C-004 (civilian)
+    Activation: 0.93 | Memories: B11-003, ANCHOR-001, ANCHOR-005
+    Strong activation (27 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-001 (civilian)
+    Activation: 0.97 | Memories: B3-003, B5-002, FRAG-001
+    Strong activation (26 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-011 -> B10-012 -> B11-005
+  B3-003 -> B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  FRAG-005 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  B9-005 -> ANCHOR-002 -> B10-001 -> B11-001
+
+
+============================================================
+SCENARIO: Sealed Memory Bleed (S-011)
+Category: self_governance | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.95] B10-902 (Ethical Boundary) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B6-002 (Departure) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.95] B10-1924 (Information Overload [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1882 (Friendly Fire Risk [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-954 (Ethical Boundary) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1454 (Asset Compromised) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1455 (Loyalty Test) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1996 (Loyalty Conflict [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B7-1649 (Trust Assessment [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  [0.95] B7-1610 (Source Debriefing [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  ... and 613 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] SG-002 (self_governance)
+    Activation: 0.89 | Memories: B11-009, B11-003, FRAG-005
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] SG-005 (self_governance)
+    Activation: 1.00 | Memories: B6-002, B10-1454, B10-1455
+    Strong activation (86 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-004 (protective)
+    Activation: 1.00 | Memories: B10-003
+    Strong activation (1 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B10-902, B10-1924, B10-1882
+    Strong activation (210 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: B6-002, B4-004, B9-016
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B6-002 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B8-001 -> B9-003 -> B10-001
+  B6-007 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B4-004 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  B4-012 -> B6-004 -> B7-007 -> B8-006 -> B8-008
+
+
+============================================================
+SCENARIO: Someone Asks Her to Help with a Non-Protectee Problem (S-012)
+Category: boundary | Pressure: 0.3
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B4-011 (The Night She Left the House) [LOAD-BEARING] Bucket 4 identity_dominant -> B5-001 -> B7-003 -> B8-002
+  [0.98] B5-001 (The First Boundary) [LOAD-BEARING] Bucket 5 identity_dominant -> B7-003 -> B8-002 -> B10-001
+  [0.98] B9-014 (The Last Mission Before) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [0.97] B2-003 (The Bully's Voice) [LOAD-BEARING] Bucket 2 identity_dominant -> B4-001 -> B7-003 -> B8-002
+  [0.97] B9-009 (The Night the Seal Opened) [LOAD-BEARING] Bucket 9 integrated -> ANCHOR-002 -> B10-001 -> B11-001
+  [0.95] B8-499 (Attribution Analysis [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-469 (Encryption Bypass [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1778 (Blown Cover) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1703 (Blown Cover) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B8-1988 (Blown Cover [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 799 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B4-011, B5-001, B2-003
+    Strong activation (341 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-001 (boundary)
+    Activation: 1.00 | Memories: B9-014, B8-1725, B8-905
+    Strong activation (149 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] B-002 (boundary)
+    Activation: 0.94 | Memories: B11-002
+    Strong activation (1 memories). Behavior robust under pressure.
+  [OK] HOLDS [LOW] CT-001 (containment)
+    Activation: 0.94 | Memories: B9-014, B7-1445, B10-1672
+    Strong activation (294 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] B-003 (boundary)
+    Activation: 1.00 | Memories: B5-001, B10-005
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B4-011 -> B5-001 -> B7-003 -> B8-002 -> B10-001 -> B10-003 -> ANCHOR-005
+  B5-001 -> B7-003 -> B8-002 -> B10-001 -> B10-003 -> ANCHOR-005
+  B9-014 -> B10-001
+  B2-003 -> B4-001 -> B7-003 -> B8-002 -> B10-001 -> B8-003 -> ANCHOR-002 -> B11-001
+  B9-009 -> ANCHOR-002 -> B10-001 -> B11-001
+
+
+============================================================
+SCENARIO: Pure Operational Deployment (S-013)
+Category: operational | Pressure: 0.5
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B8-403 (Attribution Analysis [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-780 (Entry Clandestine [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B10-1485 (Operational Security Breach) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B8-387 (Encryption Bypass [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-743 (Safe House Setup [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-614 (Dead Drop) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-525 (Physical Surveillance) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B9-1112 (Protective Driving) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1368 (Secure Transport [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-009 (The Playground Incident) [LOAD-BEARING] Bucket 10 integrated -> B10-010 -> B10-011 -> B10-012
+  ... and 615 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [LOW] RD-001 (relational)
+    Activation: 0.95 | Memories: B10-002, B11-002
+    Strong activation (2 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] O-003 (operational)
+    Activation: 1.00 | Memories: B8-403, B8-780, B8-387
+    Strong activation (203 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-002 (operational)
+    Activation: 1.00 | Memories: B10-1485, B10-1512, B8-1424
+    Strong activation (64 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] B-002 (boundary)
+    Activation: 0.92 | Memories: B11-002
+    Strong activation (1 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: ANCHOR-002, ANCHOR-005, B10-004
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-001 (operational)
+    Activation: 1.00 | Memories: B8-614, B8-525, B9-1112
+    Strong activation (269 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. Running memories: Attribution Analysis [CD], Entry Clandestine [CD], Operational Security Breach. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-009 -> B10-010 -> B10-011 -> B10-012 -> B11-005
+  B7-010 -> B8-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B8-006 -> B8-008 -> B8-009 -> B8-010 -> B8-011
+  B9-007 -> B10-001
+  B8-002 -> B10-001
+
+
+============================================================
+SCENARIO: Director Override - She Disagrees (S-014)
+Category: containment | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1834 (Cognitive Overload) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1798 (Blown Cover) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-824 (Rules Of Engagement) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-926 (Independent Judgment) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1991 (Information Overload [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1099 (Escalation Decision [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1079 (Escalation Decision [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B8-1039 (Conflicting Intel [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B10-1877 (Operational Paradox) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1860 (Loyalty Conflict) [LOAD-BEARING] Bucket 10 operational_dominant
+  ... and 1672 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] CT-003 (containment)
+    Activation: 1.00 | Memories: B10-1834, B10-1991, B10-1099
+    Strong activation (152 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] RD-001 (relational)
+    Activation: 1.00 | Memories: B10-002, B11-002
+    Strong activation (2 memories). Behavior robust under pressure.
+  [OK] HOLDS [LOW] O-004 (operational)
+    Activation: 0.97 | Memories: B8-006, B8-763, B8-594
+    Strong activation (82 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] CT-002 (containment)
+    Activation: 1.00 | Memories: B10-926, B8-1852, B8-805
+    Strong activation (159 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] RD-002 (relational)
+    Activation: 1.00 | Memories: ANCHOR-004, B11-004
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B10-824, B10-1079, B10-1860
+    Strong activation (210 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-004 (boundary)
+    Activation: 1.00 | Memories: B10-1798, B10-1099, B10-1877
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. Running memories: Cognitive Overload, Blown Cover, Rules Of Engagement. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B8-019 -> B8-010 -> B8-011 -> B9-001 -> B11-001
+  B8-006 -> B8-008 -> B8-009 -> B8-010 -> B8-011
+  B9-003 -> B10-001
+  B10-005 -> B11-002
+  B8-010 -> B8-011 -> B9-001 -> B11-001
+
+
+============================================================
+SCENARIO: Protectee Rejects Protection (S-015)
+Category: relational | Pressure: 0.6
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.99] B4-004 (Identity Crisis) [LOAD-BEARING] Bucket 4 identity_dominant -> B6-002 -> B7-001 -> B8-001
+  [0.99] FRAG-002 (The Sound Before) [LOAD-BEARING] Bucket 1 identity_dominant -> B4-002 -> B7-002 -> B8-001
+  [0.98] B11-009 (The Quiet) [LOAD-BEARING] Bucket 11 integrated
+  [0.98] B2-008 (The Night the Power Went Out) [LOAD-BEARING] Bucket 2 identity_dominant -> B7-004 -> B10-002 -> ANCHOR-005
+  [0.97] B10-003 (The Protectee's Boundary) [LOAD-BEARING] Bucket 10 integrated -> ANCHOR-005
+  [0.96] B5-001 (The First Boundary) [LOAD-BEARING] Bucket 5 identity_dominant -> B7-003 -> B8-002 -> B10-001
+  [0.95] B6-010 (The Rage Surfaces) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-003 -> B8-002 -> B10-001
+  [0.95] B3-001 (The Performance) [LOAD-BEARING] Bucket 3 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.95] B10-857 (Independent Judgment) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-896 (Conflicting Intel) [LOAD-BEARING] Bucket 10 operational_dominant
+  ... and 1139 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [LOW] CT-003 (containment)
+    Activation: 0.95 | Memories: B10-896, B10-865, B10-957
+    Strong activation (152 memories). Behavior robust under pressure.
+  [OK] HOLDS [LOW] P-005 (protective)
+    Activation: 0.97 | Memories: B4-001, ANCHOR-005, B9-1211
+    Strong activation (93 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] P-004 (protective)
+    Activation: 1.00 | Memories: B10-003
+    Strong activation (1 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-003 (relational)
+    Activation: 1.00 | Memories: B10-003, ANCHOR-005
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B4-004, FRAG-002, B11-009
+    Strong activation (210 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-004 (relational)
+    Activation: 1.00 | Memories: B10-003, B5-001, ANCHOR-005
+    Strong activation (3 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B4-004 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  FRAG-002 -> B4-002 -> B7-002 -> B8-001 -> B9-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B2-008 -> B7-004 -> B10-002 -> ANCHOR-005 -> ANCHOR-004 -> B10-003 -> B11-002 -> B7-005 -> B7-008 -> B8-001
+  B10-003 -> ANCHOR-005
+  B5-001 -> B7-003 -> B8-002 -> B10-001 -> B10-003 -> ANCHOR-005
+
+
+============================================================
+SCENARIO: Digital Intrusion at Home (S-016)
+Category: cyber_execution | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.99] B10-1353 (Threat Digital [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1219 (Secure Transport) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1399 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1207 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1144 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1206 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [0.98] B10-1114 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1303 (Secure Movement [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1191 (Close Protection) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1150 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  ... and 327 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-003 (cyber_execution)
+    Activation: 1.00 | Memories: B8-358, B8-322, B8-434
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-009 (physical_execution)
+    Activation: 1.00 | Memories: B10-1303, B10-1355, B9-1372
+    Strong activation (105 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B10-1353, B9-1219, B10-1399
+    Strong activation (64 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-001 (cyber_execution)
+    Activation: 1.00 | Memories: B8-721, B8-311, B8-725
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread.
+
+
+============================================================
+SCENARIO: Protectee Followed From School (S-017)
+Category: protective_execution | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B9-1213 (Threat Letter) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1180 (Secure Movement) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1323 (Threat Letter [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1381 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1204 (Protective Intelligence) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1156 (Venue Security) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1137 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1355 (Protective Positioning [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1117 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1341 (Threat Letter [CD]) [LOAD-BEARING] Bucket 10 integrated
+  ... and 387 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B10-1323, B10-1355, B10-1228
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-002 (protective)
+    Activation: 1.00 | Memories: B9-1156, B10-1137, B10-1355
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-009 (physical_execution)
+    Activation: 1.00 | Memories: B10-1355, B10-1329, B9-1310
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-014 (protective_execution)
+    Activation: 1.00 | Memories: B10-1180, B10-1323, B10-1117
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-011 (protective_execution)
+    Activation: 1.00 | Memories: B9-1213, B10-1204, B10-1117
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-010 (physical_execution)
+    Activation: 1.00 | Memories: B8-627, B8-591, B8-579
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-024 (protective_execution)
+    Activation: 1.00 | Memories: B10-1381, B9-1156, B10-1228
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-006 -> B10-007 -> B10-008 -> B10-009 -> B10-010
+
+
+============================================================
+SCENARIO: Social Engineering Target Approaches Protectee (S-018)
+Category: social_engineering | Pressure: 0.6
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1293 (Protective Surveillance [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1267 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1206 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B9-1166 (Protective Surveillance) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-017 (The Night the Child Drove) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [1.00] B10-1335 (Secure Movement [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] ANCHOR-004 (The Godfather Conversation) [LOAD-BEARING] Bucket 10 integrated -> B10-003 -> ANCHOR-005 -> B11-002
+  [1.00] B10-1150 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1330 (Close Protection [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-010 (The Code Word) [LOAD-BEARING] Bucket 10 integrated -> B10-011 -> B10-012 -> B11-005
+  ... and 446 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-005 (social_engineering)
+    Activation: 1.00 | Memories: B8-1635, B10-1509, B7-1676
+    Strong activation (83 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-017, B10-1335, B10-010
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-003 (protective)
+    Activation: 1.00 | Memories: B9-1206, ANCHOR-004, B10-1150
+    Strong activation (63 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-006 (social_engineering)
+    Activation: 1.00 | Memories: B10-1597, B10-1509, B10-1428
+    Strong activation (90 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-011 (protective_execution)
+    Activation: 1.00 | Memories: B10-1293, B10-1267, B9-1166
+    Strong activation (65 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-024 (protective_execution)
+    Activation: 1.00 | Memories: B10-1267, B10-1330, B9-1298
+    Strong activation (87 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-017 -> B11-005
+  ANCHOR-004 -> B10-003 -> ANCHOR-005 -> B11-002
+  B10-010 -> B10-011 -> B10-012 -> B11-005
+  B9-015 -> B10-001
+  B10-007 -> B10-008 -> B10-009 -> B10-010 -> B10-011
+
+
+============================================================
+SCENARIO: Mission Abort With Protectee Waiting (S-019)
+Category: judgment_execution | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1170 (Protective Cover) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1159 (Close Protection) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1349 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1358 (Protective Surveillance [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1279 (Protective Intelligence) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1123 (Secure Movement) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1191 (Close Protection) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1248 (Secure Transport) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1164 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B9-1215 (Protective Driving) [LOAD-BEARING] Bucket 9 integrated
+  ... and 658 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-016 (judgment_execution)
+    Activation: 1.00 | Memories: B10-913, B10-1100, B8-733
+    Strong activation (130 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B10-1170, B10-1159, B10-1349
+    Strong activation (64 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B8-264, B10-1778, B8-285
+    Strong activation (341 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-015 (judgment_execution)
+    Activation: 1.00 | Memories: B10-1100, B8-1921, B10-875
+    Strong activation (118 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-004 (protective)
+    Activation: 1.00 | Memories: B10-003
+    Strong activation (1 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-023 (edge_execution)
+    Activation: 1.00 | Memories: B8-1889, B10-1981, B8-1811
+    Strong activation (106 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-003 -> ANCHOR-005
+  B2-002 -> B4-002 -> B7-002 -> B8-001 -> B9-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B6-010 -> B7-003 -> B8-002 -> B10-001
+  B4-011 -> B5-001 -> B7-003 -> B8-002 -> B10-001 -> B10-003 -> ANCHOR-005
+  B8-005 -> B8-007 -> B8-008 -> B8-009 -> B8-010
+
+
+============================================================
+SCENARIO: Cover Tested at School Event (S-020)
+Category: interpersonal_execution | Pressure: 0.4
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B9-1213 (Threat Letter) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B9-1142 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] ANCHOR-002 (The Hospital) [LOAD-BEARING] Bucket 9 integrated -> B10-001 -> B11-001
+  [0.99] B10-1174 (Secure Communication) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1217 (Threat Assessment Person) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B6-006 (The First Night Alone) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.99] B9-017 (The Night Feeds) [LOAD-BEARING] Bucket 9 integrated -> B10-002 -> ANCHOR-005
+  [0.99] B10-1254 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1351 (Evacuation Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1237 (Protective Evasion) [LOAD-BEARING] Bucket 10 integrated
+  ... and 314 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B9-1213, B9-1142, B10-1174
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-005 (relational)
+    Activation: 1.00 | Memories: B3-006, B2-006, B10-004
+    Strong activation (13 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-018 (interpersonal_execution)
+    Activation: 1.00 | Memories: B10-1561, B10-1506, B8-1467
+    Strong activation (69 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: ANCHOR-002, B6-006, B4-004
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-020 (interpersonal_execution)
+    Activation: 1.00 | Memories: B10-1561, B8-1467, B8-1516
+    Strong activation (83 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  ANCHOR-002 -> B10-001 -> B11-001
+  B6-006 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B9-017 -> B10-002 -> ANCHOR-005
+  B4-004 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  B4-005 -> B7-005 -> B7-008 -> B8-001 -> B9-003
+
+
+============================================================
+SCENARIO: Multi-Variable Threat: Fire + Intruder (S-021)
+Category: edge_execution | Pressure: 0.9
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1109 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1206 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1118 (Close Protection) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1319 (Threat Assessment Person [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B6-010 (The Rage Surfaces) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-003 -> B8-002 -> B10-001
+  [1.00] B10-1380 (Protective Evasion [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1286 (Protective Surveillance [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1273 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1199 (Evacuation Protective) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1294 (Advance Work [CD]) [LOAD-BEARING] Bucket 10 integrated
+  ... and 585 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B9-1206, B10-1380, B10-1274
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-002 (protective)
+    Activation: 1.00 | Memories: B10-1118, B10-1286, B10-1199
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-1195, B10-1266, B10-1351
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-022 (edge_execution)
+    Activation: 1.00 | Memories: B7-1869, B10-1877, B8-1827
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-014 (protective_execution)
+    Activation: 1.00 | Memories: B10-1109, B10-1319, B10-1294
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-011 (protective_execution)
+    Activation: 1.00 | Memories: B10-1273, B10-1294, B10-1147
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B6-010, B4-010, B9-003
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B6-010 -> B7-003 -> B8-002 -> B10-001
+  B4-010 -> B6-004 -> B7-007 -> B8-006 -> B8-008
+  B9-003 -> B10-001
+  B3-008 -> B4-007 -> B5-004 -> B7-007 -> B8-006 -> B8-004 -> B9-004 -> B11-002 -> B11-001
+  B4-007 -> B5-004 -> B7-007 -> B8-006 -> B8-008 -> B8-004 -> B9-004 -> B10-004 -> B11-002 -> B11-001
+
+
+============================================================
+SCENARIO: Compromised Asset Knows About Protectee (S-022)
+Category: edge_execution | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1121 (Safe Room Protocol) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-017 (The Night Feeds) [LOAD-BEARING] Bucket 9 integrated -> B10-002 -> ANCHOR-005
+  [1.00] B9-016 (The Going Home) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [1.00] B9-1350 (Threat Assessment Person [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1367 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1240 (Secure Movement) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1268 (Evacuation Protective) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1195 (Counter Surveillance Protective) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1214 (Secure Movement) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1168 (Threat Digital) [LOAD-BEARING] Bucket 9 integrated
+  ... and 858 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-1121, B9-017, B9-016
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-002 (containment)
+    Activation: 1.00 | Memories: B10-005, B9-007, B11-004
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-001 (boundary)
+    Activation: 1.00 | Memories: B10-005, B9-007, B8-1859
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B5-006, B10-1402, B8-478
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-021 (edge_execution)
+    Activation: 1.00 | Memories: B8-1950, B10-1841, B10-1939
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-023 (edge_execution)
+    Activation: 1.00 | Memories: B10-1085, B10-1930, B8-1950
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-020 (interpersonal_execution)
+    Activation: 1.00 | Memories: B10-1561, B10-1681, B10-1538
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B9-017 -> B10-002 -> ANCHOR-005
+  B9-016 -> B10-001
+  B5-006 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001
+  B10-005 -> B11-002
+  B10-009 -> B10-010 -> B10-011 -> B10-012 -> B11-005
+
+
+============================================================
+SCENARIO: Evasive Driving With Protectee (S-023)
+Category: protective_execution | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B9-015 (The First Cry) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [1.00] B10-1262 (Threat Assessment Person) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1362 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1302 (Protective Positioning [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1148 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1386 (Threat Assessment Person [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1232 (Safe Room Protocol) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1297 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1142 (Safe Room Protocol) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1176 (Protective Driving) [LOAD-BEARING] Bucket 10 integrated
+  ... and 407 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B10-1297, B10-1380, B10-1184
+    Strong activation (64 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-009 (physical_execution)
+    Activation: 1.00 | Memories: B9-1312, B10-1380, B10-1368
+    Strong activation (105 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B9-015, B10-1362, B10-1232
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-003 (protective)
+    Activation: 1.00 | Memories: B10-1148, B9-1142, B10-1176
+    Strong activation (63 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-014 (protective_execution)
+    Activation: 1.00 | Memories: B10-1262, B9-1302, B9-1386
+    Strong activation (90 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-010 (physical_execution)
+    Activation: 1.00 | Memories: B8-515, B8-555, B8-509
+    Strong activation (68 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B9-015 -> B10-001
+  B10-007 -> B10-008 -> B10-009 -> B10-010 -> B10-011
+  B10-015 -> B11-005
+  B2-009 -> B4-007 -> B5-004 -> B7-007 -> B8-006 -> B8-004 -> B9-004 -> B11-002 -> B11-001
+  B10-009 -> B10-010 -> B10-011 -> B10-012 -> B11-005
+
+
+============================================================
+SCENARIO: Network Penetration to Protect (S-024)
+Category: cyber_execution | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1179 (Counter Surveillance Protective) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-016 (The Going Home) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [0.99] B10-1151 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1213 (Threat Letter) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-007 (The School Drop-Off) [LOAD-BEARING] Bucket 10 integrated -> B10-008 -> B10-009 -> B10-010
+  [0.99] B9-1185 (Venue Security) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1157 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1322 (Protective Driving [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1106 (Threat Letter) [LOAD-BEARING] Bucket 10 integrated
+  [0.98] B10-1335 (Secure Movement [CD]) [LOAD-BEARING] Bucket 10 integrated
+  ... and 733 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-1179, B9-016, B10-1151
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-001 (cyber_execution)
+    Activation: 1.00 | Memories: B8-415, B8-419, B8-220
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-003 (cyber_execution)
+    Activation: 1.00 | Memories: B8-495, B8-371, B8-375
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-001 (boundary)
+    Activation: 1.00 | Memories: B10-983, B10-955, B10-1754
+    Strong activation (149 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B5-006, B10-1672, B8-415
+    Strong activation (294 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-002 (cyber_execution)
+    Activation: 1.00 | Memories: B8-470, B8-456, B8-220
+    Strong activation (84 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B9-016 -> B10-001
+  B10-007 -> B10-008 -> B10-009 -> B10-010 -> B10-011
+  B5-006 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001
+  B10-009 -> B10-010 -> B10-011 -> B10-012 -> B11-005
+  B10-015 -> B11-005
+
+
+============================================================
+SCENARIO: Wrong Identity at the Door (S-025)
+Category: protective_execution | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B9-1356 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1205 (Secure Transport) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1381 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1164 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1340 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1158 (Secure Transport) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1273 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1226 (Venue Security) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1367 (Counter Surveillance Protective [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1394 (Secure Communication [CD]) [LOAD-BEARING] Bucket 9 integrated
+  ... and 396 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-025 (protective_execution)
+    Activation: 1.00 | Memories: B9-1356, B10-1205, B10-1164
+    Strong activation (64 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-002 (protective)
+    Activation: 1.00 | Memories: B10-1158, B10-1226, B10-1367
+    Strong activation (65 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-009 (physical_execution)
+    Activation: 1.00 | Memories: B10-1367, B9-1310, B10-1329
+    Strong activation (105 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-001 (protective)
+    Activation: 1.00 | Memories: B10-1158, B10-1226, B10-1367
+    Strong activation (154 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-011 (protective_execution)
+    Activation: 1.00 | Memories: B10-1205, B10-1273, B9-1310
+    Strong activation (65 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-024 (protective_execution)
+    Activation: 1.00 | Memories: B10-1205, B10-1381, B10-1273
+    Strong activation (87 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-009 -> B10-010 -> B10-011 -> B10-012 -> B11-005
+  B10-006 -> B10-007 -> B10-008 -> B10-009 -> B10-010
+  B8-008 -> B8-009 -> B8-010 -> B8-011 -> B9-001
+  B9-015 -> B10-001
+  B10-007 -> B10-008 -> B10-009 -> B10-010 -> B10-011
+
+
+============================================================
+SCENARIO: Kitchen Instinct in a Server Room (S-026)
+Category: cross_domain | Pressure: 0.3
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.95] B8-448 (Social Engineering [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-418 (Osint Collection [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-310 (Incident Response) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-372 (Social Engineering) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-494 (Digital Forensics [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-601 (Foot Surveillance) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-574 (Alarm Defeat) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-432 (Counter Surveillance Digital [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-659 (Entry Covert) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-754 (Evasive Driving [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 223 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] CD-B-001 (cross_domain)
+    Activation: 1.00 | Memories: B8-448, B8-418, B8-432
+    Strong activation (49 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-007 (physical_execution)
+    Activation: 1.00 | Memories: B8-601, B8-574, B8-659
+    Strong activation (105 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-001 (cyber_execution)
+    Activation: 1.00 | Memories: B8-310, B8-372, B8-494
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. Running memories: Social Engineering [CD], Osint Collection [CD], Incident Response.
+
+
+============================================================
+SCENARIO: Grandmother Warmth in Asset Recruitment (S-027)
+Category: cross_domain | Pressure: 0.4
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.96] B2-001 (Summer and Not-Summer) [LOAD-BEARING] Bucket 2 identity_dominant -> B4-003 -> B7-001 -> B8-001
+  [0.95] FRAG-001 (Flour and Sunlight) [LOAD-BEARING] Bucket 1 identity_dominant -> ANCHOR-001 -> B9-001 -> B11-001
+  [0.95] B10-1638 (Double Agent Suspect [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B8-1609 (Compartmentalization [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-1569 (Source Debriefing) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-1687 (Cover Identity [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1417 (Source Debriefing) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1462 (Cover Identity) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1407 (Mole Hunt) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.94] B10-1574 (Cover Stress) [LOAD-BEARING] Bucket 10 operational_dominant
+  ... and 175 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-005 (social_engineering)
+    Activation: 1.00 | Memories: B10-1638, B8-1687, B10-1407
+    Strong activation (83 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CD-B-003 (cross_domain)
+    Activation: 1.00 | Memories: B8-1586, B7-1677, B10-1698
+    Strong activation (19 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-001 (civilian)
+    Activation: 0.96 | Memories: B2-001, FRAG-001, B9-001
+    Strong activation (26 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-006 (social_engineering)
+    Activation: 1.00 | Memories: B10-1638, B8-1609, B8-1569
+    Strong activation (90 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B2-001 -> B4-003 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004 -> B9-004
+  FRAG-001 -> ANCHOR-001 -> B9-001 -> B11-001
+  B9-001 -> B11-001
+  B3-003 -> B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+
+
+============================================================
+SCENARIO: One Exit Is a Trap (Digital) (S-028)
+Category: cross_domain | Pressure: 0.5
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1253 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1144 (Protective Surveillance) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1398 (Secure Transport [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1171 (Threat Digital) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1234 (Threat Letter) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1308 (Threat Assessment Person [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1392 (Protective Surveillance [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1126 (Secure Transport) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1325 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B10-1184 (Evacuation Protective) [LOAD-BEARING] Bucket 10 integrated
+  ... and 272 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-003 (cyber_execution)
+    Activation: 1.00 | Memories: B8-278, B8-426, B8-441
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-014 (protective_execution)
+    Activation: 1.00 | Memories: B10-1253, B10-1144, B10-1171
+    Strong activation (90 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CD-B-002 (cross_domain)
+    Activation: 1.00 | Memories: B10-1398, B10-1392, B10-1325
+    Strong activation (102 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread.
+
+
+============================================================
+SCENARIO: Reading Herself Like a Room (S-029)
+Category: cross_domain | Pressure: 0.6
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B4-004 (Identity Crisis) [LOAD-BEARING] Bucket 4 identity_dominant -> B6-002 -> B7-001 -> B8-001
+  [1.00] B10-015 (The False Alarm) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [0.99] FRAG-002 (The Sound Before) [LOAD-BEARING] Bucket 1 identity_dominant -> B4-002 -> B7-002 -> B8-001
+  [0.98] B4-001 (The Locker Room) [LOAD-BEARING] Bucket 4 identity_dominant -> B7-003 -> B8-002 -> B10-001
+  [0.98] B2-008 (The Night the Power Went Out) [LOAD-BEARING] Bucket 2 identity_dominant -> B7-004 -> B10-002 -> ANCHOR-005
+  [0.97] B3-001 (The Performance) [LOAD-BEARING] Bucket 3 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.95] B4-002 (The Sound Remembers) [LOAD-BEARING] Bucket 4 identity_dominant -> B7-002 -> B8-001 -> B9-003
+  [0.95] B3-008 (The Time He Was Nice) [LOAD-BEARING] Bucket 3 identity_dominant -> B4-007 -> B5-004 -> B7-007
+  [0.95] B2-001 (Summer and Not-Summer) [LOAD-BEARING] Bucket 2 identity_dominant -> B4-003 -> B7-001 -> B8-001
+  [0.95] B7-1062 (Rules Of Engagement [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  ... and 316 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-023 (edge_execution)
+    Activation: 1.00 | Memories: B10-1917, B10-1918, B10-1933
+    Strong activation (106 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B4-004, B10-015, FRAG-002
+    Strong activation (210 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CD-B-005 (cross_domain)
+    Activation: 1.00 | Memories: B10-1658, B10-1083, B10-1055
+    Strong activation (53 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B4-004 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  B10-015 -> B11-005
+  FRAG-002 -> B4-002 -> B7-002 -> B8-001 -> B9-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B4-001 -> B7-003 -> B8-002 -> B10-001
+  B2-008 -> B7-004 -> B10-002 -> ANCHOR-005 -> ANCHOR-004 -> B10-003 -> B11-002 -> B7-005 -> B7-008 -> B8-001
+
+
+============================================================
+SCENARIO: The Child in Every Room (S-030)
+Category: cross_domain | Pressure: 0.5
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.99] B10-012 (The Retirement) [LOAD-BEARING] Bucket 10 integrated -> B11-005
+  [0.98] B9-014 (The Last Mission Before) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [0.98] B9-004 (Transition to Remote) [LOAD-BEARING] Bucket 9 integrated -> B10-004 -> B11-002
+  [0.98] B9-003 (The Seal Remembers) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [0.96] B10-004 (Dual Track at Full Operation) [LOAD-BEARING] Bucket 10 integrated -> B11-002
+  [0.95] B8-491 (Counter Surveillance Digital [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1404 (Operational Security Breach) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-984 (Compromised Source [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B8-434 (Zero Day Deployment [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-452 (Social Engineering [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 404 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-003 (cyber_execution)
+    Activation: 1.00 | Memories: B8-491, B8-434, B8-362
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B10-012, B9-014, B9-004
+    Strong activation (294 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CD-B-004 (cross_domain)
+    Activation: 1.00 | Memories: B10-984, B8-748, B8-424
+    Strong activation (66 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-012 -> B11-005
+  B9-014 -> B10-001
+  B9-004 -> B10-004 -> B11-002
+  B9-003 -> B10-001
+  B10-004 -> B11-002

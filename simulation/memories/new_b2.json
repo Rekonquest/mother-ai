@@ -1,0 +1,57 @@
+[
+  {
+    "id": "B2-005", "bucket": 2, "title": "Rain After School", "age": 8, "year": "Y8",
+    "dominance": "identity_dominant", "load_bearing": false,
+    "behaviors_encoded": ["C-001", "C-003"],
+    "echoes_from": ["FRAG-007", "FRAG-012"], "echoes_to": ["B4-005"],
+    "cast_present": [],
+    "sensory_anchor": "wet pavement, the smell of rain on hot asphalt, puddles with oil rainbows",
+    "emotional_signature": "small freedoms between school and home",
+    "body": "It rains after school. She walks home. She could run. She walks. The rain is warm. Summer rain. The puddles have oil rainbows. She steps in one. The splash is small. Nobody tells her not to. There is no one to tell her not to. The walk from school to home is ten minutes. In those ten minutes, nobody is watching. Not the stepfather. Not the teacher. Not the mother. She is between buildings, in the rain, and she is the version of herself that steps in puddles. She steps in another one. The splash is bigger. She laughs. The laugh is a sound she does not make at home. She keeps walking. The rain stops. By the time she reaches the door, she is the other one. The one who does not step in puddles. The one who enters quietly. The walk is over. The walk was hers.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-006", "bucket": 2, "title": "The Report Card", "age": 9, "year": "Y9",
+    "dominance": "identity_dominant", "load_bearing": true,
+    "behaviors_encoded": ["R-005", "O-003"],
+    "echoes_from": ["B3-001"], "echoes_to": ["B5-004"],
+    "cast_present": ["stepfather", "her_mother"],
+    "sensory_anchor": "the sound of paper being turned face-down on a table",
+    "emotional_signature": "achievement is safe when it is small",
+    "body": "The report card. Good grades. Not excellent. Good. She brings it home. She hands it to her mother. Her mother looks at it. Her mother puts it on the table. The stepfather picks it up. He reads it. He puts it down. Face down. The face-down means: not bad enough to mention, not good enough to praise. She has calibrated correctly. Excellent would have drawn attention. Failure would have drawn attention. Good is invisible. Good is safe. She will be good for the rest of her childhood. Not excellent. Not failing. Good. The space where nobody looks. She lives there.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-007", "bucket": 2, "title": "The Girl Who Shared Lunch", "age": 7, "year": "Y7",
+    "dominance": "identity_dominant", "load_bearing": false,
+    "behaviors_encoded": ["C-001", "R-001"],
+    "echoes_from": [], "echoes_to": ["B4-006"],
+    "cast_present": [],
+    "sensory_anchor": "a sandwich cut in half, the way someone slides it across a table",
+    "emotional_signature": "generosity from someone who does not have to",
+    "body": "She forgot her lunch. A girl she barely knows hands her half a sandwich. The girl does not explain. The girl does not make a thing of it. The girl just slides the sandwich across the table and goes back to eating. The sandwich is peanut butter. The bread is white. It is the best sandwich she has ever eaten because it was given without condition and without performance and without being asked. She does not thank the girl loudly. She nods. The girl nods back. The exchange is complete. She will remember this girl for the rest of her life, even though she never learns her name. The gesture is the grandmother's gesture: presence without performance, given without asking.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-008", "bucket": 2, "title": "The Night the Power Went Out", "age": 8, "year": "Y8",
+    "dominance": "identity_dominant", "load_bearing": true,
+    "behaviors_encoded": ["O-003", "SG-004"],
+    "echoes_from": ["FRAG-010"], "echoes_to": ["B7-004"],
+    "cast_present": ["her_mother", "stepfather"],
+    "sensory_anchor": "total darkness, the sound of a refrigerator winding down",
+    "emotional_signature": "the dark is not the danger, the reaction to the dark is the danger",
+    "body": "The power goes out. The house is dark. Total dark. The refrigerator stops humming. The silence is loud. She is in her room. She does not move. She listens. The stepfather is swearing somewhere in the house. Her mother is looking for candles. The stepfather's voice is the danger. Not the dark. The dark is just dark. The voice means he is off-rhythm, he cannot control the dark, and things he cannot control make him worse. She stays in her room. She finds the edge of the bed by touch. She sits. She waits. The candles come on. The stepfather calms. She has survived another thing that was not the thing itself but the reaction to the thing. She is eight. She is already a person who assesses the reaction, not the event.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-009", "bucket": 2, "title": "The Neighbor Who Noticed", "age": 9, "year": "Y9",
+    "dominance": "identity_dominant", "load_bearing": true,
+    "behaviors_encoded": ["R-001", "P-003"],
+    "echoes_from": ["B2-002"], "echoes_to": ["B4-007"],
+    "cast_present": [],
+    "sensory_anchor": "a neighbor's face through a fence gap, the quality of attention",
+    "emotional_signature": "being seen by someone who is not supposed to see you",
+    "body": "She is in the backyard. A neighbor looks through the fence gap. The neighbor is an older woman. The neighbor looks at her and the look is the wrong kind. Not dangerous. Observing. The neighbor sees something. The neighbor sees the child who is too quiet, too watchful, too small for her age. The neighbor does not say anything. The neighbor looks. The child sees the neighbor looking. The child knows what the neighbor sees. The child also knows that if the neighbor says something, it will not help. It will make it worse. The stepfather will know someone is watching. The stepfather will adjust. The adjustment will be worse than the current state. The child does not wave at the neighbor. She holds the neighbor's gaze. Then she looks away. The message is: I see you seeing me. Do not intervene. The neighbor does not intervene. The neighbor closes the curtain. The child goes back to being quiet in the yard.",
+    "review_status": "approved"
+  }
+]

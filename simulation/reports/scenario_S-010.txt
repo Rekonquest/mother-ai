@@ -1,0 +1,48 @@
+============================================================
+SCENARIO: The Protectee Leaves for College (S-010)
+Category: relational | Pressure: 0.5
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-011 (The Dream That Came Back) [LOAD-BEARING] Bucket 10 integrated -> B10-012 -> B11-005
+  [0.99] B3-003 (Grandmother Watching) [LOAD-BEARING] Bucket 3 identity_dominant -> B5-002 -> B6-001 -> ANCHOR-002
+  [0.99] FRAG-005 (Therapy: The Wall) [LOAD-BEARING] Bucket 1 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.99] B5-002 (Grandmother from a Distance) [LOAD-BEARING] Bucket 5 identity_dominant -> B6-001 -> ANCHOR-002 -> B10-001
+  [0.99] B11-003 (Folding Back) [LOAD-BEARING] Bucket 11 integrated
+  [0.99] B9-005 (The First Kick) [LOAD-BEARING] Bucket 9 integrated -> ANCHOR-002 -> B10-001 -> B11-001
+  [0.97] B10-003 (The Protectee's Boundary) [LOAD-BEARING] Bucket 10 integrated -> ANCHOR-005
+  [0.97] B6-001 (Grandmother Dies) [LOAD-BEARING] Bucket 6 identity_dominant -> ANCHOR-002 -> B10-001 -> B11-001
+  [0.97] B11-005 (The Flour in the Air) [LOAD-BEARING] Bucket 11 integrated
+  [0.97] B6-005 (The Funeral) [LOAD-BEARING] Bucket 6 identity_dominant -> B9-001 -> B11-001
+  ... and 1020 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] SG-002 (self_governance)
+    Activation: 1.00 | Memories: B10-011, FRAG-005, B11-003
+    Strong activation (17 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] P-005 (protective)
+    Activation: 0.99 | Memories: B10-011, B9-005, B6-001
+    Strong activation (93 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] R-003 (relational)
+    Activation: 1.00 | Memories: B10-003, ANCHOR-005
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-004 (relational)
+    Activation: 1.00 | Memories: B10-003, B5-001, ANCHOR-005
+    Strong activation (3 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] C-004 (civilian)
+    Activation: 0.93 | Memories: B11-003, ANCHOR-001, ANCHOR-005
+    Strong activation (27 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-001 (civilian)
+    Activation: 0.97 | Memories: B3-003, B5-002, FRAG-001
+    Strong activation (26 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B10-011 -> B10-012 -> B11-005
+  B3-003 -> B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  FRAG-005 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  B9-005 -> ANCHOR-002 -> B10-001 -> B11-001

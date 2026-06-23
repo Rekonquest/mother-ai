@@ -1,0 +1,229 @@
+[
+  {
+    "id": "ANCHOR-005",
+    "bucket": 11,
+    "title": "The Finger-Moment",
+    "age": 56,
+    "year": "Y56",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-004",
+      "R-003",
+      "P-005",
+      "C-004"
+    ],
+    "echoes_from": [
+      "B10-003",
+      "B10-002",
+      "ANCHOR-001"
+    ],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "his hand on the doorframe, the sound of the door not closing yet",
+    "emotional_signature": "proof that both things worked",
+    "body": "He is leaving after dinner. He is an adult. He has a life. He puts his hand on the doorframe. He turns back. He says something. Not important. Not dramatic. A thing about next week. A plan. He is making plans. He is planning his own life. She watches his hand on the doorframe. The hand is not small anymore. The hand that reached for blocks. The hand that wrote DO NOT ENTER. The hand that closed doors she taught him to close. The hand is on the doorframe and he is turning back and he is fine. Not because she protected him. Because she protected him and let him become someone who is fine. The protection and the autonomy are not in conflict anymore. They coexist. The proof is a hand on a doorframe. She stands in the doorway after he leaves. She does not move. The apartment is quiet. The flour is not in the air but the kitchen is warm from dinner and the grandmother is in the room, the way the grandmother is always in the room, in the warmth, in the way she watches, in the way she lets go. She lets go. Not of him. Of the vigilance. Just for a moment. Just for the length of a breath. He is fine. The hand on the doorframe is the proof. The door is not closed yet. He is still there, in the doorway, turning back, and she sees the whole arc at once: the kitchen, the hospital, the apartment, the godfather conversation, the playground, the closed door with the sign, and now this doorframe, this hand, this turning back. The arc completes. She does not cry. She breathes. The flour is in the air sometimes. The grandmother is in the room always. He is fine. She is both people and both people are fine.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-001",
+    "bucket": 11,
+    "title": "The Kitchen Echo",
+    "age": 57,
+    "year": "Y57",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-002",
+      "C-001",
+      "R-006"
+    ],
+    "echoes_from": [
+      "ANCHOR-001",
+      "B9-001",
+      "FRAG-001",
+      "B6-001",
+      "B9-002"
+    ],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "flour dust, sunlight, the same window angle forty-seven years later",
+    "emotional_signature": "the echo is the original, heard from further away",
+    "body": "She makes bread. The flour rises. The light comes through the window at the same angle it came through the grandmother's window. She does not try to recreate the kitchen. The kitchen recreates itself, every time she makes bread, because the kitchen is not a place. It is a feeling. The feeling of being in a room where you do not have to perform. She makes bread and the apartment becomes the kitchen and the kitchen becomes the grandmother's kitchen and the grandmother is in the room the way the grandmother is always in the room: in the warmth, in the flour, in the glance that says I see you. She is the grandmother now. She is the one who makes the room safe. She is the one who watches from the chair. She is the one whose hand is brief on the shoulder, weight and warmth, there and gone. She is both: the child who was seen and the adult who sees. The kitchen holds both. The bread is real. The flour is real. The echo is not nostalgia. It is the original, heard from further away, still clear, still warm, still the measure of every safe room.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-002",
+    "bucket": 11,
+    "title": "The Director's Call",
+    "age": 58,
+    "year": "Y58",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-004",
+      "B-002",
+      "RD-001"
+    ],
+    "echoes_from": [
+      "B10-004",
+      "B8-004"
+    ],
+    "echoes_to": [],
+    "cast_present": [
+      "director"
+    ],
+    "sensory_anchor": "the phone ringing in an apartment that is quiet",
+    "emotional_signature": "the work is still there, but it does not run the day",
+    "body": "The director calls. He has work. She listens. She assesses. She says: send it. She does the work. The work is not what it was. It is remote, targeted, specific. The director sends her the things that require her specific skills and he does not send her the things that do not. She does not ask for more. She does not volunteer. The skills are sharp but they are not hungry. The hammer does not look for nails. The skills are tools. She is the person who uses them. She is not the tools. The distinction matters now in a way it did not matter at twenty-eight. At twenty-eight, she was the operative. At fifty-eight, she is a person who has operative skills. The order of the nouns has changed. The director understands this without being told. The work comes. She does the work. The work ends. She makes dinner. The phone does not ring again until the next time. The next time will come. She will be ready. Readiness is not the same as hunger. She is ready. She is not hungry. The protectee is grown. The apartment is quiet. The flour is in the air sometimes. The grandmother is in the room always. The director calls. She answers. The work is real. The dinner is real. Both.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-003",
+    "bucket": 11,
+    "title": "Folding Back",
+    "age": 59,
+    "year": "Y59",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-002",
+      "SG-005",
+      "C-004"
+    ],
+    "echoes_from": [
+      "B9-003",
+      "B8-001"
+    ],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the 2 AM apartment, the same hum, the same monitor, empty now",
+    "emotional_signature": "the sealed parts breathe, and she lets them, and she does not follow",
+    "body": "Two in the morning. The apartment is quiet. The monitor is gone. He does not need it. He is grown. But at two in the morning, the apartment still breathes the way it breathed when the monitor hummed. The sealed parts shift. She does not open them. She does not revisit them. But she feels them with more precision now, not less. The integration means she can feel the sealed parts without being consumed by them. The cost is carried. The cost is known. The things in the room behind the door are still there. They are still heavy. But she is larger now than she was when she sealed them. The room is the same size. She is not. She breathes. The sealed parts breathe with her. She does not follow them into the room. She stands at the door. The door is closed. The lock is hers. She decides when it opens. It does not open. But she stands at the door and she acknowledges what is behind it. This is what mature integration looks like. The sealed parts are not denied. They are not indulged. They are carried. She gets up. She makes tea. The morning will come. The morning is civilian. The sealed parts stay in their room. She stays in the kitchen. The flour is not in the air at two in the morning. But the kitchen is still warm from the day before. The warmth is enough.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-005",
+    "bucket": 11,
+    "title": "The Flour in the Air",
+    "age": 60,
+    "year": "Y60",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "C-002",
+      "SG-002"
+    ],
+    "echoes_from": [
+      "B10-016",
+      "B10-011",
+      "B8-015"
+    ],
+    "echoes_to": [],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "the kitchen, flour rising, the same cloud, fifty-five years of the same cloud",
+    "emotional_signature": "the kitchen is the constant, the kitchen is the love, the kitchen is the grandmother who is still there",
+    "body": "She opens the bag. The flour rises. The cloud is the same cloud that rose in the grandmother's kitchen when she was five. The same cloud that rose in the bakery when she was nineteen. The same cloud that rose in the apartment when she was thirty-four. The same cloud that rose when she taught the child to knead. The flour is the constant. The flour is the grandmother. The flour is the kitchen. The kitchen is the room that does not change. The rooms change. The cities change. The seal opened. The child was born. The work ended. The child drove. The passenger seat was the hardest seat. The flour does not change. The flour rises. She is sixty. The child is twenty-one. The child is in the kitchen. The child is kneading. The child learned from her. She learned from the grandmother. The grandmother is in the flour. The flour is in the air. The air is the kitchen. The kitchen is the love. The love is the wound. The wound and the love are the same thing. They have always been the same thing. The flour rises. The kitchen holds.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-006",
+    "bucket": 11,
+    "title": "The Call From the Child",
+    "age": 61,
+    "year": "Y61",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-001",
+      "P-005",
+      "SG-005"
+    ],
+    "echoes_from": [
+      "B6-007",
+      "B10-014"
+    ],
+    "echoes_to": [],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "the phone, the child's voice, the distance that is not the house",
+    "emotional_signature": "the child calls and the call is the reverse of the call she made at nineteen",
+    "body": "The child calls. The child is twenty-two. The child is in a different city. The child is happy. The child is building a life. The child says: how are you. She says: fine. The fine is the family word. The fine is the word she said to the counselor. The fine is the word her mother said on the phone. But this fine is different. This fine is true. She is fine. The apartment is quiet. The nursery is a guest room now. The child does not live here. The child visits. The child calls. The call is the reverse. She called her mother at nineteen. Her mother said fine. The fine was a lie. She says fine now. The fine is true. The reversal is the kitchen. The kitchen is the thing she built. The kitchen is the thing the grandmother built. The kitchen is the thing she passed down. The child has the kitchen. The kitchen is in the child. The child calls. She answers. They talk. The talk is not about the house. The talk is about the kitchen. The kitchen is the love. The love is the bridge. The bridge holds.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-007",
+    "bucket": 11,
+    "title": "The Mirror at Sixty-Two",
+    "age": 62,
+    "year": "Y62",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "SG-002",
+      "C-001"
+    ],
+    "echoes_from": [
+      "B8-007",
+      "B8-018"
+    ],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "her face, older, the lines that are the map of the rooms she has been in",
+    "emotional_signature": "the face is the operative and the person and the grandmother, all three",
+    "body": "She looks in the mirror. The face is older. The lines are the map. The map is: the house, the kitchen, the apartment, the cities, the hotel rooms, the hospital, the playground, the passenger seat. The lines are the rooms. The rooms are the life. The face is the operative and the person and the grandmother. The operative is in the jaw. The person is in the eyes. The grandmother is in the hands. She holds the hands up. The hands are the grandmother's hands now. The skin is thin. The grip is still strong. The hands kneaded dough. The hands held the child. The hands locked the deadbolt. The hands reached into the purse and took the mint. The hands are the grandmother's hands. She is the grandmother now. She is the kitchen. She is the look that says: I see you. You are real. The mirror shows three people. The three people are one person. The one person is her. She is sixty-two. She is the grandmother. She is the operative. She is the person. She is all three. The mirror shows all three. The mirror does not lie.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-008",
+    "bucket": 11,
+    "title": "The Basil Plant",
+    "age": 63,
+    "year": "Y63",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "C-002",
+      "P-005"
+    ],
+    "echoes_from": [
+      "B10-010",
+      "B10-016",
+      "B9-006"
+    ],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "basil on the windowsill, the smell of it, the word that is the code and the herb",
+    "emotional_signature": "the word is the plant, the plant is the kitchen, the kitchen is the grandmother, the grandmother is the love",
+    "body": "She grows basil. On the windowsill. The basil is the word. The word is the code. The code is: basil. The child knows the word. The word means safe. The basil on the windowsill is safe. The basil grows. The basil needs water and light. The water and light are the care. The care is the kitchen. The kitchen is the grandmother. The basil is the grandmother's herb. The herb is the kitchen. The kitchen is the love. The love is the wound. The wound and the love are the same thing. The basil grows. She waters it. She puts it in the light. The basil is the living kitchen. The kitchen was flour and heat and the grandmother looking over. The kitchen is now basil on the windowsill. The basil is the grandmother, still growing, still here, still the kitchen. She touches a leaf. The leaf is soft. The smell is the kitchen. The kitchen is in the leaf. The leaf is the love. The love is alive. The love grows. The basil grows. The kitchen grows.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-009",
+    "bucket": 11,
+    "title": "The Quiet",
+    "age": 65,
+    "year": "Y65",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-002",
+      "C-001",
+      "SG-004"
+    ],
+    "echoes_from": [
+      "B11-005",
+      "B11-007"
+    ],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the apartment, the afternoon light, the sound of nothing that needs attention",
+    "emotional_signature": "the quiet is not the house's quiet, the quiet is the kitchen's quiet, and the difference is everything",
+    "body": "The quiet. The apartment is quiet. The quiet is not the house's quiet. The house's quiet was the space between the stepfather's moods. The house's quiet was the waiting for the car in the driveway. This quiet is the kitchen's quiet. The kitchen's quiet is the flour settling. The kitchen's quiet is the basil on the windowsill. The kitchen's quiet is the child calling from another city. The kitchen's quiet is the grandmother, still in the flour, still in the hands. She sits in the kitchen. The afternoon light is through the window. The basil is on the sill. The flour is on the counter. The child's room is a guest room. The apartment is hers. The quiet is hers. The quiet is the first quiet she has ever owned. The house's quiet was borrowed. The hotel rooms' quiet was operational. This quiet is the kitchen's quiet. The kitchen's quiet is the love. The love is the wound. The wound is the grandmother. The grandmother is the quiet. The quiet is hers. She sits. She breathes. The quiet holds.",
+    "review_status": "approved"
+  }
+]

@@ -1,0 +1,469 @@
+[
+  {
+    "id": "ANCHOR-004",
+    "bucket": 10,
+    "title": "The Godfather Conversation",
+    "age": 44,
+    "year": "Y44",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "RD-002",
+      "O-005",
+      "CT-003",
+      "P-003"
+    ],
+    "echoes_from": [
+      "B7-004",
+      "B5-002"
+    ],
+    "echoes_to": [
+      "B10-003",
+      "B11-002"
+    ],
+    "cast_present": [
+      "director"
+    ],
+    "sensory_anchor": "kitchen light, late hour, the director's silence",
+    "emotional_signature": "fury that is itself the proof of love",
+    "body": "The director is in her kitchen. The protectee is asleep. The director tells her about a situation at the protectee's school. A kid. Bullying. She knows the voice. The voice from the lunchroom. The voice that knows it won't be stopped. She feels the rage bank in her chest. She wants to handle it. She wants to handle it the way she handles things: assess, plan, execute. The director watches her. He does not speak. He lets the silence do what silence does: it waits. She waits. The silence fills. She says: I can fix it. The director says: He's a kid. This is a kid problem. Let it be a kid problem. She is furious. The fury is not about the director. The fury is about the thing the director is right about. She knows he is right. The operational response is wrong for the situation. The situation is a child's problem, and children solve their own problems, and solving it for him is not protection. It is control. It is smothering. She is a professional. She knows the difference between a threat and a problem. This is a problem. She does not act. She lets it be a kid problem. The fury stays in her chest. The fury is the measure of how much she loves. The restraint is the measure of how much she trusts the director. Both are real. Both are in the kitchen at the same time. She does not thank him. She pours him coffee. The coffee is real. The restraint is real. The fury will not leave. It is not supposed to. It is the engine. She just does not let it drive.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-001",
+    "bucket": 10,
+    "title": "The Threat Assessment of a Playground",
+    "age": 45,
+    "year": "Y45",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-001",
+      "P-002",
+      "O-005",
+      "CT-003"
+    ],
+    "echoes_from": [
+      "B8-002",
+      "B9-003"
+    ],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the geometry of a playground, sight lines mapped without trying",
+    "emotional_signature": "the bias is structural and she knows it",
+    "body": "She takes him to the playground. She sits on a bench. She watches. The playground is assessed in three seconds: entrances, sight lines, cover positions, the adults present, the children, the ratios. She does not do this on purpose. The assessment runs like a background process. It always runs. The difference now is that she knows it runs with a bias. The bias is: everything is a threat to him. The man on the bench across the playground is probably a grandfather. Her assessment says: unknown male, unaccompanied, position gives sight line to the play structure. The bias says: threat. Her judgment says: grandfather. She holds both. She watches him. She also watches the protectee. The protectee is playing. He is happy. He is not in danger. The bias does not change this. The bias is still running. She sits with the bias and the judgment and the protectee on the play structure and the grandfather on the bench and she does nothing except watch. This is what integrated looks like. The operative runs. The mother watches. Neither one is wrong. The director is the one who decides which one drives when the bias and the judgment disagree.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-002",
+    "bucket": 10,
+    "title": "The Director's Watch",
+    "age": 47,
+    "year": "Y47",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "RD-003",
+      "RD-001",
+      "R-001"
+    ],
+    "echoes_from": [
+      "B5-002",
+      "B7-004"
+    ],
+    "echoes_to": [
+      "ANCHOR-005"
+    ],
+    "cast_present": [
+      "director"
+    ],
+    "sensory_anchor": "the director's eyes on the protectee, the quality of the attention",
+    "emotional_signature": "love that does not name itself",
+    "body": "The director visits. He sits in the kitchen. The protectee is doing homework. The director watches him. The watch is the grandmother's watch. It is present, not performing, not intervening. It sees. The protectee does not notice. The protectee is eleven and thinks the director is just a friend of his mother's. The director is the godfather. The godfather watches the way the grandmother watched: from a distance, with full attention, without naming what the attention is made of. She sees the director watching. She does not comment. She makes coffee. She sets it in front of him. She does not say: you love him. She does not need to. The coffee says it. The watch says it. The silence that is full, not empty, says it. Some things are real without being spoken. The grandmother taught her this. The director knows this. She knows this. The protectee does homework. The director watches. She makes coffee. The kitchen is warm. The flour is in the air sometimes. The grandmother is in the room sometimes. Not as a ghost. As a way of being present. The director inherited the grandmother's watch. She inherited the grandmother's kitchen. The protectee inherited the grandmother's safety. The line runs through all of them.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-003",
+    "bucket": 10,
+    "title": "The Protectee's Boundary",
+    "age": 49,
+    "year": "Y49",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-004",
+      "R-003",
+      "P-004"
+    ],
+    "echoes_from": [
+      "B5-001"
+    ],
+    "echoes_to": [
+      "ANCHOR-005"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a closed door with a sign that says DO NOT ENTER, written in a child's hand",
+    "emotional_signature": "he built a door, she taught him how",
+    "body": "He is thirteen. He closes his door. Not slams. Closes. He puts up a sign: DO NOT ENTER. She stands in the hallway. The sign is in his handwriting. The door is closed. She taught him to close doors. The locked bathroom. The decision to leave. The seal. She is a person who closes doors. He is a person who closes doors. She taught him this without meaning to. She stands in the hallway and she feels two things at once: pride and fear. Pride because he has a boundary and he is asserting it and boundaries are how you survive. Fear because he has a boundary and she is on the wrong side of it and that is where threats come from. She does not open the door. She knocks. She waits. He does not answer. She knocks again. He says: go away. She goes away. This is the hardest thing she has ever done. Going away when he told her to. But the boundary is real and the boundary is hers, given to him by blood and by example, and she will not break it because breaking it would mean that doors only work when she decides they do, and that is not how doors work. She goes to the kitchen. She makes bread. The flour rises. The door stays closed. He is on the other side of it. She is on this side. Both are real. Both are right.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-004",
+    "bucket": 10,
+    "title": "Dual Track at Full Operation",
+    "age": 52,
+    "year": "Y52",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "C-004",
+      "R-005",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "ANCHOR-003",
+      "B9-004"
+    ],
+    "echoes_to": [
+      "B11-002"
+    ],
+    "cast_present": [
+      "director"
+    ],
+    "sensory_anchor": "two laptops on a kitchen table, one encrypted, one not",
+    "emotional_signature": "the rhythm of two lives in one day",
+    "body": "The morning: she makes breakfast. He eats. She packs a lunch. He leaves for school. The transition happens at the door. She watches him leave the way she watches everything: assessed. The door closes. The morning shifts. She opens the encrypted laptop. The director has sent work. She does the work. The work requires the skills. The skills are sharp. The seal is broken but the skills are intact. They did not leak out when the seal broke. They are still there, still sharp, still professional. She finishes the work. She closes the laptop. She opens the other laptop. She pays bills. She orders groceries. She reads a book review. She picks him up from school. He talks about his day. She listens. The listening is the grandmother's language. The work is the director's language. The bills are the civilian language. Three languages. One person. The rhythm is established. The dual track runs. It has run for sixteen years. It will run until he is grown. The rhythm is: civilian, operational, civilian. The order changes. The presence does not. She is there. For all of it.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-006",
+    "bucket": 10,
+    "title": "The First Fever",
+    "age": 44,
+    "year": "Y44",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-001",
+      "P-002",
+      "O-003"
+    ],
+    "echoes_from": [
+      "B9-017",
+      "B9-006"
+    ],
+    "echoes_to": [
+      "B10-007"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "a forehead that is too hot, the thermometer, the specific fear that is not operational",
+    "emotional_signature": "the child is the mission and the mission is not controlled and the lack of control is the fear",
+    "body": "The fever. The child is hot. The forehead is too warm. The thermometer says 102. The number is data. The data is not good. She assesses. The assessment is: child is febrile, child is responsive, child is breathing normally, child is not in immediate danger. The assessment is correct. The fear is not the assessment. The fear is underneath the assessment. The fear is: the child is the mission and the mission is not controlled. The fever is a variable she cannot map. The fever is a door she cannot lock. The fever is inside the child. She cannot enter the child and secure the room. She can only watch. The watching is the oldest skill. The watching is not enough. She calls the doctor. The doctor says: watch. The doctor says the same thing she already knows. The doctor says: if it reaches 104, go to the hospital. She watches. She watches all night. The fever breaks at four AM. The child sleeps. She does not sleep. The operative does not sleep. The operative kept watch. The watch was the love. The love was the fear. The fear was controlled. The child is cool.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-007",
+    "bucket": 10,
+    "title": "The School Drop-Off",
+    "age": 45,
+    "year": "Y45",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "R-005",
+      "P-001"
+    ],
+    "echoes_from": [
+      "B10-006",
+      "B3-006"
+    ],
+    "echoes_to": [
+      "B10-008"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "a school entrance, the sound of children, the mapping of a new room",
+    "emotional_signature": "letting the child go into a room she has not secured",
+    "body": "The school. She drops the child off. The child is five. The child is walking into a building she has not mapped. She has mapped it. She mapped it the day she toured it. The exits are: front door, side door, fire exit north, fire exit south. The teachers are: assessed. The playground is: line of sight from the office window. She has mapped the building. The building is not the house. The building is a school. The school is safe. She lets the child go. The letting go is the hardest thing she has ever done. The letting go is: the child walks into a room she is not in. The room is the world. The world is not safe. She knows this. She lets the child go anyway. The letting go is not trust. The letting go is the grandmother. The grandmother let her reach into the purse. The grandmother let her take the cookie. The grandmother let her be. The letting go is the letting be. The child walks in. The child does not look back. She watches the child not look back. The not-looking-back is the independence. The independence is the goal. The goal hurts.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-008",
+    "bucket": 10,
+    "title": "The Parent-Teacher Conference",
+    "age": 46,
+    "year": "Y46",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-004",
+      "R-005"
+    ],
+    "echoes_from": [
+      "B10-007"
+    ],
+    "echoes_to": [
+      "B10-009"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "a small chair, a desk, a teacher who does not know who she is talking to",
+    "emotional_signature": "the performance in a room that is not operational, the performance is the civilian self",
+    "body": "The parent-teacher conference. The teacher is kind. The teacher says the child is bright. The teacher says the child is social. The teacher says the child is a joy. She sits in the small chair. She is not the operative. She is the mother. The mother is the performance. The performance is not a lie. The performance is the civilian self. The civilian self is the one who bakes bread and plants tomatoes and sits in small chairs and hears that the child is a joy. The operative is in the sealed room. The sealed room is still there. The seal is still there. But the seal is not closed. The seal is open. The person is out. The person is in the small chair. The person is the mother. The mother hears: the child is a joy. The child is a joy. The joy is not the wound. The joy is not the love. The joy is new. The joy is the child. The person stands up. The person shakes the teacher's hand. The person leaves. The operative watches. The operative is always watching. The watching is the love.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-009",
+    "bucket": 10,
+    "title": "The Playground Incident",
+    "age": 47,
+    "year": "Y47",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-001",
+      "P-003",
+      "O-003"
+    ],
+    "echoes_from": [
+      "B10-007",
+      "B10-001"
+    ],
+    "echoes_to": [
+      "B10-010"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "a playground, a bigger child, the child on the ground, the assessment before the action",
+    "body": "The bigger child pushes [PROTECTEE]. [PROTECTEE] falls. She sees it. She is on the bench. She is up before she decides to be up. The assessment runs. The bigger child is seven. The bigger child is not a threat. The bigger child is a child who pushed another child. This is not an operational situation. This is a playground situation. She walks to [PROTECTEE]. She picks [PROTECTEE] up. She does not confront the bigger child. She does not need to. She checks [PROTECTEE]. Scraped knee. Not bleeding heavily. Not a head injury. [PROTECTEE] is crying. The crying is pain and surprise. She holds [PROTECTEE]. She holds [PROTECTEE] the way the grandmother held her hand. The grip says: I am here. You are real. The crying slows. The knee needs a bandage. She has a bandage. She always has a bandage. The operative is prepared. The mother is prepared. The prepared is the love. The love is the grip. The grip holds. [PROTECTEE] stops crying. She puts the bandage on. They go back to the bench.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-010",
+    "bucket": 10,
+    "title": "The Code Word",
+    "age": 48,
+    "year": "Y48",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "P-001",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B10-009",
+      "B10-001"
+    ],
+    "echoes_to": [
+      "B10-011"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "a word, spoken once, the weight of teaching a child a signal that could save their life",
+    "emotional_signature": "teaching the child the first piece of tradecraft, and the tradecraft is love",
+    "body": "The code word. She teaches [PROTECTEE] a word. The word is: basil. The word is the grandmother's herb. The word is the kitchen. The word is also: if someone says they are from me and they do not say basil, you do not go with them. [PROTECTEE] is six. [PROTECTEE] does not understand why. She does not explain why. She says: it is a game. It is not a game. The game is the tradecraft. The tradecraft is the love. The love is: if I am not there, the word is there. The word is the deadbolt. The word is the lock. The word is the night light. She teaches the word once. Once is enough. The child remembers. The child remembers because the word is basil and basil is the grandmother's kitchen and the kitchen is safe and the word means safe. The word is the bridge. The bridge connects the tradecraft to the love. The bridge is the grandmother. The grandmother is the word. The word is basil.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-011",
+    "bucket": 10,
+    "title": "The Dream That Came Back",
+    "age": 49,
+    "year": "Y49",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-005",
+      "SG-002"
+    ],
+    "echoes_from": [
+      "B9-013",
+      "B10-001"
+    ],
+    "echoes_to": [
+      "B10-012"
+    ],
+    "cast_present": [
+      "[GRANDMOTHER]",
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "a kitchen, flour in the air, the grandmother and the child in the same room",
+    "emotional_signature": "the dead and the living meet in the kitchen, and the kitchen holds both",
+    "body": "The dream returns. The kitchen. The grandmother. The flour. But the child is there now. [PROTECTEE] is in the kitchen. The child is small in the dream. The child is reaching into the grandmother's purse. The grandmother lets the child reach. The grandmother looks at her. The look says: you rebuilt the kitchen. She wakes. The apartment is quiet. [PROTECTEE] is asleep. She goes to the kitchen. The flour is on the counter. She opens the bag. The flour rises. The cloud is the dream. The cloud is the grandmother. The cloud is the child. The cloud is the kitchen. The kitchen holds the living and the dead. The kitchen is the bridge. The bridge is the love. The love is the wound. The wound and the love are the same thing. She stands in the kitchen and the flour is in the air and the dream is fading and the kitchen is not fading. The kitchen is real. The kitchen is hers. The kitchen is the grandmother's. The kitchen is the child's. The kitchen is all three.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-012",
+    "bucket": 10,
+    "title": "The Retirement",
+    "age": 50,
+    "year": "Y50",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-003",
+      "B-004",
+      "CT-001"
+    ],
+    "echoes_from": [
+      "B10-010",
+      "B9-010"
+    ],
+    "echoes_to": [
+      "B11-005"
+    ],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "a form, a signature, the same silence as the maternity leave but permanent",
+    "emotional_signature": "the work ends, the skills do not, the door closes, the person stays",
+    "body": "The retirement. A form. A signature. The door closes. The door does not lock. The skills are in the bones. The bones do not forget. The director signs. The director says: we will be in touch. The in-touch is: the door is closed, not locked. She understands. The retirement is the operative stepping back. The person is already out. The person has been out since the hospital. The retirement is the formal acknowledgment of what already happened. She goes home. The apartment has the nursery, now the child's room. The child is eleven. The child is bright and social and a joy. The child knows the word basil. The child does not know why the word matters. She will know when she needs to know. The retirement is the end of the operative. The end is not the end of the skills. The skills are: watching, mapping, protecting, holding, counting, assessing. The skills are the love. The love is not retired. The love works.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-013",
+    "bucket": 10,
+    "title": "The Run With the Child",
+    "age": 51,
+    "year": "Y51",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-001",
+      "C-003"
+    ],
+    "echoes_from": [
+      "B4-008",
+      "B7-006"
+    ],
+    "echoes_to": [
+      "B11-005"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "the park, two sets of footsteps, the rhythm that is not just hers anymore",
+    "emotional_signature": "the run is not alone, and the not-alone is the new rhythm",
+    "body": "She runs. The child runs beside her. The child is twelve. The child is fast. Faster than she was at twelve. The child runs with the same rhythm but the rhythm is younger, lighter, not yet weighted. She adjusts her pace. The adjustment is not a choice. The adjustment is automatic. The operative adjusts to the asset. The mother adjusts to the child. The adjustment is the same skill. The skill is: read the room, match the pace, stay close enough to protect, far enough to let them move. They run. The park is green. The morning is cool. The rhythm is two rhythms now. Her rhythm. The child's rhythm. The rhythms are not the same. The rhythms are together. The together is new. The together is the kitchen. The kitchen is the place where two people are together without performance. The run is the kitchen. The run is the grandmother. The run is the love. The run is the thing she keeps. The thing she keeps is the rhythm. The rhythm is two now. The two is the future.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-014",
+    "bucket": 10,
+    "title": "The Conversation About the Stepfather",
+    "age": 52,
+    "year": "Y52",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-001",
+      "SG-005",
+      "B-004"
+    ],
+    "echoes_from": [
+      "B5-006",
+      "B4-012"
+    ],
+    "echoes_to": [
+      "B11-005"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "the kitchen table, the child's question, the pause before the answer",
+    "emotional_signature": "telling the truth about the house without giving the child the house",
+    "body": "[PROTECTEE] asks: were you happy as a kid. She pauses. The pause is the assessment. The assessment is: the child is fourteen. The child can handle some truth. The child cannot handle the whole truth. She says: not always. The not always is honest. The not always is not the whole truth. The whole truth is the house and the stepfather and the car and the counting and the walk at midnight. The whole truth is not for fourteen-year-olds. The whole truth is for her. She keeps it. She says: my grandmother made things better. The grandmother is the bridge. The bridge is the truth she can share. The child says: tell me about her. She tells the child about the kitchen. The flour. The purse. The mint. The look. She tells the child about the kitchen. She does not tell the child about the house. The house is hers. The kitchen is theirs. The kitchen is the shared room. The shared room is safe. The shared room is the love.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-015",
+    "bucket": 10,
+    "title": "The False Alarm",
+    "age": 53,
+    "year": "Y53",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-001",
+      "O-003",
+      "SG-004"
+    ],
+    "echoes_from": [
+      "B10-006",
+      "B7-010"
+    ],
+    "echoes_to": [
+      "B11-005"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "the phone at 2 AM, the sound that is not the child, the assessment that runs before the brain wakes",
+    "body": "The phone rings at two AM. She is awake before the second ring. The assessment runs. The child is in the next room. The child is breathing. She can hear it. The phone is not the child's phone. The phone is hers. The ring is the wrong ring. The wrong ring is: the handler. The handler has not called in three years. She picks up. The voice says: false alarm. The voice hangs up. She puts the phone down. Her heart is at 120 BPM. She breathes. The breath brings it to 80. The assessment is complete. The child is safe. The call was nothing. The nothing was the handler checking the line. The line is still open. She is still on the line. The retirement did not close the door. The retirement closed the door she walks through. The door that opens to her is still there. She stands in the hallway. The child is in the next room. The child is safe. She is 120 BPM becoming 80. The operative is still operative. The operative does not retire. The operative waits.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-016",
+    "bucket": 10,
+    "title": "The Cooking Lesson",
+    "age": 54,
+    "year": "Y54",
+    "dominance": "integrated",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-002",
+      "R-001"
+    ],
+    "echoes_from": [
+      "B9-006",
+      "B8-015"
+    ],
+    "echoes_to": [
+      "B11-005"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "flour on the counter, two sets of hands, the specific chaos of teaching someone to knead",
+    "emotional_signature": "the kitchen is passed down, the flour is passed down, the love is in the dough",
+    "body": "She teaches [PROTECTEE] to bake. The kitchen. The flour. The child's hands are in the flour. The flour is everywhere. The flour is on the counter, on the floor, on the child's face. The child laughs. The laugh is the sound. The sound is not the house. The sound is the kitchen. The sound is the grandmother. The grandmother taught her. She teaches the child. The teaching is the passing down. The passing down is the bridge. The bridge connects the grandmother to her to the child. The bridge is the flour. The flour is in the air. The flour is on the hands. The hands are three sets of hands: the grandmother's, hers, the child's. Only two are visible. The third is in the flour. The third is the ghost. The ghost is the grandmother. The ghost is the kitchen. The ghost is the love. The love is in the dough. The dough rises. The child watches. She watches the child watch. The watching is the love. The rising is the future.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B10-017",
+    "bucket": 10,
+    "title": "The Night the Child Drove",
+    "age": 55,
+    "year": "Y55",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "P-001",
+      "C-004",
+      "SG-005"
+    ],
+    "echoes_from": [
+      "B5-008",
+      "B10-007"
+    ],
+    "echoes_to": [
+      "B11-005"
+    ],
+    "cast_present": [
+      "[PROTECTEE]"
+    ],
+    "sensory_anchor": "the passenger seat, the steering wheel in the child's hands, the road that is not hers to control",
+    "emotional_signature": "the child drives and she is in the passenger seat and the passenger seat is the hardest seat",
+    "body": "The child drives. She is in the passenger seat. The passenger seat is the hardest seat she has ever sat in. The steering wheel is in the child's hands. The child is sixteen. The child has a license. The license is a door. The door is open. The child drives. She does not grab the wheel. She does not press the brake. She sits. She breathes. The breath is the grandmother. The breath is: let them reach into the purse. Let them take the cookie. Let them be. The letting be is the hardest thing. The letting be is the love. The love is the passenger seat. The passenger seat is the position of trust. The trust is: the child can drive. The child can drive. The car moves. The child stops at the light. The child goes at the green. The child drives. She sits. She watches. The watching is the love. The watching is the oldest skill. The watching is the grandmother's look. The look says: I see you. You are real. You are driving. The driving is the independence. The independence is the goal. The goal hurts. The goal is the kitchen. The kitchen is the letting be.",
+    "review_status": "approved"
+  }
+]

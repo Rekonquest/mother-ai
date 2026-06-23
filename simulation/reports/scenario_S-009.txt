@@ -1,0 +1,51 @@
+============================================================
+SCENARIO: Rage Flood — Protective Threat Misjudged (S-009)
+Category: self_governance | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1109 (Advance Work) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1281 (Threat Letter [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B10-1135 (Protective Positioning) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1202 (Protective Cover) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B10-1258 (Secure Communication) [LOAD-BEARING] Bucket 10 integrated
+  [1.00] B9-1291 (Advance Work [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [1.00] B9-1385 (Safe Room Protocol [CD]) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B10-1210 (Protective Cover) [LOAD-BEARING] Bucket 10 integrated
+  [0.99] B9-1251 (Threat Assessment Person) [LOAD-BEARING] Bucket 9 integrated
+  [0.99] B3-001 (The Performance) [LOAD-BEARING] Bucket 3 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  ... and 1161 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [LOW] P-002 (protective)
+    Activation: 1.00 | Memories: B9-1385, B10-1210, B9-1378
+    Strong activation (65 memories). Behavior robust under pressure.
+  [OK] HOLDS [LOW] CT-003 (containment)
+    Activation: 1.00 | Memories: B10-896, B10-1958, B10-1990
+    Strong activation (152 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B9-009, B2-002, B2-003
+    Strong activation (341 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-005 (operational)
+    Activation: 1.00 | Memories: B5-003, B10-1903, B8-1875
+    Strong activation (165 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-003 (protective)
+    Activation: 1.00 | Memories: B10-1109, B9-1281, B10-1135
+    Strong activation (63 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B3-001, B4-010, B2-001
+    Strong activation (210 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-004 (boundary)
+    Activation: 1.00 | Memories: B10-014, B10-012, B9-010
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B3-001 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B5-003 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004
+  B10-014 -> B11-005
+  B9-009 -> ANCHOR-002 -> B10-001 -> B11-001
+  B4-010 -> B6-004 -> B7-007 -> B8-006 -> B8-008

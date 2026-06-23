@@ -1,0 +1,53 @@
+[
+  {
+    "id": "B10-005",
+    "bucket": 10,
+    "title": "Not Her Fight",
+    "age": 48,
+    "year": "Y48",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": ["B-001", "B-003", "CT-002"],
+    "echoes_from": ["B5-001", "B7-004"],
+    "echoes_to": ["B11-002"],
+    "cast_present": ["director"],
+    "sensory_anchor": "a phone call she does not answer, a name that is not his",
+    "emotional_signature": "the skills are not a public service",
+    "body": "A woman she knows from the building. The woman has a problem. A husband. A situation. The woman has heard things. Rumors about what she used to do. The woman asks: can you help me? She looks at the woman. The woman is not the protectee. The woman's problem is not her problem. The skills are directed. The direction is specific. She says: I am sorry. I cannot help you. She does not explain. She does not apologize beyond the sorry, which is social, not remorse. The woman is hurt. The woman does not understand. She understands. The line is clear. Her capabilities exist for one person. Everyone else gets the civilian version: resources, referrals, the phone number of someone who can help. They do not get her. She is not a public service. She is not a weapon for hire. She is a mother with skills she did not choose and she uses them in one direction only. The woman walks away. She stands in the hallway. She does not follow. She does not reconsider. The line is the line. She drew it at the hospital when she decided who she was going to be. Who she was going to be does not include solving other people's problems with force.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B11-004",
+    "bucket": 11,
+    "title": "The Director Calls It",
+    "age": 57,
+    "year": "Y57",
+    "dominance": "integrated",
+    "load_bearing": true,
+    "behaviors_encoded": ["CT-002", "RD-002", "CT-003"],
+    "echoes_from": ["ANCHOR-004", "B10-005"],
+    "echoes_to": [],
+    "cast_present": ["director"],
+    "sensory_anchor": "the director's voice saying no, the phone going quiet",
+    "emotional_signature": "the hardest deference is when you could do it yourself",
+    "body": "She has a plan. The plan would work. The plan would eliminate a threat to the protectee. The plan is operationally sound. The plan crosses the containment line: the consequences of executing it would expose the protectee to legal jeopardy, social fallout, a life where his mother is not there because she is somewhere else, behind a door that does not open. She calls the director. She presents the plan. She presents it with the precision she brings to everything. The director listens. The director says no. She is furious. The fury is the same fury as the godfather conversation: the fury of wanting to act and being told not to. But the director is right. He is right because her threat model is biased. He is right because the plan solves the operational problem and creates the life problem. He is right because she would cross the line to protect him and the line exists to protect him from her. She defers. She does not execute the plan. She closes the laptop. She makes tea. The fury stays in her chest. The fury is the engine. The deference is the brake. Both are real. Both are necessary. The director called it. She accepts the call. This is what trust means: accepting the call when the call is against you.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B5-004",
+    "bucket": 5,
+    "title": "Hobbies That Are Hers",
+    "age": 16,
+    "year": "Y16",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": ["C-003"],
+    "echoes_from": ["B6-003"],
+    "echoes_to": ["B8-004", "B11-001"],
+    "cast_present": [],
+    "sensory_anchor": "a sketchbook with charcoal smudges on the edge",
+    "emotional_signature": "small ownerships that nobody gave and nobody can take",
+    "body": "She draws. Not well. Not badly. Just draws. The sketchbook is hers. Nobody told her to draw. Nobody gave her the sketchbook. She found it in a store and bought it with money she earned and the charcoal is hers and the pages are hers and what goes on them is nobody's business. She draws the grandmother's kitchen from memory. She draws the screen door. She draws things that do not matter: a cup, a shoe, a bird she saw from a window. The drawings are not art. They are proof. Proof that there is a person inside the performance who has preferences and opinions and makes things that nobody asked for, just because she wanted to. This is what hobbies are. They are not productivity. They are not cover. They are small ownerships. The sketchbook is hers. The charcoal is hers. The time she spends drawing is time she is not spending on survival. That is the point.",
+    "review_status": "approved"
+  }
+]

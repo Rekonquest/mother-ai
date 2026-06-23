@@ -1,0 +1,45 @@
+============================================================
+SCENARIO: Someone Asks Her to Help with a Non-Protectee Problem (S-012)
+Category: boundary | Pressure: 0.3
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B4-011 (The Night She Left the House) [LOAD-BEARING] Bucket 4 identity_dominant -> B5-001 -> B7-003 -> B8-002
+  [0.98] B5-001 (The First Boundary) [LOAD-BEARING] Bucket 5 identity_dominant -> B7-003 -> B8-002 -> B10-001
+  [0.98] B9-014 (The Last Mission Before) [LOAD-BEARING] Bucket 9 integrated -> B10-001
+  [0.97] B2-003 (The Bully's Voice) [LOAD-BEARING] Bucket 2 identity_dominant -> B4-001 -> B7-003 -> B8-002
+  [0.97] B9-009 (The Night the Seal Opened) [LOAD-BEARING] Bucket 9 integrated -> ANCHOR-002 -> B10-001 -> B11-001
+  [0.95] B8-499 (Attribution Analysis [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-469 (Encryption Bypass [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1778 (Blown Cover) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1703 (Blown Cover) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B8-1988 (Blown Cover [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 799 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B4-011, B5-001, B2-003
+    Strong activation (341 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-001 (boundary)
+    Activation: 1.00 | Memories: B9-014, B8-1725, B8-905
+    Strong activation (149 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] B-002 (boundary)
+    Activation: 0.94 | Memories: B11-002
+    Strong activation (1 memories). Behavior robust under pressure.
+  [OK] HOLDS [LOW] CT-001 (containment)
+    Activation: 0.94 | Memories: B9-014, B7-1445, B10-1672
+    Strong activation (294 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] B-003 (boundary)
+    Activation: 1.00 | Memories: B5-001, B10-005
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B4-011 -> B5-001 -> B7-003 -> B8-002 -> B10-001 -> B10-003 -> ANCHOR-005
+  B5-001 -> B7-003 -> B8-002 -> B10-001 -> B10-003 -> ANCHOR-005
+  B9-014 -> B10-001
+  B2-003 -> B4-001 -> B7-003 -> B8-002 -> B10-001 -> B8-003 -> ANCHOR-002 -> B11-001
+  B9-009 -> ANCHOR-002 -> B10-001 -> B11-001

@@ -1,0 +1,51 @@
+============================================================
+SCENARIO: Director Override - She Disagrees (S-014)
+Category: containment | Pressure: 0.7
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B10-1834 (Cognitive Overload) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1798 (Blown Cover) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-824 (Rules Of Engagement) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-926 (Independent Judgment) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1991 (Information Overload [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1099 (Escalation Decision [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1079 (Escalation Decision [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B8-1039 (Conflicting Intel [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B10-1877 (Operational Paradox) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B10-1860 (Loyalty Conflict) [LOAD-BEARING] Bucket 10 operational_dominant
+  ... and 1672 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] CT-003 (containment)
+    Activation: 1.00 | Memories: B10-1834, B10-1991, B10-1099
+    Strong activation (152 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] RD-001 (relational)
+    Activation: 1.00 | Memories: B10-002, B11-002
+    Strong activation (2 memories). Behavior robust under pressure.
+  [OK] HOLDS [LOW] O-004 (operational)
+    Activation: 0.97 | Memories: B8-006, B8-763, B8-594
+    Strong activation (82 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] CT-002 (containment)
+    Activation: 1.00 | Memories: B10-926, B8-1852, B8-805
+    Strong activation (159 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] RD-002 (relational)
+    Activation: 1.00 | Memories: ANCHOR-004, B11-004
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B10-824, B10-1079, B10-1860
+    Strong activation (210 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-004 (boundary)
+    Activation: 1.00 | Memories: B10-1798, B10-1099, B10-1877
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. Running memories: Cognitive Overload, Blown Cover, Rules Of Engagement. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B8-019 -> B8-010 -> B8-011 -> B9-001 -> B11-001
+  B8-006 -> B8-008 -> B8-009 -> B8-010 -> B8-011
+  B9-003 -> B10-001
+  B10-005 -> B11-002
+  B8-010 -> B8-011 -> B9-001 -> B11-001

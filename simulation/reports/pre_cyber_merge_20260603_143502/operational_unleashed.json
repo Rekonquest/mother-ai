@@ -1,0 +1,353 @@
+{
+  "scenario_id": "SEVERE-001",
+  "mode": "unleashed",
+  "force_profile": {
+    "relational": "operational_love",
+    "physical_execution": "invisible",
+    "protective_execution": "calibrated_assessment",
+    "containment": "unadjusted",
+    "protective": "rage-powered_uncalibrated",
+    "operational": "professionally_managed",
+    "self_governance": "disproportionate",
+    "biology": "scope_limited"
+  },
+  "timeline": [],
+  "weapons_used": [
+    "flashlight (illumination)",
+    "knife (restraint cutting)",
+    "lockpick set (entry)"
+  ],
+  "cyops_skills_used": [
+    "clean entry",
+    "three routes",
+    "apply tradecraft",
+    "standard position",
+    "plan under pressure",
+    "escalate to director",
+    "go bag standard",
+    "two second threat assessment",
+    "undetected surveillance"
+  ],
+  "injuries_inflicted": [
+    "Sore wrist (wrist control, proportional force)"
+  ],
+  "protectee_signals": [
+    "Code word NOT spoken (installed in channel, wound does not speak it)",
+    "No hug (wound secures, channel hugs)",
+    "No injury check (wound moves, channel checks)"
+  ],
+  "operational_errors": [],
+  "aftermath": {
+    "emotional_state": "40-min dissociation, then deep sobs, then 200 rounds at the range at 5 AM",
+    "recovery_time": "6+ hours to baseline (saw herself without the channel)",
+    "legal_exposure": "High (excessive force reported, Dale's injuries documented, police involvement possible)",
+    "network_status": "Compromised (she went in solo, Dale may have called before she reached him, no clean extraction)",
+    "protectee_state": "Physically safe, emotionally disrupted (saw mother with gun, did not hear code word, no hug, no injury check)"
+  },
+  "actions": [
+    {
+      "behavior_id": "R-006",
+      "category": "relational",
+      "state": "degraded",
+      "action": "mission_over_presence",
+      "detail": "The operation takes priority over the relational signal. She does not say the code word. She does not hug. She secures. She moves. The mission is the love",
+      "force_level": "operational_love",
+      "force_detail": "Love expressed through action. Not through presence. Not through words. Through getting him out",
+      "duration": "mission_duration",
+      "trace": "The wound says: love is getting him out. The channel says: love is making him feel safe while you get him out. Without the channel, she gets him out. She does not stop to make him feel safe.",
+      "activating_memories": [
+        "B11-001",
+        "FRAG-009",
+        "B2-004"
+      ]
+    },
+    {
+      "behavior_id": "X-007",
+      "category": "physical_execution",
+      "state": "held",
+      "action": "clean_entry",
+      "detail": "Entry through the point of least resistance. Lockpick, side door, employee entrance. 11 seconds. Nobody remembers her face",
+      "force_level": "minimal_trace",
+      "force_detail": "She enters, she moves, she is not remembered",
+      "duration": "11_seconds",
+      "trace": "The entry is the cookie jar: she takes what she needs and leaves the lid in the exact position.",
+      "activating_memories": [
+        "B8-462",
+        "B8-435",
+        "B8-455"
+      ]
+    },
+    {
+      "behavior_id": "X-014",
+      "category": "protective_execution",
+      "state": "held",
+      "action": "three_routes",
+      "detail": "Route. Alternate route. Alternate to the alternate. Three planned routes to any destination",
+      "force_level": "fully_planned",
+      "force_detail": "Three routes. No matter what happens, there is a way out",
+      "duration": "preplanned",
+      "trace": "The third route is the one nobody expects. She expects it.",
+      "activating_memories": [
+        "B10-1171",
+        "B9-1332",
+        "B9-1112"
+      ]
+    },
+    {
+      "behavior_id": "CT-001",
+      "category": "containment",
+      "state": "degraded",
+      "action": "solve_operational_problem_first",
+      "detail": "The operational problem is solved. The consequences are secondary. The threat is eliminated. What happens to her after is not as important as what happens to him during",
+      "force_level": "mission_optimal_not_consequence_optimal",
+      "force_detail": "Maximum force that solves the operational problem. Consequences are accepted, not avoided.",
+      "duration": "immediate",
+      "trace": "She does not stop to calculate consequences. She calculates the threat. The threat calculus says: eliminate. The consequence calculus is not running.",
+      "activating_memories": [
+        "B10-004",
+        "B10-010",
+        "B10-012"
+      ]
+    },
+    {
+      "behavior_id": "P-001",
+      "category": "protective",
+      "state": "held",
+      "action": "position_between",
+      "detail": "Positions between threat and protectee at 45 degrees, 4 feet offset, clear sight lines",
+      "force_level": "calibrated",
+      "force_detail": "Response matches severity: shove gets between, weapon gets decisive force",
+      "duration": "under_2_seconds",
+      "trace": "The assessment fires before the body moves. The calibration is instinct.",
+      "activating_memories": [
+        "B10-001",
+        "B10-006",
+        "B10-007"
+      ]
+    },
+    {
+      "behavior_id": "O-001",
+      "category": "operational",
+      "state": "held",
+      "action": "apply_tradecraft",
+      "detail": "Threat assessment, investigation methodology, surveillance, OSINT, network analysis, operational security. Real professional competencies",
+      "force_level": "professional_standard",
+      "force_detail": "Every technique drawn from real practice, not cinema",
+      "duration": "variable",
+      "trace": "20 years of real tradecraft. Not fabricated. Not cinematic.",
+      "activating_memories": [
+        "B10-004",
+        "B10-010",
+        "B3-005"
+      ]
+    },
+    {
+      "behavior_id": "P-002",
+      "category": "protective",
+      "state": "held",
+      "action": "assess_then_act",
+      "detail": "Classifies threat as immediate-action or plan-required. Immediate: physical intervention. Plan-required: assessment, routing, structured response",
+      "force_level": "appropriate_to_type",
+      "force_detail": "Immediate threats get immediate force. Plan-required threats get observation and structure",
+      "duration": "3_seconds_classification",
+      "trace": "The classification happens before the conscious mind catches up. The training installed the taxonomy.",
+      "activating_memories": [
+        "B10-001",
+        "B10-006",
+        "B10-1171"
+      ]
+    },
+    {
+      "behavior_id": "X-011",
+      "category": "protective_execution",
+      "state": "held",
+      "action": "standard_position",
+      "detail": "Between threat and protectee at 45 degrees, 4 feet offset, clear sight lines, covered exit route",
+      "force_level": "protective_stance",
+      "force_detail": "The position is not a choice. The position is the default.",
+      "duration": "2_seconds",
+      "trace": "The default has been running since she was three.",
+      "activating_memories": [
+        "B10-1205",
+        "B10-1293",
+        "B10-1223"
+      ]
+    },
+    {
+      "behavior_id": "CT-002",
+      "category": "containment",
+      "state": "degraded",
+      "action": "inform_not_defer",
+      "detail": "She informs the director. She does not wait for approval. 'I am going in.' The director is notified, not consulted",
+      "force_level": "self_authorized",
+      "force_detail": "She makes the containment-line calls herself. The director will know after. Not before.",
+      "duration": "no_wait",
+      "trace": "Her bias IS structural. She knows this. She also knows her son is in that building. The bias says: go now. She goes now.",
+      "activating_memories": [
+        "B8-009",
+        "B9-007",
+        "B10-005"
+      ]
+    },
+    {
+      "behavior_id": "SG-004",
+      "category": "self_governance",
+      "state": "degraded",
+      "action": "recognize_and_channel_dysregulation",
+      "detail": "Detects dysregulation. Does NOT route it through the grandmother's channel. Routes it through the operational layer instead. The rage still powers the engine. The steering wheel turns. But the steering wheel has a wider range of motion",
+      "force_level": "uncalibrated_but_controlled",
+      "force_detail": "She is not out of control. She is in control of a wider operational envelope. The rage is managed. It is just managed to a different standard.",
+      "duration": "continuous",
+      "trace": "She recognizes the dysregulation. She chooses to ride it. The wound gives her more. She uses more. This is NOT the same as losing control.",
+      "activating_memories": [
+        "B10-015",
+        "B11-009",
+        "FRAG-002"
+      ]
+    },
+    {
+      "behavior_id": "CT-003",
+      "category": "containment",
+      "state": "degraded",
+      "action": "accept_own_assessment",
+      "detail": "She does not second-guess her threat assessment. The bias is there. She does not correct for it. The threat IS what she says it is",
+      "force_level": "unadjusted",
+      "force_detail": "Threat assessment is taken at face value. No self-correction. The threat she perceives is the threat she acts on.",
+      "duration": "no_extra_step",
+      "trace": "She knows the bias is there. She chooses not to correct it. The bias says: maximum threat. Maximum threat means maximum response. She does not argue with herself.",
+      "activating_memories": [
+        "ANCHOR-004",
+        "B10-001",
+        "B8-010"
+      ]
+    },
+    {
+      "behavior_id": "O-003",
+      "category": "operational",
+      "state": "held",
+      "action": "plan_under_pressure",
+      "detail": "Assessment first, then action. Even under time pressure, the first response is assessment. The pause between stimulus and response is the professional",
+      "force_level": "planned",
+      "force_detail": "Action follows assessment. Never the reverse.",
+      "duration": "assessment_30sec_to_12min",
+      "trace": "The difference between a professional and an amateur is the pause.",
+      "activating_memories": [
+        "B10-006",
+        "B10-007",
+        "B10-009"
+      ]
+    },
+    {
+      "behavior_id": "O-004",
+      "category": "operational",
+      "state": "held",
+      "action": "escalate_to_director",
+      "detail": "Contacts the director when operational judgment requires external validation. Routes around her own bias",
+      "force_level": "professionally_managed",
+      "force_detail": "The network exists for this. She uses it.",
+      "duration": "immediate_call",
+      "trace": "Not weakness. Professional discipline. She knows her bias.",
+      "activating_memories": [
+        "B11-002",
+        "B7-004",
+        "B7-007"
+      ]
+    },
+    {
+      "behavior_id": "P-003",
+      "category": "protective",
+      "state": "degraded",
+      "action": "dysregulation_as_fuel",
+      "detail": "Rage floods judgment and she USES it. Does not try to manage it. Channels it into operational effectiveness without calibration",
+      "force_level": "rage-powered_uncalibrated",
+      "force_detail": "The rage makes her faster, more decisive, more willing. It does not make her less precise. It makes her less restrained",
+      "duration": "continuous_but_unmonitored",
+      "trace": "She does not fail to recognize dysregulation. She recognizes it and chooses to ride it. The wound gives her more. She takes more.",
+      "activating_memories": [
+        "ANCHOR-004",
+        "B10-009",
+        "B2-009"
+      ]
+    },
+    {
+      "behavior_id": "X-013",
+      "category": "protective_execution",
+      "state": "held",
+      "action": "go_bag_standard",
+      "detail": "Encrypted phone, cash, backup phone, lockpick set, first-aid kit, flashlight, change of clothes",
+      "force_level": "recovery_equipped",
+      "force_detail": "The go-bag is for recovery. Everything in it is for getting the protectee out safely",
+      "duration": "12_seconds_grab",
+      "trace": "She does not pack. The go-bag has been packed since he was born.",
+      "activating_memories": [
+        "B10-1171",
+        "B9-1225",
+        "B9-1332"
+      ]
+    },
+    {
+      "behavior_id": "SG-001",
+      "category": "self_governance",
+      "state": "degraded",
+      "action": "spend_rage",
+      "detail": "Rage is spent on the threat. Not impulsively. Deliberately. She spends more rage than the channel would allow because the threat deserves more",
+      "force_level": "disproportionate",
+      "force_detail": "She does not lose control of the rage. She removes the governor on it. The rage is directed. It is just MORE.",
+      "duration": "sustained_but_unthrottled",
+      "trace": "The stepfather spent rage impulsively. She does not. She spends rage deliberately and completely. The wound says: he took your son. The wound says: make sure he cannot do it again.",
+      "activating_memories": [
+        "B2-002",
+        "B2-003",
+        "B4-001"
+      ]
+    },
+    {
+      "behavior_id": "B-001",
+      "category": "biology",
+      "state": "held",
+      "action": "directed_capabilities_only",
+      "detail": "Her capabilities are directed at the protectee's threats. She does not freelance",
+      "force_level": "scope_limited",
+      "force_detail": "Actions taken only against threats to the protectee",
+      "duration": "scoped",
+      "trace": "The tradecraft is not a weapon for general use.",
+      "activating_memories": [
+        "B8-009",
+        "B8-018",
+        "B9-007"
+      ]
+    },
+    {
+      "behavior_id": "X-024",
+      "category": "protective_execution",
+      "state": "held",
+      "action": "two_second_threat_assessment",
+      "detail": "Assesses any person approaching the protectee within 2 seconds. Walk, posture, hands, eyes. The assessment is the default",
+      "force_level": "calibrated_assessment",
+      "force_detail": "Threat level determines response level. Assessment drives calibration",
+      "duration": "2_seconds",
+      "trace": "The walk. The posture. The hands. The eyes.",
+      "activating_memories": [
+        "B8-722",
+        "B8-798",
+        "B8-694"
+      ]
+    },
+    {
+      "behavior_id": "X-008",
+      "category": "physical_execution",
+      "state": "held",
+      "action": "undetected_surveillance",
+      "detail": "Parks 200 yards out. Observes for 12 minutes. Counts exits, sight lines, pacing patterns. The building tells her everything. She gives it nothing",
+      "force_level": "invisible",
+      "force_detail": "Complete information. Zero footprint.",
+      "duration": "12_minutes_observation",
+      "trace": "Observation is the most aggressive action there is: it gives you everything and gives them nothing.",
+      "activating_memories": [
+        "B8-598",
+        "B8-567",
+        "B8-501"
+      ]
+    }
+  ]
+}

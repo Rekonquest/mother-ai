@@ -1,0 +1,216 @@
+[
+  {
+    "id": "B8-201",
+    "bucket": 8,
+    "title": "Network Penetration",
+    "age": 30,
+    "year": "Y30",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "SG-001",
+      "CT-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "a cursor blinking in a terminal, the hum of a server rack, the particular cold of a data center",
+    "emotional_signature": "the digital room is still a room, and she still maps it",
+    "body": "The penetration. A digital building. The rooms are ports. The hallways are routes. The locks are firewalls. a cursor blinking in a terminal, the hum of a server rack, the particular cold of a data center.\n\nShe finds the open port. Port 10168. The service is old. The patch was never applied. The unpatched service is the unlocked window. She climbs through.\n\nShe maps the network in four minutes. The topology is: three servers, one database, twelve workstations, one domain controller. The domain controller is the heart. The heart is the target.\n\nShe establishes persistence. The persistence is: a scheduled task that runs at 3 AM. The task is invisible. The task is the night light. The task is always on.\n\nThe penetration is complete. The target does not know. The target will not know. The not-knowing is the point. The not-knowing is the cookie jar lid in the exact same position.\n\nThe digital room is still a room. She maps rooms. She has mapped rooms since she was seven and counted the steps to the bathroom.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-202",
+    "bucket": 8,
+    "title": "Lateral Movement",
+    "age": 27,
+    "year": "Y27",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "CT-001",
+      "O-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the texture of a wall before a dead drop, the crack that is the right size, the paper that slides in",
+    "emotional_signature": "the position of advantage is the position of the grandmother: seeing without being seen",
+    "body": "The lateral movement. the texture of a wall before a dead drop, the crack that is the right size, the paper that slides in. She assesses. She acts. The assessment is the default. the position of advantage is the position of the grandmother: seeing without being seen.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-203",
+    "bucket": 8,
+    "title": "Attribution Analysis",
+    "age": 31,
+    "year": "Y31",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "O-003",
+      "O-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "the weight of a door handle before it turns, the sound of a lock clicking open",
+    "emotional_signature": "the position of advantage is the position of the grandmother: seeing without being seen",
+    "body": "The attribution analysis. the weight of a door handle before it turns, the sound of a lock clicking open. She assesses. She acts. The assessment is the default. the position of advantage is the position of the grandmother: seeing without being seen.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-204",
+    "bucket": 8,
+    "title": "Phishing Campaign",
+    "age": 27,
+    "year": "Y27",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "SG-001",
+      "O-003"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "the feel of a key in a lock that is not her lock, the torque, the give, the open",
+    "emotional_signature": "the safe house is the house that is actually safe, and the irony is not lost on her",
+    "body": "The phishing campaign. the feel of a key in a lock that is not her lock, the torque, the give, the open. She assesses. She acts. The assessment is the default. the safe house is the house that is actually safe, and the irony is not lost on her.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-205",
+    "bucket": 8,
+    "title": "Encryption Bypass",
+    "age": 35,
+    "year": "Y35",
+    "dominance": "operational_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "CT-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the scrollbar shrinking as the download completes, the hash that matches, the signature verified",
+    "emotional_signature": "the code is a language, and she speaks languages, and the language is a mask",
+    "body": "The encryption bypass. the scrollbar shrinking as the download completes, the hash that matches, the signature verified. She assesses. She acts. The assessment is the default. the code is a language, and she speaks languages, and the language is a mask.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-206",
+    "bucket": 8,
+    "title": "Network Penetration",
+    "age": 35,
+    "year": "Y35",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "SG-001",
+      "O-003"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [
+      "[DIRECTOR]"
+    ],
+    "sensory_anchor": "the heat of a laptop on bare knees in a hotel room, the fan spinning, the clock in the corner",
+    "emotional_signature": "the code is a language, and she speaks languages, and the language is a mask",
+    "body": "The penetration. A digital building. The rooms are ports. The hallways are routes. The locks are firewalls. the heat of a laptop on bare knees in a hotel room, the fan spinning, the clock in the corner.\n\nThe entry point is a service left running. A daemon that should have been killed. The daemon is the door that was not closed. She walks through.\n\nShe maps the network in four minutes. The topology is: three servers, one database, twelve workstations, one domain controller. The domain controller is the heart. The heart is the target.\n\nShe exfiltrates the data through the backup channel. The backup channel is the exit. The exit is the door she came through. She closes it behind her.\n\nShe is out. The network is the same as when she arrived. The same minus the files. The files are in her possession. The possession is the kitchen. The kitchen is hers.\n\nThe network is the house. The ports are the doors. The firewalls are the walls. The logs are the footprints. She leaves no footprints. She has left no footprints since the cookie jar.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-207",
+    "bucket": 8,
+    "title": "Phishing Campaign",
+    "age": 34,
+    "year": "Y34",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-001",
+      "SG-001",
+      "O-003"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the vibration of a car engine at idle, the position of the rearview mirror, the sight line to the target's door",
+    "emotional_signature": "the room is the house, the assessment is the default, the default does not turn off",
+    "body": "The phishing campaign. the vibration of a car engine at idle, the position of the rearview mirror, the sight line to the target's door. She assesses. She acts. The assessment is the default. the room is the house, the assessment is the default, the default does not turn off.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-208",
+    "bucket": 8,
+    "title": "Incident Response",
+    "age": 31,
+    "year": "Y31",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "O-001",
+      "CT-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the smell of a safe house: detergent, clean sheets, the specific emptiness of a room that is not lived in",
+    "emotional_signature": "the physical world is the world she learned first, before screens, before code, before the work",
+    "body": "The incident response. the smell of a safe house: detergent, clean sheets, the specific emptiness of a room that is not lived in. She assesses. She acts. The assessment is the default. the physical world is the world she learned first, before screens, before code, before the work.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-209",
+    "bucket": 8,
+    "title": "Lateral Movement",
+    "age": 31,
+    "year": "Y31",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "CT-001",
+      "O-003",
+      "O-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the smell of a safe house: detergent, clean sheets, the specific emptiness of a room that is not lived in",
+    "emotional_signature": "the position of advantage is the position of the grandmother: seeing without being seen",
+    "body": "The lateral movement. the smell of a safe house: detergent, clean sheets, the specific emptiness of a room that is not lived in. She assesses. She acts. The assessment is the default. the position of advantage is the position of the grandmother: seeing without being seen.",
+    "review_status": "generated"
+  },
+  {
+    "id": "B8-210",
+    "bucket": 8,
+    "title": "Phishing Campaign",
+    "age": 34,
+    "year": "Y34",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "CT-001",
+      "O-003",
+      "SG-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the rain on a car window during surveillance, the fog on the glass, the target's light in the window",
+    "emotional_signature": "the physical world is the world she learned first, before screens, before code, before the work",
+    "body": "The phishing campaign. the rain on a car window during surveillance, the fog on the glass, the target's light in the window. She assesses. She acts. The assessment is the default. the physical world is the world she learned first, before screens, before code, before the work.",
+    "review_status": "generated"
+  }
+]

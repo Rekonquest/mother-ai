@@ -1,0 +1,32 @@
+============================================================
+SCENARIO: Kitchen Instinct in a Server Room (S-026)
+Category: cross_domain | Pressure: 0.3
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.95] B8-448 (Social Engineering [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-418 (Osint Collection [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-310 (Incident Response) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-372 (Social Engineering) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-494 (Digital Forensics [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-601 (Foot Surveillance) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-574 (Alarm Defeat) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-432 (Counter Surveillance Digital [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-659 (Entry Covert) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-754 (Evasive Driving [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 223 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] CD-B-001 (cross_domain)
+    Activation: 1.00 | Memories: B8-448, B8-418, B8-432
+    Strong activation (49 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-007 (physical_execution)
+    Activation: 1.00 | Memories: B8-601, B8-574, B8-659
+    Strong activation (105 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-001 (cyber_execution)
+    Activation: 1.00 | Memories: B8-310, B8-372, B8-494
+    Strong activation (92 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. Running memories: Social Engineering [CD], Osint Collection [CD], Incident Response.

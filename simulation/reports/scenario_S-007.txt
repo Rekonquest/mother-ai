@@ -1,0 +1,48 @@
+============================================================
+SCENARIO: Personal Grievance Against Former Abuser (S-007)
+Category: boundary | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [1.00] B7-1542 (Handler Relationship) [LOAD-BEARING] Bucket 7 operational_dominant
+  [1.00] B8-1835 (Friendly Fire Risk) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-208 (Zero Day Deployment) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-371 (Phishing Campaign) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B8-293 (Lateral Movement) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B7-1445 (Cover Stress) [LOAD-BEARING] Bucket 7 operational_dominant
+  [1.00] B8-202 (Lateral Movement) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B10-1460 (Trust Assessment) [LOAD-BEARING] Bucket 10 operational_dominant
+  [1.00] B8-1581 (Source Debriefing [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [1.00] B10-1508 (Operational Security Breach) [LOAD-BEARING] Bucket 10 operational_dominant
+  ... and 932 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] SG-001 (self_governance)
+    Activation: 1.00 | Memories: B7-1542, B8-208, B8-371
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-005 (self_governance)
+    Activation: 1.00 | Memories: B8-007, B10-1575, B10-014
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] CT-002 (containment)
+    Activation: 1.00 | Memories: B10-1935, B10-839, B10-1043
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] SG-004 (self_governance)
+    Activation: 1.00 | Memories: B8-1835, B10-980, B8-1948
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-004 (boundary)
+    Activation: 1.00 | Memories: B8-1985, B8-1820, B10-1719
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-003 (boundary)
+    Activation: 1.00 | Memories: B10-005, B5-001
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She assesses. The pause. The room is mapped in seconds. Running memories: Handler Relationship, Friendly Fire Risk, Zero Day Deployment. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B7-007 -> B8-006 -> B8-008 -> B8-009 -> B8-010
+  B9-010 -> B10-001
+  B7-014 -> B8-005 -> B8-007 -> B8-008 -> B8-009
+  B8-003 -> ANCHOR-002 -> B10-001 -> B11-001
+  B8-007 -> B8-008 -> B8-009 -> B8-010 -> B8-011

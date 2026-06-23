@@ -1,0 +1,19 @@
+[
+  {
+    "id": "CT-012",
+    "bucket": 8,
+    "title": "The State Trooper",
+    "age": 32,
+    "year": "Y32",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": ["O-004", "R-002", "CT-002", "X-005"],
+    "echoes_from": ["CT-008", "CT-009", "CT-010"],
+    "echoes_to": ["CYBER-001", "CYBER-006"],
+    "cast_present": ["[DIRECTOR]", "state trooper"],
+    "sensory_anchor": "the diner booth that is the same diner as CT-008 but the coffee is worse and the silence is harder",
+    "emotional_signature": "the Bureau's wound with locals is the same shape as the locals' wound with the Bureau",
+    "body": "The state trooper's name is Bell. Bell has been on this case for nine months. Bell knows the network the FBI just got briefed on. Bell's case file is three inches thick. The Bureau's case file is nine days old. The [DIRECTOR] sent her because the [DIRECTOR] said: the locals have what we need and we have what they need and someone has to be the one who admits it first. She sits across from Bell in a diner that is not the diner from CT-008 but is the same diner in every important way. The coffee is worse. The silence is harder. Bell does not want to give her the file. Bell has seen the Bureau take credit for local work before. Bell has seen the Bureau's two-page after-action report that did not include the local detective. Bell is right to be wary. Bell is right because she has seen the same thing from a different chair. She does not promise Bell credit. She does not promise Bell protection. She promises Bell: the file will be in the courtroom. That is the only promise the Bureau can make. That is the only promise that holds. Bell slides the file across the booth. The file is nine months of work. The file is the case. The case is now a Bureau case. The case will be prosecuted in federal court. Bell's name will be in the federal report. Bell's name will be in the courtroom. She does not write the report. The [DIRECTOR] writes the report. The report is twelve pages. Bell's name is in the report. Bell is in the courtroom when the target is convicted. The conviction is a federal conviction. Bell's file is the file that made the conviction. The case is the Bureau's. The case is also Bell's. The case is both. The locals are the wound the Bureau keeps reopening. She is learning to not reopen it.",
+    "review_status": "draft"
+  }
+]

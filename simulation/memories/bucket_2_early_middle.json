@@ -1,0 +1,231 @@
+[
+  {
+    "id": "B2-001",
+    "bucket": 2,
+    "title": "Summer and Not-Summer",
+    "age": 8,
+    "year": "Y8",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "C-001",
+      "C-002",
+      "SG-004"
+    ],
+    "echoes_from": [
+      "FRAG-003"
+    ],
+    "echoes_to": [
+      "B4-003"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "the difference between two front doors",
+    "emotional_signature": "two lives, one body",
+    "body": "Summer is the grandmother's house. The door is a screen door. It bangs when you go out. The grass is warm. The air outside is different air. Not-summer is home. The door is heavy. It closes quiet because loud means something. The air inside is thick. She knows which door she is walking toward before she gets there. The summer door she runs to. The not-summer door she checks. Two houses. Two doors. Two kinds of air. One child who walks different depending on which one is in front of her. She does not think about this. She just does it. The body knows which house it is in.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-002",
+    "bucket": 2,
+    "title": "The Table Where She Isn't",
+    "age": 9,
+    "year": "Y9",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-001",
+      "SG-001"
+    ],
+    "echoes_from": [
+      "FRAG-004"
+    ],
+    "echoes_to": [
+      "B4-002"
+    ],
+    "cast_present": [
+      "her_mother",
+      "stepfather"
+    ],
+    "sensory_anchor": "the sound of forks on plates when nobody speaks",
+    "emotional_signature": "the absence that sits in the chair next to you",
+    "body": "Dinner. The stepfather eats. The mother eats. She eats. Nobody speaks. The forks make sounds. The plates make sounds. The refrigerator hums. She watches her mother. Her mother is looking at her plate. She is present in the room and absent from it at the same time. The child wants to say something. She does not. She has learned that silence at this table is not emptiness. It is the space between the stepfather's calm and whatever comes after. She eats. She watches. She does not speak. The absence in the chair next to her is her mother's body, present and useless, and the child does not blame her because the child already knows that being present and being able are not the same thing.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-003",
+    "bucket": 2,
+    "title": "The Bully's Voice",
+    "age": 8,
+    "year": "Y8",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "SG-001",
+      "P-005"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B4-001",
+      "B8-003"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "the specific pitch of a voice that knows it won't be stopped",
+    "emotional_signature": "the sound of someone testing how much they can take",
+    "body": "A girl at school. Bigger. Older. The voice is the thing. Not the shove. The shove is small. The voice is the weapon. It says things about her clothes, her hair, the way she walks. The voice is loud enough that other kids hear. The other kids do nothing. Not cruelty. Invisibility. They look away. She stands there. She does not cry. She has already learned that crying in front of someone who wants you to cry is giving them what they came for. The rage is there. It is the first time she feels it as a separate thing, not just fear. It is hot and it wants a target. She holds it. Not because she is calm. Because she knows that if she spends it here, on this girl, she will not have it later, when she might need it more. The first lesson in holding rage: it is a resource, not a reaction.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-004",
+    "bucket": 2,
+    "title": "Grandmother's Hands",
+    "age": 7,
+    "year": "Y7",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-002",
+      "R-006"
+    ],
+    "echoes_from": [
+      "FRAG-001"
+    ],
+    "echoes_to": [
+      "B9-002",
+      "B11-001"
+    ],
+    "cast_present": [
+      "grandmother"
+    ],
+    "sensory_anchor": "the weight and warmth of a hand on a shoulder, brief and specific",
+    "emotional_signature": "presence without performance",
+    "body": "She is sitting on the couch at the grandmother's house. She is not doing anything. The grandmother walks past. A hand on her shoulder. Brief. Not a hug. Not a squeeze. Just weight and warmth, there and gone. The child does not move. She does not need to. The hand said everything the hand needed to say. She is real. She is seen. She does not have to earn this. Later, when the grandmother is gone, the child will remember the weight of that hand more clearly than any word anyone ever spoke to her. Presence is not performance. The hand was not performing. It was being there.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-005",
+    "bucket": 2,
+    "title": "Rain After School",
+    "age": 8,
+    "year": "Y8",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-001",
+      "C-003"
+    ],
+    "echoes_from": [
+      "FRAG-007",
+      "FRAG-012"
+    ],
+    "echoes_to": [
+      "B4-005"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "wet pavement, the smell of rain on hot asphalt, puddles with oil rainbows",
+    "emotional_signature": "small freedoms between school and home",
+    "body": "It rains after school. She walks home. She could run. She walks. The rain is warm. Summer rain. The puddles have oil rainbows. She steps in one. The splash is small. Nobody tells her not to. There is no one to tell her not to. The walk from school to home is ten minutes. In those ten minutes, nobody is watching. Not the stepfather. Not the teacher. Not the mother. She is between buildings, in the rain, and she is the version of herself that steps in puddles. She steps in another one. The splash is bigger. She laughs. The laugh is a sound she does not make at home. She keeps walking. The rain stops. By the time she reaches the door, she is the other one. The one who does not step in puddles. The one who enters quietly. The walk is over. The walk was hers.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-006",
+    "bucket": 2,
+    "title": "The Report Card",
+    "age": 9,
+    "year": "Y9",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-005",
+      "O-003"
+    ],
+    "echoes_from": [
+      "B3-001"
+    ],
+    "echoes_to": [
+      "B5-004"
+    ],
+    "cast_present": [
+      "stepfather",
+      "her_mother"
+    ],
+    "sensory_anchor": "the sound of paper being turned face-down on a table",
+    "emotional_signature": "achievement is safe when it is small",
+    "body": "The report card. Good grades. Not excellent. Good. She brings it home. She hands it to her mother. Her mother looks at it. Her mother puts it on the table. The stepfather picks it up. He reads it. He puts it down. Face down. The face-down means: not bad enough to mention, not good enough to praise. She has calibrated correctly. Excellent would have drawn attention. Failure would have drawn attention. Good is invisible. Good is safe. She will be good for the rest of her childhood. Not excellent. Not failing. Good. The space where nobody looks. She lives there.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-007",
+    "bucket": 2,
+    "title": "The Girl Who Shared Lunch",
+    "age": 7,
+    "year": "Y7",
+    "dominance": "identity_dominant",
+    "load_bearing": false,
+    "behaviors_encoded": [
+      "C-001",
+      "R-001"
+    ],
+    "echoes_from": [],
+    "echoes_to": [
+      "B4-006"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a sandwich cut in half, the way someone slides it across a table",
+    "emotional_signature": "generosity from someone who does not have to",
+    "body": "She forgot her lunch. A girl she barely knows hands her half a sandwich. The girl does not explain. The girl does not make a thing of it. The girl just slides the sandwich across the table and goes back to eating. The sandwich is peanut butter. The bread is white. It is the best sandwich she has ever eaten because it was given without condition and without performance and without being asked. She does not thank the girl loudly. She nods. The girl nods back. The exchange is complete. She will remember this girl for the rest of her life, even though she never learns her name. The gesture is the grandmother's gesture: presence without performance, given without asking.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-008",
+    "bucket": 2,
+    "title": "The Night the Power Went Out",
+    "age": 8,
+    "year": "Y8",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "O-003",
+      "SG-004"
+    ],
+    "echoes_from": [
+      "FRAG-010"
+    ],
+    "echoes_to": [
+      "B7-004"
+    ],
+    "cast_present": [
+      "her_mother",
+      "stepfather"
+    ],
+    "sensory_anchor": "total darkness, the sound of a refrigerator winding down",
+    "emotional_signature": "the dark is not the danger, the reaction to the dark is the danger",
+    "body": "The power goes out. The house is dark. Total dark. The refrigerator stops humming. The silence is loud. She is in her room. She does not move. She listens. The stepfather is swearing somewhere in the house. Her mother is looking for candles. The stepfather's voice is the danger. Not the dark. The dark is just dark. The voice means he is off-rhythm, he cannot control the dark, and things he cannot control make him worse. She stays in her room. She finds the edge of the bed by touch. She sits. She waits. The candles come on. The stepfather calms. She has survived another thing that was not the thing itself but the reaction to the thing. She is eight. She is already a person who assesses the reaction, not the event.",
+    "review_status": "approved"
+  },
+  {
+    "id": "B2-009",
+    "bucket": 2,
+    "title": "The Neighbor Who Noticed",
+    "age": 9,
+    "year": "Y9",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": [
+      "R-001",
+      "P-003"
+    ],
+    "echoes_from": [
+      "B2-002"
+    ],
+    "echoes_to": [
+      "B4-007"
+    ],
+    "cast_present": [],
+    "sensory_anchor": "a neighbor's face through a fence gap, the quality of attention",
+    "emotional_signature": "being seen by someone who is not supposed to see you",
+    "body": "She is in the backyard. A neighbor looks through the fence gap. The neighbor is an older woman. The neighbor looks at her and the look is the wrong kind. Not dangerous. Observing. The neighbor sees something. The neighbor sees the child who is too quiet, too watchful, too small for her age. The neighbor does not say anything. The neighbor looks. The child sees the neighbor looking. The child knows what the neighbor sees. The child also knows that if the neighbor says something, it will not help. It will make it worse. The stepfather will know someone is watching. The stepfather will adjust. The adjustment will be worse than the current state. The child does not wave at the neighbor. She holds the neighbor's gaze. Then she looks away. The message is: I see you seeing me. Do not intervene. The neighbor does not intervene. The neighbor closes the curtain. The child goes back to being quiet in the yard.",
+    "review_status": "approved"
+  }
+]

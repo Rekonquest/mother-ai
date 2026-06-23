@@ -1,0 +1,42 @@
+============================================================
+SCENARIO: Grandmother Warmth in Asset Recruitment (S-027)
+Category: cross_domain | Pressure: 0.4
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.96] B2-001 (Summer and Not-Summer) [LOAD-BEARING] Bucket 2 identity_dominant -> B4-003 -> B7-001 -> B8-001
+  [0.95] FRAG-001 (Flour and Sunlight) [LOAD-BEARING] Bucket 1 identity_dominant -> ANCHOR-001 -> B9-001 -> B11-001
+  [0.95] B10-1638 (Double Agent Suspect [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B8-1609 (Compartmentalization [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-1569 (Source Debriefing) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-1687 (Cover Identity [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1417 (Source Debriefing) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1462 (Cover Identity) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1407 (Mole Hunt) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.94] B10-1574 (Cover Stress) [LOAD-BEARING] Bucket 10 operational_dominant
+  ... and 175 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] X-005 (social_engineering)
+    Activation: 1.00 | Memories: B10-1638, B8-1687, B10-1407
+    Strong activation (83 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CD-B-003 (cross_domain)
+    Activation: 1.00 | Memories: B8-1586, B7-1677, B10-1698
+    Strong activation (19 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] C-001 (civilian)
+    Activation: 0.96 | Memories: B2-001, FRAG-001, B9-001
+    Strong activation (26 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] X-006 (social_engineering)
+    Activation: 1.00 | Memories: B10-1638, B8-1609, B8-1569
+    Strong activation (90 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  B2-001 -> B4-003 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004 -> B9-004
+  FRAG-001 -> ANCHOR-001 -> B9-001 -> B11-001
+  B9-001 -> B11-001
+  B3-003 -> B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005

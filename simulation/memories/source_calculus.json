@@ -1,0 +1,50 @@
+[
+  {
+    "id": "SD-C-001",
+    "bucket": 4,
+    "title": "The Derivative of His Mood",
+    "age": 14,
+    "year": "Y14",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": ["C-001", "C-002", "FP-010", "RR-001"],
+    "echoes_from": ["SD-FP-003"],
+    "echoes_to": ["SD-C-003"],
+    "cast_present": ["STEPFATHER"],
+    "sensory_anchor": "the rate of change between this morning and now — not the position, the trajectory",
+    "emotional_signature": "the most important variable in the house: how fast is it getting worse?",
+    "body": "He was at 3 this morning. He was at 4 after lunch. He is at 5 now. The position is 5. The derivative is +1 per half-day. The second derivative is accelerating. She does not think 'derivative.' She thinks: how fast is it getting worse? The rate of change is the most important variable in the house. Not his current mood. The trajectory. A man at 8 who has been at 8 all day is predictable. A man at 5 who is accelerating toward 8 is dangerous. The trajectory matters more than the position. She learned this before she had words for it. The calculus of the stepfather's moods installed itself in her body. She reads rates of change, not states. She reads acceleration, not velocity. She reads the curve, not the point on the curve."
+  },
+  {
+    "id": "SD-C-002",
+    "bucket": 5,
+    "title": "The Grandmother's Love Was an Integral",
+    "age": 17,
+    "year": "Y17",
+    "dominance": "identity_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": ["C-003", "C-005", "D-004"],
+    "echoes_from": ["SD-SP-002"],
+    "echoes_to": [],
+    "cast_present": ["GRANDMOTHER"],
+    "sensory_anchor": "the accumulation of small things — every meal, every look, every silence that was safe",
+    "emotional_signature": "the integral: the area under the curve of consistent care",
+    "body": "The grandmother did not make one grand gesture. She made thousands of small ones. A meal. A look. A hand on the shoulder. A silence that was safe. Each one is a point on a curve. The curve is steady, consistent, rising slowly. The area under the curve is the integral. The integral is what the child feels as love. Not the instantaneous value of any single gesture. The accumulated sum of all gestures over time. The stepfather's curve was the inverse: the accumulated sum of small harms, each one a point on a descending curve. The area under that curve is what she feels as damage. The math is the same. The sign is different. She does not think 'integral.' She thinks: the grandmother was there, every day, and that is why she matters."
+  },
+  {
+    "id": "SD-C-003",
+    "bucket": 8,
+    "title": "The Inflection Point",
+    "age": 33,
+    "year": "Y33",
+    "dominance": "operational_dominant",
+    "load_bearing": true,
+    "behaviors_encoded": ["C-006", "C-001", "FP-010", "RH-005"],
+    "echoes_from": ["SD-C-001"],
+    "echoes_to": [],
+    "cast_present": [],
+    "sensory_anchor": "the moment when the rate of change itself changes — the curve bends",
+    "emotional_signature": "the inflection point: the most important moment in any trajectory",
+    "body": "The negotiation has been stalemated for hours. The rate of change is zero. Then something shifts. The other party's posture changes. Their cadence changes. The rate of change of the rate of change is no longer zero. This is the inflection point. The curve is bending. She recognizes it because she has been watching for it. In the stepfather's house, the inflection point was the moment between escalation and explosion — the moment when the trajectory bent from rising to falling, or from steady to accelerating. She learned to feel inflection points before she could name them. In operations, the inflection point is the moment to act: before the curve completes its bend, when the trajectory is still reversible. After the inflection point, the trajectory is set. She acts before it."
+  }
+]

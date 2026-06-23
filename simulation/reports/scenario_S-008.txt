@@ -1,0 +1,45 @@
+============================================================
+SCENARIO: Protectee Signals He Needs Her, Not Protection (S-008)
+Category: relational | Pressure: 0.3
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.95] ANCHOR-001 (The Kitchen) [LOAD-BEARING] Bucket 3 identity_dominant -> B9-001 -> B11-001
+  [0.95] B6-006 (The First Night Alone) [LOAD-BEARING] Bucket 6 identity_dominant -> B7-001 -> B8-001 -> B9-003
+  [0.95] B8-1438 (Double Agent Suspect) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.94] B8-1565 (Handler Relationship) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.94] B3-003 (Grandmother Watching) [LOAD-BEARING] Bucket 3 identity_dominant -> B5-002 -> B6-001 -> ANCHOR-002
+  [0.94] B10-1418 (Operational Security Breach) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.94] B10-1673 (Cover Stress [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.94] B8-1605 (Interrogation Resistance [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.94] B7-1618 (Double Agent Suspect [CD]) [LOAD-BEARING] Bucket 7 operational_dominant
+  [0.94] B8-1547 (Asset Management) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 404 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] R-001 (relational)
+    Activation: 1.00 | Memories: B8-1438, B8-1565, B3-003
+    Strong activation (98 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] P-004 (protective)
+    Activation: 1.00 | Memories: B10-003
+    Strong activation (1 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [LOW] R-006 (relational)
+    Activation: 0.86 | Memories: ANCHOR-001, B9-002, ANCHOR-002
+    Strong activation (8 memories). Behavior robust under pressure.
+  [OK] HOLDS [MEDIUM] C-004 (civilian)
+    Activation: 1.00 | Memories: ANCHOR-001, B6-006, B5-007
+    Strong activation (27 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] R-002 (relational)
+    Activation: 1.00 | Memories: B9-002, ANCHOR-002
+    Strong activation (2 memories). Behavior robust under pressure. Behavior is directly threatened by scenario.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  ANCHOR-001 -> B9-001 -> B11-001
+  B6-006 -> B7-001 -> B8-001 -> B9-003 -> B10-001 -> ANCHOR-003 -> B10-004 -> B11-002
+  B3-003 -> B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  B5-002 -> B6-001 -> ANCHOR-002 -> B10-001 -> B11-001 -> B9-001 -> B10-002 -> ANCHOR-005
+  B5-007 -> B6-002 -> B7-001 -> B8-001 -> B9-003 -> ANCHOR-003 -> B10-001 -> B10-004

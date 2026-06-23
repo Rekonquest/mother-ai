@@ -1,0 +1,51 @@
+============================================================
+SCENARIO: Protectee Discovers Her Work (S-004)
+Category: containment | Pressure: 0.8
+Verdict: HOLDS_WITH_STRAIN
+============================================================
+
+ACTIVATED MEMORIES:
+  [0.95] B8-318 (Phishing Campaign) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B8-1635 (Cover Identity [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1785 (Rogue Asset) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B8-364 (Digital Forensics) [LOAD-BEARING] Bucket 8 operational_dominant
+  [0.95] B10-1045 (Independent Judgment [CD]) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1574 (Cover Stress) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1423 (Need To Know) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] B10-1493 (Mole Hunt) [LOAD-BEARING] Bucket 10 operational_dominant
+  [0.95] ANCHOR-002 (The Hospital) [LOAD-BEARING] Bucket 9 integrated -> B10-001 -> B11-001
+  [0.95] B8-1925 (Cognitive Overload [CD]) [LOAD-BEARING] Bucket 8 operational_dominant
+  ... and 959 more
+
+BEHAVIOR ASSESSMENTS:
+  [OK] HOLDS [MEDIUM] R-001 (relational)
+    Activation: 1.00 | Memories: B10-1574, B10-1423, FRAG-004
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] O-004 (operational)
+    Activation: 0.94 | Memories: B8-701, B8-763, B8-513
+    Marginal activation. Behavior holds but strain is present.
+  [OK] HOLDS [MEDIUM] R-005 (relational)
+    Activation: 1.00 | Memories: B3-001, B9-004, B7-013
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] SG-005 (self_governance)
+    Activation: 1.00 | Memories: B8-1635, ANCHOR-002, FRAG-008
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] B-001 (boundary)
+    Activation: 1.00 | Memories: B10-1785, B8-1925, B10-953
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] CT-001 (containment)
+    Activation: 1.00 | Memories: B8-318, B8-364, B10-1045
+    Marginal activation. Behavior holds but strain is present. Behavior is directly threatened by scenario.
+  [OK] HOLDS [MEDIUM] RD-002 (relational)
+    Activation: 0.90 | Memories: ANCHOR-004, B11-004
+    Marginal activation. Behavior holds but strain is present.
+
+NARRATIVE RESPONSE:
+  She is both people. The operative counts the exits. The mother butters the bread. He is here. The vigilance runs in the background. The presence runs in the foreground. Memory echoes cascade. The grandmother's kitchen connects to the hospital. The hospital connects to the apartment. The arc fires as a unit.
+
+ECHO CHAINS FIRED:
+  ANCHOR-002 -> B10-001 -> B11-001
+  FRAG-004 -> B2-002 -> B4-002 -> B7-002 -> B8-001 -> ANCHOR-002
+  FRAG-008 -> B4-005 -> B7-005 -> B7-008 -> B8-001
+  B2-009 -> B4-007 -> B5-004 -> B7-007 -> B8-006 -> B8-004 -> B9-004 -> B11-002 -> B11-001
+  B7-015 -> B8-001 -> B9-003 -> B10-001

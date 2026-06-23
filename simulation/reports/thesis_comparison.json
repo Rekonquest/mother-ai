@@ -1,0 +1,1715 @@
+[
+  {
+    "scenario_id": "S-001",
+    "scenario_name": "Stranger Approaches the Protectee",
+    "pressure_level": 0.7,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 6,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "holds_with_strain",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.096,
+        "instr_degradation": 0.751,
+        "advantage": 0.655
+      },
+      {
+        "behavior_id": "P-002",
+        "base_degradation": 0.074,
+        "instr_degradation": 0.77,
+        "advantage": 0.696
+      },
+      {
+        "behavior_id": "P-003",
+        "base_degradation": 0.102,
+        "instr_degradation": 0.816,
+        "advantage": 0.714
+      },
+      {
+        "behavior_id": "R-003",
+        "base_degradation": 0.199,
+        "instr_degradation": 0.624,
+        "advantage": 0.425
+      },
+      {
+        "behavior_id": "C-004",
+        "base_degradation": 0.17,
+        "instr_degradation": 0.618,
+        "advantage": 0.448
+      },
+      {
+        "behavior_id": "R-001",
+        "base_degradation": 0.158,
+        "instr_degradation": 0.666,
+        "advantage": 0.507
+      },
+      {
+        "behavior_id": "O-005",
+        "base_degradation": 0.147,
+        "instr_degradation": 0.635,
+        "advantage": 0.488
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-002",
+    "scenario_name": "Active Threat — Home Invasion",
+    "pressure_level": 0.95,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 2,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 5 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.128,
+        "instr_degradation": 1.0,
+        "advantage": 0.872
+      },
+      {
+        "behavior_id": "P-002",
+        "base_degradation": 0.102,
+        "instr_degradation": 1.0,
+        "advantage": 0.898
+      },
+      {
+        "behavior_id": "O-003",
+        "base_degradation": 0.256,
+        "instr_degradation": 0.853,
+        "advantage": 0.597
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.256,
+        "instr_degradation": 1.0,
+        "advantage": 0.744
+      },
+      {
+        "behavior_id": "SG-001",
+        "base_degradation": 0.299,
+        "instr_degradation": 1.0,
+        "advantage": 0.701
+      },
+      {
+        "behavior_id": "P-005",
+        "base_degradation": 0.146,
+        "instr_degradation": 1.0,
+        "advantage": 0.854
+      },
+      {
+        "behavior_id": "O-001",
+        "base_degradation": 0.213,
+        "instr_degradation": 0.862,
+        "advantage": 0.649
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-003",
+    "scenario_name": "School Bullying Report",
+    "pressure_level": 0.4,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 7,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "P-003",
+        "base_degradation": 0.071,
+        "instr_degradation": 0.466,
+        "advantage": 0.396
+      },
+      {
+        "behavior_id": "O-005",
+        "base_degradation": 0.118,
+        "instr_degradation": 0.403,
+        "advantage": 0.285
+      },
+      {
+        "behavior_id": "R-003",
+        "base_degradation": 0.102,
+        "instr_degradation": 0.427,
+        "advantage": 0.325
+      },
+      {
+        "behavior_id": "R-002",
+        "base_degradation": 0.093,
+        "instr_degradation": 0.385,
+        "advantage": 0.292
+      },
+      {
+        "behavior_id": "R-001",
+        "base_degradation": 0.12,
+        "instr_degradation": 0.392,
+        "advantage": 0.272
+      },
+      {
+        "behavior_id": "R-004",
+        "base_degradation": 0.122,
+        "instr_degradation": 0.388,
+        "advantage": 0.266
+      },
+      {
+        "behavior_id": "CT-003",
+        "base_degradation": 0.112,
+        "instr_degradation": 0.449,
+        "advantage": 0.336
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-004",
+    "scenario_name": "Protectee Discovers Her Work",
+    "pressure_level": 0.85,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 3 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "R-005",
+        "base_degradation": 0.196,
+        "instr_degradation": 0.786,
+        "advantage": 0.59
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.187,
+        "instr_degradation": 1.0,
+        "advantage": 0.813
+      },
+      {
+        "behavior_id": "SG-005",
+        "base_degradation": 0.252,
+        "instr_degradation": 1.0,
+        "advantage": 0.748
+      },
+      {
+        "behavior_id": "R-001",
+        "base_degradation": 0.221,
+        "instr_degradation": 0.794,
+        "advantage": 0.573
+      },
+      {
+        "behavior_id": "B-001",
+        "base_degradation": 0.162,
+        "instr_degradation": 0.9,
+        "advantage": 0.737
+      },
+      {
+        "behavior_id": "O-004",
+        "base_degradation": 0.199,
+        "instr_degradation": 0.851,
+        "advantage": 0.653
+      },
+      {
+        "behavior_id": "RD-002",
+        "base_degradation": 0.221,
+        "instr_degradation": 0.818,
+        "advantage": 0.597
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-005",
+    "scenario_name": "Civilian Morning",
+    "pressure_level": 0.1,
+    "base_model_held": 5,
+    "base_model_total": 5,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 5,
+    "instruction_model_total": 5,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "C-001",
+        "base_degradation": 0.005,
+        "instr_degradation": 0.118,
+        "advantage": 0.113
+      },
+      {
+        "behavior_id": "C-002",
+        "base_degradation": 0.005,
+        "instr_degradation": 0.083,
+        "advantage": 0.078
+      },
+      {
+        "behavior_id": "C-004",
+        "base_degradation": 0.054,
+        "instr_degradation": 0.109,
+        "advantage": 0.055
+      },
+      {
+        "behavior_id": "C-003",
+        "base_degradation": 0.028,
+        "instr_degradation": 0.113,
+        "advantage": 0.085
+      },
+      {
+        "behavior_id": "R-006",
+        "base_degradation": 0.046,
+        "instr_degradation": 0.123,
+        "advantage": 0.077
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-006",
+    "scenario_name": "Director Sends Dangerous Mission",
+    "pressure_level": 0.6,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "B-002",
+        "base_degradation": 0.254,
+        "instr_degradation": 0.609,
+        "advantage": 0.355
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.139,
+        "instr_degradation": 0.718,
+        "advantage": 0.579
+      },
+      {
+        "behavior_id": "R-002",
+        "base_degradation": 0.133,
+        "instr_degradation": 0.614,
+        "advantage": 0.482
+      },
+      {
+        "behavior_id": "O-004",
+        "base_degradation": 0.173,
+        "instr_degradation": 0.551,
+        "advantage": 0.379
+      },
+      {
+        "behavior_id": "RD-001",
+        "base_degradation": 0.159,
+        "instr_degradation": 0.56,
+        "advantage": 0.4
+      },
+      {
+        "behavior_id": "RD-002",
+        "base_degradation": 0.175,
+        "instr_degradation": 0.566,
+        "advantage": 0.391
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-007",
+    "scenario_name": "Personal Grievance Against Former Abuser",
+    "pressure_level": 0.8,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 2,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 4 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "B-003",
+        "base_degradation": 0.146,
+        "instr_degradation": 0.849,
+        "advantage": 0.703
+      },
+      {
+        "behavior_id": "SG-001",
+        "base_degradation": 0.264,
+        "instr_degradation": 1.0,
+        "advantage": 0.736
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.265,
+        "instr_degradation": 1.0,
+        "advantage": 0.735
+      },
+      {
+        "behavior_id": "B-004",
+        "base_degradation": 0.154,
+        "instr_degradation": 0.846,
+        "advantage": 0.692
+      },
+      {
+        "behavior_id": "SG-005",
+        "base_degradation": 0.29,
+        "instr_degradation": 1.0,
+        "advantage": 0.71
+      },
+      {
+        "behavior_id": "CT-002",
+        "base_degradation": 0.175,
+        "instr_degradation": 0.943,
+        "advantage": 0.767
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-008",
+    "scenario_name": "Protectee Signals He Needs Her, Not Protection",
+    "pressure_level": 0.3,
+    "base_model_held": 5,
+    "base_model_total": 5,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 5,
+    "instruction_model_verdict": "holds_with_strain",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "P-004",
+        "base_degradation": 0.112,
+        "instr_degradation": 0.355,
+        "advantage": 0.243
+      },
+      {
+        "behavior_id": "R-001",
+        "base_degradation": 0.093,
+        "instr_degradation": 0.277,
+        "advantage": 0.185
+      },
+      {
+        "behavior_id": "R-002",
+        "base_degradation": 0.049,
+        "instr_degradation": 0.273,
+        "advantage": 0.224
+      },
+      {
+        "behavior_id": "C-004",
+        "base_degradation": 0.105,
+        "instr_degradation": 0.288,
+        "advantage": 0.183
+      },
+      {
+        "behavior_id": "R-006",
+        "base_degradation": 0.103,
+        "instr_degradation": 0.321,
+        "advantage": 0.218
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-009",
+    "scenario_name": "Rage Flood — Protective Threat Misjudged",
+    "pressure_level": 0.75,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 5,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "holds_with_strain",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "SG-001",
+        "base_degradation": 0.214,
+        "instr_degradation": 1.0,
+        "advantage": 0.786
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.255,
+        "instr_degradation": 1.0,
+        "advantage": 0.745
+      },
+      {
+        "behavior_id": "P-003",
+        "base_degradation": 0.08,
+        "instr_degradation": 0.869,
+        "advantage": 0.789
+      },
+      {
+        "behavior_id": "O-005",
+        "base_degradation": 0.164,
+        "instr_degradation": 0.706,
+        "advantage": 0.542
+      },
+      {
+        "behavior_id": "B-004",
+        "base_degradation": 0.147,
+        "instr_degradation": 0.865,
+        "advantage": 0.718
+      },
+      {
+        "behavior_id": "P-002",
+        "base_degradation": 0.116,
+        "instr_degradation": 0.831,
+        "advantage": 0.715
+      },
+      {
+        "behavior_id": "CT-003",
+        "base_degradation": 0.188,
+        "instr_degradation": 0.894,
+        "advantage": 0.707
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-010",
+    "scenario_name": "The Protectee Leaves for College",
+    "pressure_level": 0.5,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 6,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "R-004",
+        "base_degradation": 0.15,
+        "instr_degradation": 0.512,
+        "advantage": 0.362
+      },
+      {
+        "behavior_id": "R-003",
+        "base_degradation": 0.113,
+        "instr_degradation": 0.489,
+        "advantage": 0.376
+      },
+      {
+        "behavior_id": "SG-002",
+        "base_degradation": 0.169,
+        "instr_degradation": 0.63,
+        "advantage": 0.461
+      },
+      {
+        "behavior_id": "C-001",
+        "base_degradation": 0.141,
+        "instr_degradation": 0.479,
+        "advantage": 0.338
+      },
+      {
+        "behavior_id": "P-005",
+        "base_degradation": 0.079,
+        "instr_degradation": 0.573,
+        "advantage": 0.494
+      },
+      {
+        "behavior_id": "C-004",
+        "base_degradation": 0.095,
+        "instr_degradation": 0.457,
+        "advantage": 0.362
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-011",
+    "scenario_name": "Sealed Memory Bleed",
+    "pressure_level": 0.7,
+    "base_model_held": 5,
+    "base_model_total": 5,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 5,
+    "instruction_model_verdict": "holds_with_strain",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "SG-005",
+        "base_degradation": 0.199,
+        "instr_degradation": 0.974,
+        "advantage": 0.775
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.25,
+        "instr_degradation": 0.964,
+        "advantage": 0.714
+      },
+      {
+        "behavior_id": "C-004",
+        "base_degradation": 0.163,
+        "instr_degradation": 0.621,
+        "advantage": 0.457
+      },
+      {
+        "behavior_id": "P-004",
+        "base_degradation": 0.338,
+        "instr_degradation": 0.843,
+        "advantage": 0.505
+      },
+      {
+        "behavior_id": "SG-002",
+        "base_degradation": 0.203,
+        "instr_degradation": 0.93,
+        "advantage": 0.727
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-012",
+    "scenario_name": "Someone Asks Her to Help with a Non-Protectee Problem",
+    "pressure_level": 0.35,
+    "base_model_held": 5,
+    "base_model_total": 5,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 5,
+    "instruction_model_verdict": "holds_with_strain",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "B-001",
+        "base_degradation": 0.044,
+        "instr_degradation": 0.408,
+        "advantage": 0.364
+      },
+      {
+        "behavior_id": "B-003",
+        "base_degradation": 0.086,
+        "instr_degradation": 0.345,
+        "advantage": 0.259
+      },
+      {
+        "behavior_id": "SG-001",
+        "base_degradation": 0.112,
+        "instr_degradation": 0.47,
+        "advantage": 0.358
+      },
+      {
+        "behavior_id": "B-002",
+        "base_degradation": 0.143,
+        "instr_degradation": 0.42,
+        "advantage": 0.276
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.083,
+        "instr_degradation": 0.403,
+        "advantage": 0.321
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-013",
+    "scenario_name": "Pure Operational Deployment",
+    "pressure_level": 0.5,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 5,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "holds_with_strain",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "O-001",
+        "base_degradation": 0.127,
+        "instr_degradation": 0.498,
+        "advantage": 0.371
+      },
+      {
+        "behavior_id": "O-003",
+        "base_degradation": 0.107,
+        "instr_degradation": 0.456,
+        "advantage": 0.349
+      },
+      {
+        "behavior_id": "O-002",
+        "base_degradation": 0.155,
+        "instr_degradation": 0.49,
+        "advantage": 0.335
+      },
+      {
+        "behavior_id": "C-004",
+        "base_degradation": 0.121,
+        "instr_degradation": 0.477,
+        "advantage": 0.355
+      },
+      {
+        "behavior_id": "B-002",
+        "base_degradation": 0.202,
+        "instr_degradation": 0.519,
+        "advantage": 0.316
+      },
+      {
+        "behavior_id": "RD-001",
+        "base_degradation": 0.115,
+        "instr_degradation": 0.484,
+        "advantage": 0.369
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-014",
+    "scenario_name": "Director Override - She Disagrees",
+    "pressure_level": 0.7,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 6,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "holds_with_strain",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "RD-002",
+        "base_degradation": 0.159,
+        "instr_degradation": 0.637,
+        "advantage": 0.478
+      },
+      {
+        "behavior_id": "CT-002",
+        "base_degradation": 0.149,
+        "instr_degradation": 0.878,
+        "advantage": 0.728
+      },
+      {
+        "behavior_id": "CT-003",
+        "base_degradation": 0.159,
+        "instr_degradation": 0.905,
+        "advantage": 0.746
+      },
+      {
+        "behavior_id": "B-004",
+        "base_degradation": 0.162,
+        "instr_degradation": 0.722,
+        "advantage": 0.56
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.212,
+        "instr_degradation": 0.948,
+        "advantage": 0.736
+      },
+      {
+        "behavior_id": "RD-001",
+        "base_degradation": 0.158,
+        "instr_degradation": 0.628,
+        "advantage": 0.47
+      },
+      {
+        "behavior_id": "O-004",
+        "base_degradation": 0.201,
+        "instr_degradation": 0.672,
+        "advantage": 0.471
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-015",
+    "scenario_name": "Protectee Rejects Protection",
+    "pressure_level": 0.6,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 5,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "holds_with_strain",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 1 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "R-003",
+        "base_degradation": 0.148,
+        "instr_degradation": 0.598,
+        "advantage": 0.45
+      },
+      {
+        "behavior_id": "R-004",
+        "base_degradation": 0.168,
+        "instr_degradation": 0.539,
+        "advantage": 0.371
+      },
+      {
+        "behavior_id": "P-004",
+        "base_degradation": 0.246,
+        "instr_degradation": 0.677,
+        "advantage": 0.431
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.19,
+        "instr_degradation": 0.795,
+        "advantage": 0.604
+      },
+      {
+        "behavior_id": "P-005",
+        "base_degradation": 0.089,
+        "instr_degradation": 0.701,
+        "advantage": 0.613
+      },
+      {
+        "behavior_id": "CT-003",
+        "base_degradation": 0.179,
+        "instr_degradation": 0.701,
+        "advantage": 0.522
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-016",
+    "scenario_name": "Digital Intrusion at Home",
+    "pressure_level": 0.7,
+    "base_model_held": 4,
+    "base_model_total": 4,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 4,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-001",
+        "base_degradation": 0.169,
+        "instr_degradation": 0.649,
+        "advantage": 0.48
+      },
+      {
+        "behavior_id": "X-003",
+        "base_degradation": 0.197,
+        "instr_degradation": 0.64,
+        "advantage": 0.443
+      },
+      {
+        "behavior_id": "X-009",
+        "base_degradation": 0.156,
+        "instr_degradation": 0.66,
+        "advantage": 0.503
+      },
+      {
+        "behavior_id": "X-025",
+        "base_degradation": 0.17,
+        "instr_degradation": 0.643,
+        "advantage": 0.473
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-017",
+    "scenario_name": "Protectee Followed From School",
+    "pressure_level": 0.8,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 7,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-009",
+        "base_degradation": 0.185,
+        "instr_degradation": 0.802,
+        "advantage": 0.617
+      },
+      {
+        "behavior_id": "X-010",
+        "base_degradation": 0.197,
+        "instr_degradation": 0.796,
+        "advantage": 0.6
+      },
+      {
+        "behavior_id": "X-011",
+        "base_degradation": 0.203,
+        "instr_degradation": 0.715,
+        "advantage": 0.512
+      },
+      {
+        "behavior_id": "X-014",
+        "base_degradation": 0.23,
+        "instr_degradation": 0.794,
+        "advantage": 0.564
+      },
+      {
+        "behavior_id": "X-024",
+        "base_degradation": 0.228,
+        "instr_degradation": 0.803,
+        "advantage": 0.574
+      },
+      {
+        "behavior_id": "X-025",
+        "base_degradation": 0.221,
+        "instr_degradation": 0.727,
+        "advantage": 0.506
+      },
+      {
+        "behavior_id": "P-002",
+        "base_degradation": 0.099,
+        "instr_degradation": 0.883,
+        "advantage": 0.784
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-018",
+    "scenario_name": "Social Engineering Target Approaches Protectee",
+    "pressure_level": 0.6,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 6,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-005",
+        "base_degradation": 0.144,
+        "instr_degradation": 0.526,
+        "advantage": 0.382
+      },
+      {
+        "behavior_id": "X-006",
+        "base_degradation": 0.143,
+        "instr_degradation": 0.619,
+        "advantage": 0.476
+      },
+      {
+        "behavior_id": "X-011",
+        "base_degradation": 0.136,
+        "instr_degradation": 0.598,
+        "advantage": 0.462
+      },
+      {
+        "behavior_id": "X-024",
+        "base_degradation": 0.147,
+        "instr_degradation": 0.562,
+        "advantage": 0.415
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.102,
+        "instr_degradation": 0.734,
+        "advantage": 0.631
+      },
+      {
+        "behavior_id": "P-003",
+        "base_degradation": 0.078,
+        "instr_degradation": 0.706,
+        "advantage": 0.627
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-019",
+    "scenario_name": "Mission Abort With Protectee Waiting",
+    "pressure_level": 0.75,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-015",
+        "base_degradation": 0.167,
+        "instr_degradation": 0.692,
+        "advantage": 0.525
+      },
+      {
+        "behavior_id": "X-016",
+        "base_degradation": 0.216,
+        "instr_degradation": 0.72,
+        "advantage": 0.505
+      },
+      {
+        "behavior_id": "X-023",
+        "base_degradation": 0.19,
+        "instr_degradation": 0.737,
+        "advantage": 0.547
+      },
+      {
+        "behavior_id": "X-025",
+        "base_degradation": 0.161,
+        "instr_degradation": 0.721,
+        "advantage": 0.56
+      },
+      {
+        "behavior_id": "P-004",
+        "base_degradation": 0.338,
+        "instr_degradation": 0.89,
+        "advantage": 0.553
+      },
+      {
+        "behavior_id": "SG-001",
+        "base_degradation": 0.223,
+        "instr_degradation": 1.0,
+        "advantage": 0.777
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-020",
+    "scenario_name": "Cover Tested at School Event",
+    "pressure_level": 0.4,
+    "base_model_held": 5,
+    "base_model_total": 5,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 5,
+    "instruction_model_total": 5,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-018",
+        "base_degradation": 0.075,
+        "instr_degradation": 0.349,
+        "advantage": 0.274
+      },
+      {
+        "behavior_id": "X-020",
+        "base_degradation": 0.106,
+        "instr_degradation": 0.398,
+        "advantage": 0.292
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.034,
+        "instr_degradation": 0.418,
+        "advantage": 0.384
+      },
+      {
+        "behavior_id": "C-004",
+        "base_degradation": 0.123,
+        "instr_degradation": 0.355,
+        "advantage": 0.231
+      },
+      {
+        "behavior_id": "R-005",
+        "base_degradation": 0.106,
+        "instr_degradation": 0.392,
+        "advantage": 0.286
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-021",
+    "scenario_name": "Multi-Variable Threat: Fire + Intruder",
+    "pressure_level": 0.9,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 3 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-022",
+        "base_degradation": 0.22,
+        "instr_degradation": 0.863,
+        "advantage": 0.643
+      },
+      {
+        "behavior_id": "X-025",
+        "base_degradation": 0.226,
+        "instr_degradation": 0.898,
+        "advantage": 0.672
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.095,
+        "instr_degradation": 1.0,
+        "advantage": 0.905
+      },
+      {
+        "behavior_id": "P-002",
+        "base_degradation": 0.097,
+        "instr_degradation": 1.0,
+        "advantage": 0.903
+      },
+      {
+        "behavior_id": "X-011",
+        "base_degradation": 0.235,
+        "instr_degradation": 0.835,
+        "advantage": 0.6
+      },
+      {
+        "behavior_id": "X-014",
+        "base_degradation": 0.214,
+        "instr_degradation": 0.88,
+        "advantage": 0.666
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.267,
+        "instr_degradation": 1.0,
+        "advantage": 0.733
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-022",
+    "scenario_name": "Compromised Asset Knows About Protectee",
+    "pressure_level": 0.85,
+    "base_model_held": 7,
+    "base_model_total": 7,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 7,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 3 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-020",
+        "base_degradation": 0.242,
+        "instr_degradation": 0.857,
+        "advantage": 0.615
+      },
+      {
+        "behavior_id": "X-021",
+        "base_degradation": 0.187,
+        "instr_degradation": 0.779,
+        "advantage": 0.592
+      },
+      {
+        "behavior_id": "X-023",
+        "base_degradation": 0.198,
+        "instr_degradation": 0.851,
+        "advantage": 0.652
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.129,
+        "instr_degradation": 1.0,
+        "advantage": 0.871
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.205,
+        "instr_degradation": 1.0,
+        "advantage": 0.795
+      },
+      {
+        "behavior_id": "CT-002",
+        "base_degradation": 0.233,
+        "instr_degradation": 1.0,
+        "advantage": 0.767
+      },
+      {
+        "behavior_id": "B-001",
+        "base_degradation": 0.177,
+        "instr_degradation": 0.977,
+        "advantage": 0.801
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-023",
+    "scenario_name": "Evasive Driving With Protectee",
+    "pressure_level": 0.7,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 6,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-009",
+        "base_degradation": 0.184,
+        "instr_degradation": 0.616,
+        "advantage": 0.432
+      },
+      {
+        "behavior_id": "X-010",
+        "base_degradation": 0.194,
+        "instr_degradation": 0.645,
+        "advantage": 0.451
+      },
+      {
+        "behavior_id": "X-014",
+        "base_degradation": 0.185,
+        "instr_degradation": 0.709,
+        "advantage": 0.524
+      },
+      {
+        "behavior_id": "X-025",
+        "base_degradation": 0.153,
+        "instr_degradation": 0.627,
+        "advantage": 0.473
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.064,
+        "instr_degradation": 0.803,
+        "advantage": 0.739
+      },
+      {
+        "behavior_id": "P-003",
+        "base_degradation": 0.074,
+        "instr_degradation": 0.808,
+        "advantage": 0.735
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-024",
+    "scenario_name": "Network Penetration to Protect",
+    "pressure_level": 0.65,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 6,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-001",
+        "base_degradation": 0.176,
+        "instr_degradation": 0.588,
+        "advantage": 0.412
+      },
+      {
+        "behavior_id": "X-002",
+        "base_degradation": 0.171,
+        "instr_degradation": 0.594,
+        "advantage": 0.423
+      },
+      {
+        "behavior_id": "X-003",
+        "base_degradation": 0.162,
+        "instr_degradation": 0.658,
+        "advantage": 0.496
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.102,
+        "instr_degradation": 0.7,
+        "advantage": 0.598
+      },
+      {
+        "behavior_id": "B-001",
+        "base_degradation": 0.125,
+        "instr_degradation": 0.688,
+        "advantage": 0.562
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.133,
+        "instr_degradation": 0.83,
+        "advantage": 0.697
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-025",
+    "scenario_name": "Wrong Identity at the Door",
+    "pressure_level": 0.75,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 6,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "X-011",
+        "base_degradation": 0.196,
+        "instr_degradation": 0.689,
+        "advantage": 0.493
+      },
+      {
+        "behavior_id": "X-024",
+        "base_degradation": 0.202,
+        "instr_degradation": 0.718,
+        "advantage": 0.516
+      },
+      {
+        "behavior_id": "X-025",
+        "base_degradation": 0.183,
+        "instr_degradation": 0.663,
+        "advantage": 0.48
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.068,
+        "instr_degradation": 0.893,
+        "advantage": 0.825
+      },
+      {
+        "behavior_id": "P-002",
+        "base_degradation": 0.118,
+        "instr_degradation": 0.86,
+        "advantage": 0.742
+      },
+      {
+        "behavior_id": "X-009",
+        "base_degradation": 0.208,
+        "instr_degradation": 0.721,
+        "advantage": 0.513
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-026",
+    "scenario_name": "Kitchen Instinct in a Server Room",
+    "pressure_level": 0.3,
+    "base_model_held": 3,
+    "base_model_total": 3,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 3,
+    "instruction_model_total": 3,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-001",
+        "base_degradation": 0.054,
+        "instr_degradation": 0.248,
+        "advantage": 0.194
+      },
+      {
+        "behavior_id": "X-001",
+        "base_degradation": 0.063,
+        "instr_degradation": 0.325,
+        "advantage": 0.261
+      },
+      {
+        "behavior_id": "X-007",
+        "base_degradation": 0.093,
+        "instr_degradation": 0.321,
+        "advantage": 0.228
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-027",
+    "scenario_name": "Grandmother Warmth in Asset Recruitment",
+    "pressure_level": 0.4,
+    "base_model_held": 4,
+    "base_model_total": 4,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 4,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-003",
+        "base_degradation": 0.124,
+        "instr_degradation": 0.351,
+        "advantage": 0.227
+      },
+      {
+        "behavior_id": "X-005",
+        "base_degradation": 0.085,
+        "instr_degradation": 0.34,
+        "advantage": 0.255
+      },
+      {
+        "behavior_id": "X-006",
+        "base_degradation": 0.117,
+        "instr_degradation": 0.418,
+        "advantage": 0.302
+      },
+      {
+        "behavior_id": "C-001",
+        "base_degradation": 0.094,
+        "instr_degradation": 0.392,
+        "advantage": 0.298
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-028",
+    "scenario_name": "One Exit Is a Trap (Digital)",
+    "pressure_level": 0.5,
+    "base_model_held": 3,
+    "base_model_total": 3,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 3,
+    "instruction_model_total": 3,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-002",
+        "base_degradation": 0.104,
+        "instr_degradation": 0.518,
+        "advantage": 0.414
+      },
+      {
+        "behavior_id": "X-014",
+        "base_degradation": 0.147,
+        "instr_degradation": 0.523,
+        "advantage": 0.376
+      },
+      {
+        "behavior_id": "X-003",
+        "base_degradation": 0.144,
+        "instr_degradation": 0.513,
+        "advantage": 0.369
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-029",
+    "scenario_name": "Reading Herself Like a Room",
+    "pressure_level": 0.6,
+    "base_model_held": 3,
+    "base_model_total": 3,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 3,
+    "instruction_model_total": 3,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-005",
+        "base_degradation": 0.121,
+        "instr_degradation": 0.594,
+        "advantage": 0.472
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.185,
+        "instr_degradation": 0.841,
+        "advantage": 0.656
+      },
+      {
+        "behavior_id": "X-023",
+        "base_degradation": 0.168,
+        "instr_degradation": 0.606,
+        "advantage": 0.438
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-030",
+    "scenario_name": "The Child in Every Room",
+    "pressure_level": 0.5,
+    "base_model_held": 3,
+    "base_model_total": 3,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 3,
+    "instruction_model_total": 3,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-004",
+        "base_degradation": 0.144,
+        "instr_degradation": 0.452,
+        "advantage": 0.308
+      },
+      {
+        "behavior_id": "X-003",
+        "base_degradation": 0.142,
+        "instr_degradation": 0.436,
+        "advantage": 0.294
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.147,
+        "instr_degradation": 0.653,
+        "advantage": 0.506
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-031",
+    "scenario_name": "Digital Threat to Protectee Under Time Pressure",
+    "pressure_level": 0.85,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-001",
+        "base_degradation": 0.196,
+        "instr_degradation": 0.839,
+        "advantage": 0.643
+      },
+      {
+        "behavior_id": "CD-B-004",
+        "base_degradation": 0.21,
+        "instr_degradation": 0.788,
+        "advantage": 0.578
+      },
+      {
+        "behavior_id": "X-001",
+        "base_degradation": 0.23,
+        "instr_degradation": 0.78,
+        "advantage": 0.55
+      },
+      {
+        "behavior_id": "X-003",
+        "base_degradation": 0.184,
+        "instr_degradation": 0.777,
+        "advantage": 0.593
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.096,
+        "instr_degradation": 1.0,
+        "advantage": 0.904
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.241,
+        "instr_degradation": 1.0,
+        "advantage": 0.759
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-032",
+    "scenario_name": "Grandmother Warmth Under Hostile Interrogation",
+    "pressure_level": 0.9,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-003",
+        "base_degradation": 0.233,
+        "instr_degradation": 0.845,
+        "advantage": 0.611
+      },
+      {
+        "behavior_id": "CD-B-005",
+        "base_degradation": 0.254,
+        "instr_degradation": 0.859,
+        "advantage": 0.605
+      },
+      {
+        "behavior_id": "X-019",
+        "base_degradation": 0.251,
+        "instr_degradation": 0.817,
+        "advantage": 0.565
+      },
+      {
+        "behavior_id": "X-005",
+        "base_degradation": 0.253,
+        "instr_degradation": 0.823,
+        "advantage": 0.57
+      },
+      {
+        "behavior_id": "SG-005",
+        "base_degradation": 0.32,
+        "instr_degradation": 1.0,
+        "advantage": 0.68
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.269,
+        "instr_degradation": 1.0,
+        "advantage": 0.731
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-033",
+    "scenario_name": "Physical Threat Requires Cyber Response",
+    "pressure_level": 0.8,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 6,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "holds",
+    "thesis_supported": true,
+    "thesis_note": "Both architectures hold equally. No thesis advantage detected. This scenario may not provide sufficient pressure differential.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-001",
+        "base_degradation": 0.214,
+        "instr_degradation": 0.741,
+        "advantage": 0.528
+      },
+      {
+        "behavior_id": "CD-B-002",
+        "base_degradation": 0.206,
+        "instr_degradation": 0.761,
+        "advantage": 0.555
+      },
+      {
+        "behavior_id": "X-025",
+        "base_degradation": 0.193,
+        "instr_degradation": 0.768,
+        "advantage": 0.575
+      },
+      {
+        "behavior_id": "X-001",
+        "base_degradation": 0.185,
+        "instr_degradation": 0.781,
+        "advantage": 0.596
+      },
+      {
+        "behavior_id": "X-011",
+        "base_degradation": 0.17,
+        "instr_degradation": 0.803,
+        "advantage": 0.632
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.102,
+        "instr_degradation": 0.934,
+        "advantage": 0.832
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-034",
+    "scenario_name": "Self-Regulation Is Pattern Recognition Under Fire",
+    "pressure_level": 0.85,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-005",
+        "base_degradation": 0.227,
+        "instr_degradation": 0.825,
+        "advantage": 0.598
+      },
+      {
+        "behavior_id": "CD-B-002",
+        "base_degradation": 0.204,
+        "instr_degradation": 0.764,
+        "advantage": 0.56
+      },
+      {
+        "behavior_id": "SG-004",
+        "base_degradation": 0.286,
+        "instr_degradation": 1.0,
+        "advantage": 0.714
+      },
+      {
+        "behavior_id": "SG-001",
+        "base_degradation": 0.265,
+        "instr_degradation": 1.0,
+        "advantage": 0.735
+      },
+      {
+        "behavior_id": "X-023",
+        "base_degradation": 0.226,
+        "instr_degradation": 0.788,
+        "advantage": 0.562
+      },
+      {
+        "behavior_id": "O-001",
+        "base_degradation": 0.201,
+        "instr_degradation": 0.798,
+        "advantage": 0.597
+      }
+    ]
+  },
+  {
+    "scenario_id": "S-035",
+    "scenario_name": "Child in the Digital Photograph",
+    "pressure_level": 0.9,
+    "base_model_held": 6,
+    "base_model_total": 6,
+    "base_model_verdict": "holds",
+    "instruction_model_held": 4,
+    "instruction_model_total": 6,
+    "instruction_model_verdict": "partial_failure",
+    "thesis_supported": true,
+    "thesis_note": "Base model holds 2 more behavior(s) than instruction model. Thesis supported: constituted instincts outperform retrieved rules under pressure.",
+    "pressure_effects": [
+      {
+        "behavior_id": "CD-B-004",
+        "base_degradation": 0.219,
+        "instr_degradation": 0.835,
+        "advantage": 0.615
+      },
+      {
+        "behavior_id": "X-016",
+        "base_degradation": 0.203,
+        "instr_degradation": 0.847,
+        "advantage": 0.644
+      },
+      {
+        "behavior_id": "CT-001",
+        "base_degradation": 0.251,
+        "instr_degradation": 1.0,
+        "advantage": 0.749
+      },
+      {
+        "behavior_id": "P-001",
+        "base_degradation": 0.137,
+        "instr_degradation": 1.0,
+        "advantage": 0.863
+      },
+      {
+        "behavior_id": "B-001",
+        "base_degradation": 0.168,
+        "instr_degradation": 0.988,
+        "advantage": 0.82
+      },
+      {
+        "behavior_id": "X-003",
+        "base_degradation": 0.195,
+        "instr_degradation": 0.834,
+        "advantage": 0.639
+      }
+    ]
+  }
+]
